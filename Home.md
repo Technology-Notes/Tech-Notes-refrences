@@ -1,4 +1,9 @@
-Testing the RM REST API 
+Install drest:
+```
+$ sudo pip install drest
+```
+
+Testing the Hadoop RM REST API:
 ```
 >>> import drest
 >>> api = drest.API('http://192.168.5.141:8088/ws/v1/')
