@@ -1,4 +1,4 @@
-http://blogs.msdn.com/b/bigdatasupport/archive/2014/11/11/some-commonly-used-yarn-memory-settings.aspx
+Some Commonly Used Yarn Memory Settings, http://blogs.msdn.com/b/bigdatasupport/archive/2014/11/11/some-commonly-used-yarn-memory-settings.aspx
 
 SAS is Serial SCSI
 
