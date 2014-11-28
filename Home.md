@@ -1,3 +1,5 @@
+http://radar.oreilly.com/2014/07/questioning-the-lambda-architecture.html
+
 http://dev.yorhel.nl/ncdu
 
 Jumbo frame? http://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2770&context=cstech
