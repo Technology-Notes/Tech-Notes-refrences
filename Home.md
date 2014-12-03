@@ -1,3 +1,5 @@
+http://www.rossenstoyanchev.org/write/prog/eclipse/eclipse3.html
+
 http://radar.oreilly.com/2014/07/questioning-the-lambda-architecture.html
 
 http://dev.yorhel.nl/ncdu
