@@ -1,3 +1,5 @@
+Hadoop and DNS http://www.sujee.net/tech/articles/hadoop/hadoop-dns/
+
 Jump to Java https://wikidocs.net/book/31
 
 http://www.rossenstoyanchev.org/write/prog/eclipse/eclipse3.html
