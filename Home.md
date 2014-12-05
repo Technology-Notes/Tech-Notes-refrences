@@ -1,3 +1,5 @@
+Questioning the Lambda Architecture http://radar.oreilly.com/2014/07/questioning-the-lambda-architecture.html
+
 Hadoop and DNS http://www.sujee.net/tech/articles/hadoop/hadoop-dns/
 
 Jump to Java https://wikidocs.net/book/31
