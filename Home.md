@@ -1,3 +1,7 @@
+Gobblin, http://engineering.linkedin.com/data-ingestion/gobblin-big-data-ease
+
+Impala, http://pandis.net/resources/cidr15impala.pdf
+
 Questioning the Lambda Architecture http://radar.oreilly.com/2014/07/questioning-the-lambda-architecture.html
 
 Hadoop and DNS http://www.sujee.net/tech/articles/hadoop/hadoop-dns/
