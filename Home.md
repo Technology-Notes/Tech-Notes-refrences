@@ -1,3 +1,5 @@
+http://blog.cloudera.com/blog/2014/12/the-impala-cookbook/
+
 http://post.oreilly.com/rd/9z1z5amji7g1ql74s1vl2e6nhgqpjkt5h7k00df55jg
 
 http://blog.cloudera.com/blog/2014/11/flafka-apache-flume-meets-apache-kafka-for-event-processing/?imm_mid=0c884c&cmp=em-strata-na-na-newsltr_20141210
