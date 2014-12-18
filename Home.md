@@ -1,3 +1,5 @@
+https://www.xplenty.com/blog/2014/11/5-hadoop-security-projects/
+
 http://blog.cloudera.com/blog/2014/12/the-impala-cookbook/
 
 http://post.oreilly.com/rd/9z1z5amji7g1ql74s1vl2e6nhgqpjkt5h7k00df55jg
