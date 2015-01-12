@@ -1,3 +1,5 @@
+http://www.slideshare.net/amarsri/apache-lens-at-hadoop-meetup
+
 https://www.xplenty.com/blog/2014/11/5-hadoop-security-projects/
 
 http://blog.cloudera.com/blog/2014/12/the-impala-cookbook/
