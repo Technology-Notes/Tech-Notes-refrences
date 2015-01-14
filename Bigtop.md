@@ -1,5 +1,6 @@
 ```
 git clone https://github.com/youngwookim/bigtop.git
+cd  bigtop
 git remote add apache https://github.com/apache/bigtop.git
 
 ```
