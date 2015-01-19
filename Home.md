@@ -1,3 +1,5 @@
+http://www.ebaytechblog.com/2015/01/12/hdfs-storage-efficiency-using-tiered-storage/#.VLzCMOqsVHY
+
 http://www.slideshare.net/amarsri/apache-lens-at-hadoop-meetup
 
 https://www.xplenty.com/blog/2014/11/5-hadoop-security-projects/
