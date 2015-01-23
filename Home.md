@@ -1,3 +1,5 @@
+http://www.principledtechnologies.com/Red%20Hat/Hadoop_OpenJDK_0414.pdf
+
 http://blog.cloudera.com/blog/2015/01/how-to-deploy-apache-hadoop-clusters-like-a-boss/
 
 http://www.ebaytechblog.com/2015/01/12/hdfs-storage-efficiency-using-tiered-storage/#.VLzCMOqsVHY
