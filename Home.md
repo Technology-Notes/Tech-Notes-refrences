@@ -1,3 +1,5 @@
+http://www.slideshare.net/esammer/from-source-to-solution-building-a-system-for-eventoriented-data
+
 http://hortonworks.com/blog/apache-hbase-high-availability-next-level/
 
 https://www.backblaze.com/blog/best-hard-drive/
