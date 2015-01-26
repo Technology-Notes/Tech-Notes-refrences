@@ -1,3 +1,5 @@
+http://hortonworks.com/blog/apache-hbase-high-availability-next-level/
+
 https://www.backblaze.com/blog/best-hard-drive/
 
 http://www.principledtechnologies.com/Red%20Hat/Hadoop_OpenJDK_0414.pdf
