@@ -1,3 +1,5 @@
+http://www.slideshare.net/saintya/building-hadoop-based-big-data-environment-pub?related=1
+
 http://www.slideshare.net/saintya/getting-involved-in-world-class-software-engineering-tips-and-tricks-to-join-apache-open-source-community-pub?next_slideshow=1
 
 http://www.slideshare.net/esammer/from-source-to-solution-building-a-system-for-eventoriented-data
