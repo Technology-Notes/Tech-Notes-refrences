@@ -1,3 +1,5 @@
+http://blog.2ndquadrant.com/install_multiple_postgresql_servers_redhat_linux/
+
 https://issues.apache.org/jira/browse/HIVE-8376
 
 http://www.slideshare.net/saintya/building-hadoop-based-big-data-environment-pub?related=1
