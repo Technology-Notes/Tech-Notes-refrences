@@ -1,3 +1,5 @@
+http://www.quora.com/What-are-pros-and-cons-of-PostgreSQL-and-MySQL
+
 http://blog.2ndquadrant.com/install_multiple_postgresql_servers_redhat_linux/
 
 https://issues.apache.org/jira/browse/HIVE-8376
