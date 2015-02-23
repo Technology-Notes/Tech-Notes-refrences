@@ -1,3 +1,5 @@
+http://blog.cloudera.com/blog/2014/05/apache-spark-resource-management-and-yarn-app-models/
+
 http://www.quora.com/What-are-pros-and-cons-of-PostgreSQL-and-MySQL
 
 http://blog.2ndquadrant.com/install_multiple_postgresql_servers_redhat_linux/
