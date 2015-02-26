@@ -1,4 +1,4 @@
-https://fedorahosted.org/endoculator/
+http://files.meetup.com/18367329/Apache%20Phoenix%20at%20Salesforce%20Platform%20Monitoring.pdf
 
 http://sourceforge.net/projects/sernafree/
 
