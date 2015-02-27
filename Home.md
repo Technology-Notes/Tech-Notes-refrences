@@ -1,3 +1,5 @@
+http://www.hammerlab.org/2015/02/27/monitoring-spark-with-graphite-and-grafana/
+
 http://files.meetup.com/18367329/Apache%20Phoenix%20at%20Salesforce%20Platform%20Monitoring.pdf
 
 http://sourceforge.net/projects/sernafree/
