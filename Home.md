@@ -1,3 +1,5 @@
+https://speakerdeck.com/vcnc/deiteo-bunseogeul-wihan-scala
+
 http://prof.ict.ac.cn/BigDataBench/
 
 https://github.com/alanshaw/markdown-pdf
