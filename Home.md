@@ -1,3 +1,5 @@
+http://blog.cloudera.com/blog/2014/10/new-in-cdh-5-2-impala-authentication-with-ldap-and-kerberos/
+
 https://speakerdeck.com/vcnc/deiteo-bunseogeul-wihan-scala
 
 http://prof.ict.ac.cn/BigDataBench/
