@@ -1,3 +1,5 @@
+http://blog.pivotal.io/pivotal/p-o-v/open-data-platform-initiative-putting-an-end-to-faux-pen-source-apache-hadoop-distributions
+
 http://blog.cloudera.com/blog/2014/10/new-in-cdh-5-2-impala-authentication-with-ldap-and-kerberos/
 
 https://speakerdeck.com/vcnc/deiteo-bunseogeul-wihan-scala
