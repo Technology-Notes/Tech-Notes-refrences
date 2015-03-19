@@ -1,3 +1,5 @@
+http://blog.cloudera.com/blog/2014/06/how-to-create-an-intellij-idea-project-for-apache-hadoop/
+
 http://www.slideshare.net/sbaltagi/spark-or-hadoop-is-it-an-eitheror-proposition-by-slim-baltagi
 
 http://blog.pivotal.io/pivotal/p-o-v/open-data-platform-initiative-putting-an-end-to-faux-pen-source-apache-hadoop-distributions
