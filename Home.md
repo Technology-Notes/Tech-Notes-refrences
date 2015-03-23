@@ -1,3 +1,5 @@
+https://gist.github.com/bakyeono/868a6278360e1c4f503c
+
 http://blog.cloudera.com/blog/2014/06/how-to-create-an-intellij-idea-project-for-apache-hadoop/
 
 http://www.slideshare.net/sbaltagi/spark-or-hadoop-is-it-an-eitheror-proposition-by-slim-baltagi
