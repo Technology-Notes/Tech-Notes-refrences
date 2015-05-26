@@ -1,3 +1,5 @@
+http://blog.embian.com/19
+
 https://www.altiscale.com/hadoop-blog/spark-on-hadoop/
 
 http://blog.mikiobraun.de/2014/06/future-big-data-flink-stratosphere.html
