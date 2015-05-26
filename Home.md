@@ -1,3 +1,5 @@
+https://www.altiscale.com/hadoop-blog/spark-on-hadoop/
+
 http://blog.mikiobraun.de/2014/06/future-big-data-flink-stratosphere.html
 
 http://www.slideshare.net/lhofhansl/h-base-tuninghbasecon2015ok
