@@ -1,3 +1,5 @@
+https://spark-summit.org/wp-content/uploads/2013/10/Wendell-Spark-Performance.pdf
+
 http://blog.embian.com/19
 
 https://www.altiscale.com/hadoop-blog/spark-on-hadoop/
