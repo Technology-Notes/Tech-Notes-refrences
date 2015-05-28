@@ -1,3 +1,5 @@
+HDP Packaging http://ko.hortonworks.com/blog/standards-based-packaging-to-support-rolling-upgrades-in-hdp/
+
 https://spark-summit.org/wp-content/uploads/2013/10/Wendell-Spark-Performance.pdf
 
 http://blog.embian.com/19
