@@ -1,3 +1,5 @@
+http://radar.oreilly.com/2014/07/questioning-the-lambda-architecture.html
+
 http://blog.confluent.io/2015/02/25/stream-data-platform-1/
 
 http://stackoverflow.com/questions/28082581/what-is-the-differences-between-apache-spark-and-apache-flink
