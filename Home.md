@@ -1,3 +1,5 @@
+http://blog.cloudera.com/blog/2015/06/architectural-patterns-for-near-real-time-data-processing-with-apache-hadoop/
+
 http://radar.oreilly.com/2014/07/questioning-the-lambda-architecture.html
 
 http://blog.confluent.io/2015/02/25/stream-data-platform-1/
