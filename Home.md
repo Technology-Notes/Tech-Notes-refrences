@@ -1,3 +1,5 @@
+http://www.slideshare.net/ChrisNauroth/hadoop-operations2015hadoopsummitsanjosev5
+
 http://www.dbms2.com/2015/06/08/teradata-will-support-presto/
 
 http://hortonworks.com/blog/new-in-hdp-2-3-enterprise-grade-hdfs-data-at-rest-encryption/
