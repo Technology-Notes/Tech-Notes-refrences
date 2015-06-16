@@ -1,3 +1,4 @@
+http://www.slideshare.net/technmsg/improving-hadoop-performancevialinux
 http://www.slideshare.net/ChrisNauroth/hadoop-operations2015hadoopsummitsanjosev5
 
 http://www.dbms2.com/2015/06/08/teradata-will-support-presto/
