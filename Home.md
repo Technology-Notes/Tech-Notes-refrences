@@ -1,3 +1,5 @@
+pypi 미러 : https://github.com/openstack-infra/pypi-mirror
+
 http://blog.cliffano.com/2014/04/06/human-readable-ansible-playbook-log-output-using-callback-plugin/
 
 http://www.slideshare.net/technmsg/improving-hadoop-performancevialinux
