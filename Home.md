@@ -1,3 +1,5 @@
+http://www.crn.com/slide-shows/data-center/300076757/2015-big-data-100-the-emerging-big-data-vendors.htm
+
 pypi 미러 : https://github.com/openstack-infra/pypi-mirror
 
 http://blog.cliffano.com/2014/04/06/human-readable-ansible-playbook-log-output-using-callback-plugin/
