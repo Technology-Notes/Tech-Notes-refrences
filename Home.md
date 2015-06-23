@@ -1,3 +1,5 @@
+http://wiki.centos.org/AdditionalResources/Repositories/SCL
+
 RJDBC & Hive http://simpletoad.blogspot.kr/2013/12/r-connection-to-hive.html 
 
 http://www.crn.com/slide-shows/data-center/300076757/2015-big-data-100-the-emerging-big-data-vendors.htm
