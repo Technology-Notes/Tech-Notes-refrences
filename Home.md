@@ -1,3 +1,5 @@
+http://ingest.tips/2015/06/24/real-time-analytics-with-kafka-and-spark-streaming/
+
 http://wiki.centos.org/AdditionalResources/Repositories/SCL
 
 RJDBC & Hive http://simpletoad.blogspot.kr/2013/12/r-connection-to-hive.html 
