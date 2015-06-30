@@ -1,3 +1,5 @@
+http://www.sampierson.com/articles/creating-a-password-protected-yum-repository
+
 https://blogs.apache.org/phoenix/entry/spark_integration_in_apache_phoenix
 
 http://ingest.tips/2015/06/24/real-time-analytics-with-kafka-and-spark-streaming/
