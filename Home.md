@@ -1,3 +1,5 @@
+https://www.openstack.org/summit/openstack-summit-atlanta-2014/session-videos/presentation/performance-of-hadoop-on-openstack
+
 http://www.sampierson.com/articles/creating-a-password-protected-yum-repository
 
 https://blogs.apache.org/phoenix/entry/spark_integration_in_apache_phoenix
