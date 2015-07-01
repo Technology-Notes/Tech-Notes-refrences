@@ -1,3 +1,5 @@
+http://ossforum.jp/jossfiles/4%20-%20xiaomi%20-%20North-East-Asia-Open-Source.pdf
+
 https://www.openstack.org/summit/openstack-summit-atlanta-2014/session-videos/presentation/performance-of-hadoop-on-openstack
 
 http://www.sampierson.com/articles/creating-a-password-protected-yum-repository
