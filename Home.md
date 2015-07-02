@@ -1,3 +1,5 @@
+Find class from jar, http://stackoverflow.com/questions/1342894/find-a-class-somewhere-inside-dozens-of-jar-files
+
 http://unix.stackexchange.com/questions/153327/yum-rpm-dependency-tree
 
 http://ossforum.jp/jossfiles/4%20-%20xiaomi%20-%20North-East-Asia-Open-Source.pdf
