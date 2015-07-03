@@ -1,3 +1,5 @@
+http://www.qubole.com/blog/big-data/hive-best-practices/
+
 Find class from jar, http://stackoverflow.com/questions/1342894/find-a-class-somewhere-inside-dozens-of-jar-files
 
 http://unix.stackexchange.com/questions/153327/yum-rpm-dependency-tree
