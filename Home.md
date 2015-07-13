@@ -1,3 +1,5 @@
+http://www.bluedata.com/blog/2015/07/secure-multi-tenant-hadoop-architecture/
+
 http://www.qubole.com/blog/big-data/hive-best-practices/
 
 Find class from jar, http://stackoverflow.com/questions/1342894/find-a-class-somewhere-inside-dozens-of-jar-files
