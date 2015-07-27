@@ -1,3 +1,5 @@
+https://www.mapr.com/blog/best-practices-yarn-resource-management#.VbWzIHXtlBc
+
 http://blog.cloudera.com/blog/2014/05/apache-spark-resource-management-and-yarn-app-models/
 
 Shell Scripting: Expert Recipes for Linux, Bash, and More https://www.safaribooksonline.com/library/view/shell-scripting-expert/9781118166321/
