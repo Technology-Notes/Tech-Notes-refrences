@@ -1,3 +1,5 @@
+http://blog.cloudera.com/blog/2015/07/how-to-install-apache-zeppelin-on-cdh/
+
 https://www.mapr.com/blog/best-practices-yarn-resource-management#.VbWzIHXtlBc
 
 http://blog.cloudera.com/blog/2014/05/apache-spark-resource-management-and-yarn-app-models/
