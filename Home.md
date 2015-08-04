@@ -1,3 +1,5 @@
+http://www.qubole.com/blog/big-data/hive-best-practices/
+
 http://blog.cloudera.com/blog/2015/07/how-to-install-apache-zeppelin-on-cdh/
 
 https://www.mapr.com/blog/best-practices-yarn-resource-management#.VbWzIHXtlBc
