@@ -1,3 +1,6 @@
+http://skookum.com/blog/one-git-archive-script-to-rule-them-all/
+https://gist.github.com/markrickert/2919901
+
 http://www.qubole.com/blog/big-data/hive-best-practices/
 
 http://blog.cloudera.com/blog/2015/07/how-to-install-apache-zeppelin-on-cdh/
