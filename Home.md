@@ -1,3 +1,5 @@
+impala + HDP https://gist.github.com/rampage644/4e24ee5014d3d6d8bee8
+
 http://skookum.com/blog/one-git-archive-script-to-rule-them-all/
 https://gist.github.com/markrickert/2919901
 
