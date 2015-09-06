@@ -1,3 +1,5 @@
+http://hortonworks.com/blog/hdfs-acls-fine-grained-permissions-hdfs-files-hadoop/
+
 impala + HDP https://gist.github.com/rampage644/4e24ee5014d3d6d8bee8
 
 http://skookum.com/blog/one-git-archive-script-to-rule-them-all/
