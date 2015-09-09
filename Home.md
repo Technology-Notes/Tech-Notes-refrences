@@ -1,3 +1,6 @@
+TIBCO RV Listener:
+https://gist.github.com/dennysfredericci/60b8c37191975135ed25
+
 http://hortonworks.com/blog/hdfs-acls-fine-grained-permissions-hdfs-files-hadoop/
 
 impala + HDP https://gist.github.com/rampage644/4e24ee5014d3d6d8bee8
