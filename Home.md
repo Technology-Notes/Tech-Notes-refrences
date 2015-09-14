@@ -1,3 +1,5 @@
+http://blog.cloudera.com/blog/2015/01/how-to-deploy-apache-hadoop-clusters-like-a-boss/
+
 TIBCO RV Listener:
 https://gist.github.com/dennysfredericci/60b8c37191975135ed25
 http://tomboxfan.iteye.com/blog/656276
