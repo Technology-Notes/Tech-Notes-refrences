@@ -1,3 +1,5 @@
+https://github.com/jlevy/the-art-of-command-line
+
 http://blog.cloudera.com/blog/2015/01/how-to-deploy-apache-hadoop-clusters-like-a-boss/
 
 TIBCO RV Listener:
