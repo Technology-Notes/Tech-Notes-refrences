@@ -1,3 +1,5 @@
+http://www.theplatform.net/2015/09/02/opening-the-door-for-wider-hadoop-storage-strategies/
+
 https://github.com/jlevy/the-art-of-command-line
 
 http://blog.cloudera.com/blog/2015/01/how-to-deploy-apache-hadoop-clusters-like-a-boss/
