@@ -1,3 +1,5 @@
+ApacheCon 2015 bigdata http://events.linuxfoundation.org/events/apache-big-data-europe
+
 Kafka in a nutshell http://sookocheff.com/post/kafka/kafka-in-a-nutshell/
 
 http://www.theplatform.net/2015/09/02/opening-the-door-for-wider-hadoop-storage-strategies/
