@@ -1,4 +1,6 @@
 ApacheCon 2015 bigdata http://events.linuxfoundation.org/events/apache-big-data-europe
+http://events.linuxfoundation.org/sites/events/files/slides/hadoopoflebbe.pdf
+https://github.com/oflebbe/inst
 
 Kafka in a nutshell http://sookocheff.com/post/kafka/kafka-in-a-nutshell/
 
