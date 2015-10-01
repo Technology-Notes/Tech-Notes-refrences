@@ -1,3 +1,5 @@
+Kafka in a nutshell http://sookocheff.com/post/kafka/kafka-in-a-nutshell/
+
 http://www.theplatform.net/2015/09/02/opening-the-door-for-wider-hadoop-storage-strategies/
 
 https://github.com/jlevy/the-art-of-command-line
