@@ -1,3 +1,5 @@
+Oraoop is interaged as a part of Sqoop 1.4.5 so there is no need download and place the jars. What is needed to enable oraoop is to add –direct option in the sqoop command and this could enable oraoop to work with sqoop.
+
 ApacheCon 2015 bigdata http://events.linuxfoundation.org/events/apache-big-data-europe
 http://events.linuxfoundation.org/sites/events/files/slides/hadoopoflebbe.pdf
 https://github.com/oflebbe/inst
