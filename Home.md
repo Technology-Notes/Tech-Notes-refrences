@@ -1,4 +1,5 @@
 http://stackoverflow.com/questions/9655181/how-to-convert-a-byte-array-to-a-hex-string-in-java
+https://hadoopist.wordpress.com/2015/01/05/how-to-import-blob-clob-columns-to-hive-via-sqoop/
 
 Oraoop is interaged as a part of Sqoop 1.4.5 so there is no need download and place the jars. What is needed to enable oraoop is to add –direct option in the sqoop command and this could enable oraoop to work with sqoop.
 
