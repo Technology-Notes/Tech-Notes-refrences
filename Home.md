@@ -1,3 +1,5 @@
+MacOSX JAVA_HOME https://gist.github.com/tachesimazzoca/09b981a1c5150fdb5634
+
 http://stackoverflow.com/questions/9655181/how-to-convert-a-byte-array-to-a-hex-string-in-java
 https://hadoopist.wordpress.com/2015/01/05/how-to-import-blob-clob-columns-to-hive-via-sqoop/
 
