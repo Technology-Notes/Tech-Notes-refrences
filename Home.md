@@ -1,3 +1,5 @@
+Presto http://labs.gree.jp/blog/2014/12/12838/
+
 MacOSX JAVA_HOME https://gist.github.com/tachesimazzoca/09b981a1c5150fdb5634
 
 http://stackoverflow.com/questions/9655181/how-to-convert-a-byte-array-to-a-hex-string-in-java
