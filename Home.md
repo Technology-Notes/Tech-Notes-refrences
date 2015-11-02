@@ -1,4 +1,6 @@
 Presto http://labs.gree.jp/blog/2014/12/12838/
+https://github.com/fortitudetec/presto-plugins
+
 
 MacOSX JAVA_HOME https://gist.github.com/tachesimazzoca/09b981a1c5150fdb5634
 
