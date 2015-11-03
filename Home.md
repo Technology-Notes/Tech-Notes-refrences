@@ -2,6 +2,9 @@ Presto http://labs.gree.jp/blog/2014/12/12838/
 https://github.com/fortitudetec/presto-plugins
 https://github.com/mattyb149/pdi-presto-jdbc
 
+BP:
+http://docs.qubole.com/en/latest/user-guide/presto/best-practices.html
+
 
 MacOSX JAVA_HOME https://gist.github.com/tachesimazzoca/09b981a1c5150fdb5634
 
