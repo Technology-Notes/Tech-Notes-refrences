@@ -1,3 +1,5 @@
+https://github.com/prestodb/presto-jdbc-java6
+
 Oracle Java 6:
 http://www.oracle.com/technetwork/java/javase/downloads/java-archive-downloads-javase6-419409.html#jdk-6u45-oth-JPR
 
