@@ -1,3 +1,5 @@
+checkstyle git@github.com:airlift/codestyle.git
+
 https://github.com/prestodb/presto-jdbc-java6
 
 Oracle Java 6:
