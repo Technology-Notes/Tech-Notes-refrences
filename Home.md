@@ -1,3 +1,5 @@
+https://github.com/winterbe/java8-tutorial
+
 Presto http://labs.gree.jp/blog/2014/12/12838/
 https://github.com/fortitudetec/presto-plugins
 https://github.com/mattyb149/pdi-presto-jdbc
