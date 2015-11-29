@@ -7,6 +7,7 @@ https://github.com/mattyb149/pdi-presto-jdbc
 BP:
 http://docs.qubole.com/en/latest/user-guide/presto/best-practices.html
 
+http://www.slideshare.net/frsyuki/presto-hadoop-conference-japan-2014
 
 MacOSX JAVA_HOME https://gist.github.com/tachesimazzoca/09b981a1c5150fdb5634
 
