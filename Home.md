@@ -1,3 +1,5 @@
+https://github.com/yahoo/kafka-manager
+
 Gree: Presto, https://github.com/y-lan/presto
 
 https://github.com/winterbe/java8-tutorial
