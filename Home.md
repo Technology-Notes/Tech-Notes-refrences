@@ -1,3 +1,5 @@
+NIC bonding, http://www.cyberciti.biz/tips/linux-bond-or-team-multiple-network-interfaces-nic-into-single-interface.html
+
 https://github.com/yahoo/kafka-manager
 
 Gree: Presto, https://github.com/y-lan/presto
