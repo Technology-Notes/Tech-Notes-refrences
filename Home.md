@@ -1,3 +1,5 @@
+https://danieladeniji.wordpress.com/2013/04/30/technical-hadoop-hbase-compression-snappy/
+
 azkaban cli, https://github.com/mtth/azkaban 
 
 https://github.com/alaxli/ansible_ui
