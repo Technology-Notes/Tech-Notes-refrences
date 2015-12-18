@@ -1,3 +1,12 @@
+coordinator HA, 
+{quote}
+Search for "Service Inventory" in the group.
+
+Two specific threads that I found useful were 
+https://groups.google.com/forum/#!searchin/presto-users/service$20inventory/presto-users/guMk7IpO398/QBSNRV80MnMJ
+https://groups.google.com/forum/#!searchin/presto-users/service$20inventory/presto-users/vUirVCZqaok/lVdq7Tq_Z2oJ
+{quote}
+
 checkstyle git@github.com:airlift/codestyle.git
 
 https://github.com/prestodb/presto-jdbc-java6
