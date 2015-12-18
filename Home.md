@@ -1,3 +1,5 @@
+http://www.slideshare.net/ydn/nlessons-from-hadoop-2java8-migration-at-linkedin
+
 https://danieladeniji.wordpress.com/2013/04/30/technical-hadoop-hbase-compression-snappy/
 
 azkaban cli, https://github.com/mtth/azkaban 
