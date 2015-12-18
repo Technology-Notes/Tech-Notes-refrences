@@ -1,3 +1,33 @@
+Remote driver error: Encountered exception in sub plan [0] execution.
+	at org.apache.calcite.avatica.Helper.createException(Helper.java:49)
+	at org.apache.calcite.avatica.Helper.createException(Helper.java:41)
+	at org.apache.calcite.avatica.AvaticaStatement.executeInternal(AvaticaStatement.java:143)
+	at org.apache.calcite.avatica.AvaticaStatement.execute(AvaticaStatement.java:177)
+	at sqlline.Commands.execute(Commands.java:822)
+	at sqlline.Commands.sql(Commands.java:732)
+	at sqlline.SqlLine.dispatch(SqlLine.java:808)
+	at sqlline.SqlLine.begin(SqlLine.java:681)
+	at sqlline.SqlLine.start(SqlLine.java:398)
+	at sqlline.SqlLine.main(SqlLine.java:292)
+java.lang.RuntimeException: Encountered exception in sub plan [0] execution.
+	at org.apache.calcite.avatica.jdbc.JdbcMeta.propagate(JdbcMeta.java:651)
+	at org.apache.calcite.avatica.jdbc.JdbcMeta.prepareAndExecute(JdbcMeta.java:715)
+	at org.apache.calcite.avatica.remote.LocalService.apply(LocalService.java:179)
+	at org.apache.calcite.avatica.remote.Service$PrepareAndExecuteRequest.accept(Service.java:1049)
+	at org.apache.calcite.avatica.remote.Service$PrepareAndExecuteRequest.accept(Service.java:1023)
+	at org.apache.calcite.avatica.remote.AbstractHandler.apply(AbstractHandler.java:100)
+	at org.apache.calcite.avatica.remote.ProtobufHandler.apply(ProtobufHandler.java:38)
+	at org.apache.calcite.avatica.server.AvaticaProtobufHandler.handle(AvaticaProtobufHandler.java:63)
+	at org.eclipse.jetty.server.handler.HandlerList.handle(HandlerList.java:52)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:97)
+	at org.eclipse.jetty.server.Server.handle(Server.java:497)
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:310)
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:245)
+	at org.eclipse.jetty.io.AbstractConnection$2.run(AbstractConnection.java:540)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:635)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:555)
+	at java.lang.Thread.run(Thread.java:745)
+
 Apache Phoenix: Transforming HBase into a SQL Database, http://www.slideshare.net/Hadoop_Summit/w-145p230-ataylorv2
 Apache Phoenix: Transforming HBase into a SQL Database, http://www.slideshare.net/HBaseCon/ecosystem-session-2-49044349
 
