@@ -1,3 +1,44 @@
+-- bulk load
+15/12/21 11:47:40 INFO mapreduce.Job: Task Id : attempt_1450018293185_0952_m_000004_2, Status : FAILED
+Error: java.lang.RuntimeException: java.lang.RuntimeException: org.apache.phoenix.schema.TableNotFoundException: ERROR 1012 (42M03): Table undefined. tableName=Q_INL_CHMBR_HISTORY
+	at org.apache.phoenix.mapreduce.FormatToKeyValueMapper.map(FormatToKeyValueMapper.java:170)
+	at org.apache.phoenix.mapreduce.FormatToKeyValueMapper.map(FormatToKeyValueMapper.java:61)
+	at org.apache.hadoop.mapreduce.Mapper.run(Mapper.java:145)
+	at org.apache.hadoop.mapred.MapTask.runNewMapper(MapTask.java:787)
+	at org.apache.hadoop.mapred.MapTask.run(MapTask.java:341)
+	at org.apache.hadoop.mapred.YarnChild$2.run(YarnChild.java:163)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at javax.security.auth.Subject.doAs(Subject.java:415)
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1671)
+	at org.apache.hadoop.mapred.YarnChild.main(YarnChild.java:158)
+Caused by: java.lang.RuntimeException: org.apache.phoenix.schema.TableNotFoundException: ERROR 1012 (42M03): Table undefined. tableName=Q_INL_CHMBR_HISTORY
+	at com.google.common.base.Throwables.propagate(Throwables.java:156)
+	at org.apache.phoenix.mapreduce.FormatToKeyValueMapper$MapperUpsertListener.errorOnRecord(FormatToKeyValueMapper.java:246)
+	at org.apache.phoenix.util.csv.CsvUpsertExecutor.execute(CsvUpsertExecutor.java:92)
+	at org.apache.phoenix.util.csv.CsvUpsertExecutor.execute(CsvUpsertExecutor.java:44)
+	at org.apache.phoenix.util.UpsertExecutor.execute(UpsertExecutor.java:133)
+	at org.apache.phoenix.mapreduce.FormatToKeyValueMapper.map(FormatToKeyValueMapper.java:147)
+	... 9 more
+Caused by: org.apache.phoenix.schema.TableNotFoundException: ERROR 1012 (42M03): Table undefined. tableName=Q_INL_CHMBR_HISTORY
+	at org.apache.phoenix.compile.FromCompiler$BaseColumnResolver.createTableRef(FromCompiler.java:436)
+	at org.apache.phoenix.compile.FromCompiler$SingleTableColumnResolver.<init>(FromCompiler.java:285)
+	at org.apache.phoenix.compile.FromCompiler.getResolverForMutation(FromCompiler.java:249)
+	at org.apache.phoenix.compile.UpsertCompiler.compile(UpsertCompiler.java:289)
+	at org.apache.phoenix.jdbc.PhoenixStatement$ExecutableUpsertStatement.compilePlan(PhoenixStatement.java:578)
+	at org.apache.phoenix.jdbc.PhoenixStatement$ExecutableUpsertStatement.compilePlan(PhoenixStatement.java:566)
+	at org.apache.phoenix.jdbc.PhoenixStatement$2.call(PhoenixStatement.java:331)
+	at org.apache.phoenix.jdbc.PhoenixStatement$2.call(PhoenixStatement.java:326)
+	at org.apache.phoenix.call.CallRunner.run(CallRunner.java:53)
+	at org.apache.phoenix.jdbc.PhoenixStatement.executeMutation(PhoenixStatement.java:324)
+	at org.apache.phoenix.jdbc.PhoenixStatement.execute(PhoenixStatement.java:245)
+	at org.apache.phoenix.jdbc.PhoenixPreparedStatement.execute(PhoenixPreparedStatement.java:172)
+	at org.apache.phoenix.jdbc.PhoenixPreparedStatement.execute(PhoenixPreparedStatement.java:177)
+	at org.apache.phoenix.util.csv.CsvUpsertExecutor.execute(CsvUpsertExecutor.java:84)
+	... 12 more
+
+HADOOP_CLASSPATH=/usr/lib/hbase/hbase-protocol.jar:/etc/hbase/conf/ hadoop jar /usr/lib/phoenix/phoenix-client.jar org.apache.phoenix.mapreduce.CsvBulkLoadTool  ${HADOOP_MR_RUNTIME_OPTS}  --schema HYNIX  --table Q_INL_CHMBR_HISTORY  --input /user/hive/warehouse/fdc.db/i_q_inl_chmbr_history/id=20151218000000/*  -d $'\001'
+
+-- join
 Remote driver error: Encountered exception in sub plan [0] execution.
 	at org.apache.calcite.avatica.Helper.createException(Helper.java:49)
 	at org.apache.calcite.avatica.Helper.createException(Helper.java:41)
