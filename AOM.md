@@ -23,6 +23,18 @@ Kernel
 
 ## Databases
 ### MySQL
+```
+# yum install -y mysql-server mysql-connector-java
+# service mysqld start 
+# chkconfig --levels 235 mysqld on
+# mysql_secure_installation
+```
+Edit /etc/my.cnf
+```
+[mysqld]
+character-set-server = utf8
+collation-server = utf8_general_ci
+```
 
 
 ## Etc
