@@ -1,3 +1,29 @@
+https://github.com/facebook/presto/issues/2060
+
+com.facebook.presto.operator.PageTooLargeException: Remote page is too large
+
+at com.facebook.presto.operator.HttpPageBufferClient.rewriteException(HttpPageBufferClient.java:465)
+
+at com.facebook.presto.operator.HttpPageBufferClient.access$1400(HttpPageBufferClient.java:79)
+
+at com.facebook.presto.operator.HttpPageBufferClient$1.onFailure(HttpPageBufferClient.java:346)
+
+at com.google.common.util.concurrent.Futures$6.run(Futures.java:1310)
+
+at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+
+at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+
+at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+
+at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+
+at java.lang.Thread.run(Thread.java:745)
+
 coordinator HA, 
 {quote}
 Search for "Service Inventory" in the group.
