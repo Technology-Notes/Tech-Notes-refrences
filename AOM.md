@@ -1,24 +1,25 @@
-# Network
+# Bootstrap
+## Network
 IP
 
 hostname
 
 NIC bonding
 
-# Disk
+## Disk
 1. Make partitions
 
 2. 
 
-# Linux
+## Linux
 THP (CentOS 6)
 
 Kernel
 
-# Services
-## iptables & ip6tables
+## Services
+### iptables & ip6tables
 
 ## NTP
 
-# Etc
-## Port forwarding
+## Etc
+### Port forwarding
