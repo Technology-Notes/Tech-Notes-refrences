@@ -52,6 +52,27 @@ CurrentHost:11521 -> forward -> 9.9.9.9:1521
 # Advanced configurations
 
 # Operations
+## Start, Stop and Restart services
+### Zookeeper
+```
+# service zookeeper-server [start|stop|restart]
+```
+### Hadoop
+```
+# service hadoop-hdfs-namenode [start|stop|restart]
+# service hadoop-hdfs-datanode [start|stop|restart]
+# service hadoop-hdfs-zkfc [start|stop|restart]
+# service hadoop-hdfs-journalnode [start|stop|restart]
+
+# service hadoop-yarn-resourcemanager [start|stop|restart]
+# service hadoop-yarn-nodemanager [start|stop|restart]
+# service hadoop-mapreduce-historyserver [start|stop|restart]
+```
+### Hive
+```
+# service hiveserver2 start|stop|restart
+# service hive-metastore start|stop|restart
+```
 
 # Backup
 ## MySQL
