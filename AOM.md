@@ -19,7 +19,17 @@ Kernel
 ## Services
 ### iptables & ip6tables
 
-## NTP
+### NTP
+
+## Databases
+### MySQL
+
 
 ## Etc
 ### Port forwarding
+
+# Install packages
+
+# Advanced configurations
+
+# Operations
