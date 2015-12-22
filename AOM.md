@@ -92,3 +92,8 @@ http://sourceforge.net/projects/automysqlbackup
 3. Edit crontab
 0 4 * * * /usr/local/bin/automysqlbackup /etc/automysqlbackup/myserver.conf > /var/log/mysqlbackup.log
 ```
+
+## Configurations
+```
+tar cvfz ~/confs.tar.gz /etc/hadoop/conf /etc/hbase/conf /etc/presto /etc/zookeeper/conf
+```
