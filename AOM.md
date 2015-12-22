@@ -48,6 +48,14 @@ collation-server = utf8_general_ci
 CurrentHost:11521 -> forward -> 9.9.9.9:1521
 
 # Install packages
+## Hadoop
+## HBase
+## Phoenix
+## Hive
+## Presto
+## Etc
+- Oracle JDBC Driver
+
 
 # Advanced configurations
 
