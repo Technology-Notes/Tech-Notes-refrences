@@ -9,7 +9,9 @@ NIC bonding
 ## Disk
 1. Make partitions
 
-2. 
+2. fstab
+
+3. Tune ext4 fs
 
 ## Linux
 THP (CentOS 6)
