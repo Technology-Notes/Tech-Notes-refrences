@@ -28,6 +28,7 @@ Kernel
 # service mysqld start 
 # chkconfig --levels 235 mysqld on
 # mysql_secure_installation
+# mysqladmin -u root password NEWPASSWORD
 ```
 Edit /etc/my.cnf
 ```
@@ -39,6 +40,10 @@ collation-server = utf8_general_ci
 
 ## Etc
 ### Port forwarding
+```
+# nohub socat TCP-LISTEN:11521,fork TCP:9.9.9.9:1521
+```
+CurrentHost:11521 -> forward -> 9.9.9.9:1521
 
 # Install packages
 
