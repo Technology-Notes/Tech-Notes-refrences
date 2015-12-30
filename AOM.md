@@ -14,6 +14,12 @@ NIC bonding
 3. Tune ext4 fs
 
 ## Linux
+Repository
+1. CentOS 6.7
+2. EPEL
+3. CentOS SCL, https://wiki.centos.org/AdditionalResources/Repositories/SCL
+
+
 THP (CentOS 6)
 
 Kernel
