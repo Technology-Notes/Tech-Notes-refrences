@@ -6,6 +6,8 @@ hostname
 
 NIC bonding
 
+/etc/hosts
+
 ## Disk
 1. Make partitions
 
