@@ -1,0 +1,1 @@
+http://hortonworks.com/blog/simplifying-user-logs-management-and-access-in-yarn/
