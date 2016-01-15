@@ -8,6 +8,13 @@ HBase read HA
 - http://hortonworks.com/blog/apache-hbase-high-availability-next-level/
 - https://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.3.2/bk_hadoop-ha/content/ch_HA-HBase.html
 - https://issues.apache.org/jira/browse/PHOENIX-1683
+```
+A user can turn on TIMELINE read by two ways:(assuming the related table has enabled region replica already)
+1) Through JDBC url string: Append ";Consistency=TIMELINE" into URL string
+2) alter session set Consistency = 'timeline'
+Using alter session set Consistency = 'strong' to turn timeline read off.
+When a user uses explain command, "TIMELINE-CONSISTENCY" will be in the plan output when timeline consistency is enabled.
+```
 
 -- bulk load
 15/12/21 11:47:40 INFO mapreduce.Job: Task Id : attempt_1450018293185_0952_m_000004_2, Status : FAILED
