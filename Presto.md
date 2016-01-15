@@ -56,3 +56,6 @@ To configure Java 6 toolchain in ~/.m2/toolchains.xml put
         </configuration>
     </toolchain>
 </toolchains>
+
+
+http://blogs.teradata.com/data-points/love-presto/
