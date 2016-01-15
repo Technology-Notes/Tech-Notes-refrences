@@ -15,6 +15,8 @@ A user can turn on TIMELINE read by two ways:(assuming the related table has ena
 Using alter session set Consistency = 'strong' to turn timeline read off.
 When a user uses explain command, "TIMELINE-CONSISTENCY" will be in the plan output when timeline consistency is enabled.
 ```
+- http://hortonworks.com/blog/introduction-to-hbase-mean-time-to-recover-mttr/
+
 
 -- bulk load
 15/12/21 11:47:40 INFO mapreduce.Job: Task Id : attempt_1450018293185_0952_m_000004_2, Status : FAILED
