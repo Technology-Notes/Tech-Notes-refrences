@@ -7,6 +7,7 @@ HBase GC tuning:
 HBase read HA
 - http://hortonworks.com/blog/apache-hbase-high-availability-next-level/
 - https://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.3.2/bk_hadoop-ha/content/ch_HA-HBase.html
+- https://issues.apache.org/jira/browse/PHOENIX-1683
 
 -- bulk load
 15/12/21 11:47:40 INFO mapreduce.Job: Task Id : attempt_1450018293185_0952_m_000004_2, Status : FAILED
