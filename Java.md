@@ -3,3 +3,4 @@ Requested array size exceeds VM limit:
 
 http://docs.oracle.com/javase/8/docs/technotes/tools/unix/java.html#BABCBGHF
 -XX:+AggressiveOpts
+-XX:+AggressiveHeap
