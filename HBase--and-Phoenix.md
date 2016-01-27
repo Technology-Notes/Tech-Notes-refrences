@@ -1,3 +1,5 @@
+Schema design https://groups.google.com/forum/#!topic/phoenix-hbase-user/obMwuBwF76M
+
 HBase GC tuning:
 - http://blog.cloudera.com/blog/2014/12/tuning-java-garbage-collection-for-hbase/
 - https://software.intel.com/en-us/blogs/2014/06/18/part-1-tuning-java-garbage-collection-for-hbase
