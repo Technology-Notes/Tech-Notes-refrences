@@ -1,4 +1,6 @@
-Schema design https://groups.google.com/forum/#!topic/phoenix-hbase-user/obMwuBwF76M
+Schema design:
+- http://www.slideshare.net/cloudera/5-h-base-schemahbasecon2012
+- https://groups.google.com/forum/#!topic/phoenix-hbase-user/obMwuBwF76M
 
 HBase GC tuning:
 - http://blog.cloudera.com/blog/2014/12/tuning-java-garbage-collection-for-hbase/
