@@ -1,3 +1,7 @@
+Phoenix bulkload & fs permission:
+- https://issues.apache.org/jira/browse/PHOENIX-976
+- -Dfs.permissions.umask-mode=000
+
 Schema design:
 - http://www.slideshare.net/cloudera/5-h-base-schemahbasecon2012
 - https://groups.google.com/forum/#!topic/phoenix-hbase-user/obMwuBwF76M
