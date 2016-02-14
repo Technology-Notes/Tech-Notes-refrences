@@ -1,5 +1,7 @@
 http://www.slideshare.net/lifeinnovator/effective-java-57604973
 
+https://www.slideshare.net/mobile/saintya/how-bigtop-leveraged-docker-for-build-automation-and-one-click-hadoop-provisioning-apache-bigdata2015eu-pub
+
 http://www.slideshare.net/ydn/nlessons-from-hadoop-2java8-migration-at-linkedin
 
 https://danieladeniji.wordpress.com/2013/04/30/technical-hadoop-hbase-compression-snappy/
