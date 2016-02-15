@@ -83,6 +83,7 @@ Phoenix bulkload & fs permission:
 Schema design:
 - http://www.slideshare.net/cloudera/5-h-base-schemahbasecon2012
 - https://groups.google.com/forum/#!topic/phoenix-hbase-user/obMwuBwF76M
+- http://0b4af6cdc2f0c5998459-c0245c5c937c5dedcca3f1764ecc9b2f.r43.cf2.rackcdn.com/9353-login1210_khurana.pdf
 
 HBase GC tuning:
 - http://blog.cloudera.com/blog/2014/12/tuning-java-garbage-collection-for-hbase/
