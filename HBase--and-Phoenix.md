@@ -1,3 +1,12 @@
+Bulkload 4.7.0 rc
+```
+16/02/22 18:03:45 INFO mapreduce.Job: Task Id : attempt_1456035298774_0066_m_000002_0, Status : FAILED
+AttemptID:attempt_1456035298774_0066_m_000002_0 Timed out after 600 secs
+
+16/02/22 18:05:14 INFO mapreduce.LoadIncrementalHFiles: HFile at hdfs://fcbig/tmp/74da7ab1-a8ac-4ba8-9d43-0b70f08f8602/HYNIX.BIG_TRACE_SUMMARY/0/_tmp/_tmp/f305427aa8304cf98355bf01c1edb5ce.top no longer fits inside a single region. Splitting...
+
+```
+
 Hadoop 2.7.1, HBase 1.1.3 & Phoenix 4.7.0
 ```
 # /usr/lib/phoenix/bin/sqlline.py a1,m1,m2
