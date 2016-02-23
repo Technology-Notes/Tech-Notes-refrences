@@ -85,6 +85,110 @@ Caused by: java.lang.NoSuchMethodError: org.apache.hadoop.net.unix.DomainSocketW
 	... 32 more
 
 ```
+```
+# ls -alsR .
+.:
+합계 131044
+    4 drwxr-xr-x  4 root root     4096 2016-02-19 13:51 .
+    4 dr-xr-xr-x 47 root root     4096 2016-02-01 15:00 ..
+    4 drwxr-xr-x  2 root root     4096 2016-02-21 14:04 bin
+    4 drwxr-xr-x  2 root root     4096 2016-02-19 13:51 lib
+88880 -rw-r--r--  1 root root 91012325 2016-02-19 11:54 phoenix-4.7.0-HBase-1.1-client.jar
+24672 -rw-r--r--  1 root root 25263350 2016-02-19 11:56 phoenix-4.7.0-HBase-1.1-server.jar
+ 4056 -rw-r--r--  1 root root  4152939 2016-02-19 11:45 phoenix-4.7.0-HBase-1.1-thin-client.jar
+    0 lrwxrwxrwx  1 root root       34 2016-02-19 13:51 phoenix-client.jar -> phoenix-4.7.0-HBase-1.1-client.jar
+ 1632 -rw-r--r--  1 root root  1669198 2016-02-19 11:43 phoenix-core-4.7.0-HBase-1.1-tests.jar
+ 3540 -rw-r--r--  1 root root  3624168 2016-02-19 11:44 phoenix-core-4.7.0-HBase-1.1.jar
+   24 -rw-r--r--  1 root root    23229 2016-02-19 11:44 phoenix-flume-4.7.0-HBase-1.1-tests.jar
+   36 -rw-r--r--  1 root root    34801 2016-02-19 11:44 phoenix-flume-4.7.0-HBase-1.1.jar
+ 4376 -rw-r--r--  1 root root  4478643 2016-02-19 11:46 phoenix-pherf-4.7.0-HBase-1.1-minimal.jar
+   60 -rw-r--r--  1 root root    57683 2016-02-19 11:45 phoenix-pherf-4.7.0-HBase-1.1-tests.jar
+  156 -rw-r--r--  1 root root   159110 2016-02-19 11:46 phoenix-pherf-4.7.0-HBase-1.1.jar
+   44 -rw-r--r--  1 root root    43098 2016-02-19 11:44 phoenix-pig-4.7.0-HBase-1.1-tests.jar
+   44 -rw-r--r--  1 root root    41539 2016-02-19 11:44 phoenix-pig-4.7.0-HBase-1.1.jar
+ 3280 -rw-r--r--  1 root root  3357690 2016-02-19 11:45 phoenix-server-4.7.0-HBase-1.1-runnable.jar
+   20 -rw-r--r--  1 root root    19698 2016-02-19 11:45 phoenix-server-4.7.0-HBase-1.1-tests.jar
+   20 -rw-r--r--  1 root root    18338 2016-02-19 11:45 phoenix-server-4.7.0-HBase-1.1.jar
+    8 -rw-r--r--  1 root root     7136 2016-02-19 11:45 phoenix-server-client-4.7.0-HBase-1.1-tests.jar
+   12 -rw-r--r--  1 root root    10448 2016-02-19 11:45 phoenix-server-client-4.7.0-HBase-1.1.jar
+    0 lrwxrwxrwx  1 root root       34 2016-02-19 13:51 phoenix-server.jar -> phoenix-4.7.0-HBase-1.1-server.jar
+   92 -rw-r--r--  1 root root    91288 2016-02-19 11:46 phoenix-spark-4.7.0-HBase-1.1-tests.jar
+   76 -rw-r--r--  1 root root    76885 2016-02-19 11:46 phoenix-spark-4.7.0-HBase-1.1.jar
+    0 lrwxrwxrwx  1 root root       39 2016-02-19 13:51 phoenix-thin-client.jar -> phoenix-4.7.0-HBase-1.1-thin-client.jar
+
+./bin:
+합계 152
+ 4 drwxr-xr-x 2 root root  4096 2016-02-21 14:04 .
+ 4 drwxr-xr-x 4 root root  4096 2016-02-19 13:51 ..
+32 -rwxr-xr-x 1 root root 32440 2016-02-19 05:16 daemon.py
+ 4 -rwxr-xr-x 1 root root  1881 2016-02-19 05:16 end2endTest.py
+ 4 -rw-r--r-- 1 root root   840 2016-02-19 05:16 hadoop-metrics2-hbase.properties
+ 4 -rw-r--r-- 1 root root  2271 2016-02-19 05:16 hadoop-metrics2-phoenix.properties
+12 -rw-r--r-- 1 root root  9570 2016-02-21 13:43 hbase-site.xml
+ 4 -rw-r--r-- 1 root root  2584 2016-02-19 05:16 log4j.properties
+ 8 -rwxr-xr-x 1 root root  5128 2016-02-19 05:16 performance.py
+ 4 -rwxr-xr-x 1 root root  3249 2016-02-19 05:16 pherf-cluster.py
+ 4 -rwxr-xr-x 1 root root  2729 2016-02-19 05:16 pherf-standalone.py
+12 -rwxr-xr-x 1 root root  9354 2016-02-19 05:16 phoenix_utils.py
+ 8 -rw-r--r-- 1 root root  5938 2016-02-21 11:42 phoenix_utils.pyc
+ 4 -rwxr-xr-x 1 root root  2739 2016-02-19 05:16 psql.py
+ 8 -rwxr-xr-x 1 root root  7866 2016-02-19 05:16 queryserver.py
+ 4 -rw-r--r-- 1 root root  1820 2016-02-19 05:16 readme.txt
+ 8 -rwxr-xr-x 1 root root  5369 2016-02-19 05:16 sqlline-thin.py
+ 4 -rwxr-xr-x 1 root root  3918 2016-02-19 05:16 sqlline.py
+ 8 -rw-r--r-- 1 root root  6896 2016-02-19 05:16 tephra
+ 4 -rwxr-xr-x 1 root root  2037 2016-02-19 05:16 tephra-env.sh
+ 8 -rwxr-xr-x 1 root root  6884 2016-02-19 05:16 traceserver.py
+
+./lib:
+합계 10568
+   4 drwxr-xr-x 2 root root    4096 2016-02-19 13:51 .
+   4 drwxr-xr-x 4 root root    4096 2016-02-19 13:51 ..
+1120 -rw-r--r-- 1 root root 1144670 2016-02-15 15:35 antlr-3.5.jar
+3232 -rw-r--r-- 1 root root 3306158 2016-02-15 15:47 calcite-avatica-1.6.0.jar
+  48 -rw-r--r-- 1 root root   46577 2016-02-15 15:48 calcite-avatica-server-1.6.0.jar
+ 256 -rw-r--r-- 1 root root  259600 2016-02-15 15:33 commons-codec-1.7.jar
+ 292 -rw-r--r-- 1 root root  298829 2016-02-15 15:34 commons-configuration-1.6.jar
+  36 -rw-r--r-- 1 root root   34827 2016-02-15 15:33 commons-csv-1.0.jar
+ 184 -rw-r--r-- 1 root root  185140 2016-02-15 15:34 commons-io-2.4.jar
+ 280 -rw-r--r-- 1 root root  284220 2016-02-15 15:34 commons-lang-2.6.jar
+  64 -rw-r--r-- 1 root root   61829 2016-02-15 15:33 commons-logging-1.2.jar
+1848 -rw-r--r-- 1 root root 1891110 2016-02-15 15:35 guava-13.0.1.jar
+   0 lrwxrwxrwx 1 root root      38 2016-02-19 13:51 hadoop-annotations.jar -> /usr/lib/hadoop/hadoop-annotations.jar
+   0 lrwxrwxrwx 1 root root      31 2016-02-19 13:51 hadoop-auth.jar -> /usr/lib/hadoop/hadoop-auth.jar
+   0 lrwxrwxrwx 1 root root      33 2016-02-19 13:51 hadoop-common.jar -> /usr/lib/hadoop/hadoop-common.jar
+   0 lrwxrwxrwx 1 root root      36 2016-02-19 13:51 hadoop-hdfs.jar -> /usr/lib/hadoop-hdfs/hadoop-hdfs.jar
+   0 lrwxrwxrwx 1 root root      57 2016-02-19 13:51 hadoop-mapreduce-client-app.jar -> /usr/lib/hadoop-mapreduce/hadoop-mapreduce-client-app.jar
+   4 lrwxrwxrwx 1 root root      60 2016-02-19 13:51 hadoop-mapreduce-client-common.jar -> /usr/lib/hadoop-mapreduce/hadoop-mapreduce-client-common.jar
+   0 lrwxrwxrwx 1 root root      58 2016-02-19 13:51 hadoop-mapreduce-client-core.jar -> /usr/lib/hadoop-mapreduce/hadoop-mapreduce-client-core.jar
+   4 lrwxrwxrwx 1 root root      63 2016-02-19 13:51 hadoop-mapreduce-client-jobclient.jar -> /usr/lib/hadoop-mapreduce/hadoop-mapreduce-client-jobclient.jar
+   4 lrwxrwxrwx 1 root root      61 2016-02-19 13:51 hadoop-mapreduce-client-shuffle.jar -> /usr/lib/hadoop-mapreduce/hadoop-mapreduce-client-shuffle.jar
+   0 lrwxrwxrwx 1 root root      40 2016-02-19 13:51 hadoop-yarn-api.jar -> /usr/lib/hadoop-yarn/hadoop-yarn-api.jar
+   0 lrwxrwxrwx 1 root root      43 2016-02-19 13:51 hadoop-yarn-client.jar -> /usr/lib/hadoop-yarn/hadoop-yarn-client.jar
+   0 lrwxrwxrwx 1 root root      43 2016-02-19 13:51 hadoop-yarn-common.jar -> /usr/lib/hadoop-yarn/hadoop-yarn-common.jar
+   0 lrwxrwxrwx 1 root root      50 2016-02-19 13:51 hadoop-yarn-server-common.jar -> /usr/lib/hadoop-yarn/hadoop-yarn-server-common.jar
+   0 lrwxrwxrwx 1 root root      36 2016-02-19 13:51 hbase-annotations.jar -> /usr/lib/hbase/hbase-annotations.jar
+   0 lrwxrwxrwx 1 root root      31 2016-02-19 13:51 hbase-client.jar -> /usr/lib/hbase/hbase-client.jar
+   0 lrwxrwxrwx 1 root root      31 2016-02-19 13:51 hbase-common.jar -> /usr/lib/hbase/hbase-common.jar
+   0 lrwxrwxrwx 1 root root      38 2016-02-19 13:51 hbase-hadoop-compat.jar -> /usr/lib/hbase/hbase-hadoop-compat.jar
+   0 lrwxrwxrwx 1 root root      27 2016-02-19 13:51 hbase-it.jar -> /usr/lib/hbase/hbase-it.jar
+   0 lrwxrwxrwx 1 root root      36 2016-02-01 17:17 hbase-prefix-tree.jar -> /usr/lib/hbase/hbase-prefix-tree.jar
+   0 lrwxrwxrwx 1 root root      34 2016-02-19 13:51 hbase-procedure.jar -> /usr/lib/hbase/hbase-procedure.jar
+   0 lrwxrwxrwx 1 root root      33 2016-02-19 13:51 hbase-protocol.jar -> /usr/lib/hbase/hbase-protocol.jar
+   0 lrwxrwxrwx 1 root root      31 2016-02-19 13:51 hbase-server.jar -> /usr/lib/hbase/hbase-server.jar
+ 224 -rw-r--r-- 1 root root  228286 2016-02-15 15:35 jackson-core-asl-1.9.2.jar
+ 748 -rw-r--r-- 1 root root  765648 2016-02-15 15:35 jackson-mapper-asl-1.9.2.jar
+ 480 -rw-r--r-- 1 root root  489884 2016-02-15 15:33 log4j-1.2.17.jar
+1172 -rw-r--r-- 1 root root 1199572 2016-02-15 15:35 netty-3.6.2.Final.jar
+ 524 -rw-r--r-- 1 root root  533455 2016-02-15 15:35 protobuf-java-2.5.0.jar
+  28 -rw-r--r-- 1 root root   25962 2016-02-15 15:35 slf4j-api-1.6.4.jar
+  12 -rw-r--r-- 1 root root    8866 2016-02-15 15:37 slf4j-log4j12-1.7.10.jar
+   0 lrwxrwxrwx 1 root root      32 2016-02-19 13:51 zookeeper.jar -> /usr/lib/zookeeper/zookeeper.jar
+[root@fcbiga1 phoenix]# hbase classpath
+/etc/hbase/conf:/usr/java/jdk1.7.0_79/lib/tools.jar:/usr/lib/hbase:/usr/lib/hbase/lib/activation-1.1.jar:/usr/lib/hbase/lib/aopalliance-1.0.jar:/usr/lib/hbase/lib/apacheds-i18n-2.0.0-M15.jar:/usr/lib/hbase/lib/apacheds-kerberos-codec-2.0.0-M15.jar:/usr/lib/hbase/lib/api-asn1-api-1.0.0-M20.jar:/usr/lib/hbase/lib/api-util-1.0.0-M20.jar:/usr/lib/hbase/lib/asm-3.1.jar:/usr/lib/hbase/lib/avro-1.7.4.jar:/usr/lib/hbase/lib/commons-beanutils-1.7.0.jar:/usr/lib/hbase/lib/commons-beanutils-core-1.8.0.jar:/usr/lib/hbase/lib/commons-cli-1.2.jar:/usr/lib/hbase/lib/commons-codec-1.9.jar:/usr/lib/hbase/lib/commons-collections-3.2.2.jar:/usr/lib/hbase/lib/commons-compress-1.4.1.jar:/usr/lib/hbase/lib/commons-configuration-1.6.jar:/usr/lib/hbase/lib/commons-daemon-1.0.13.jar:/usr/lib/hbase/lib/commons-digester-1.8.jar:/usr/lib/hbase/lib/commons-el-1.0.jar:/usr/lib/hbase/lib/commons-httpclient-3.1.jar:/usr/lib/hbase/lib/commons-io-2.4.jar:/usr/lib/hbase/lib/commons-lang-2.6.jar:/usr/lib/hbase/lib/commons-logging-1.2.jar:/usr/lib/hbase/lib/commons-math-2.2.jar:/usr/lib/hbase/lib/commons-math3-3.1.1.jar:/usr/lib/hbase/lib/commons-net-3.1.jar:/usr/lib/hbase/lib/curator-client-2.7.1.jar:/usr/lib/hbase/lib/curator-framework-2.7.1.jar:/usr/lib/hbase/lib/curator-recipes-2.7.1.jar:/usr/lib/hbase/lib/disruptor-3.3.0.jar:/usr/lib/hbase/lib/findbugs-annotations-1.3.9-1.jar:/usr/lib/hbase/lib/gson-2.2.4.jar:/usr/lib/hbase/lib/guava-12.0.1.jar:/usr/lib/hbase/lib/guice-3.0.jar:/usr/lib/hbase/lib/guice-servlet-3.0.jar:/usr/lib/hbase/lib/hadoop-annotations.jar:/usr/lib/hbase/lib/hadoop-auth.jar:/usr/lib/hbase/lib/hadoop-common.jar:/usr/lib/hbase/lib/hadoop-hdfs.jar:/usr/lib/hbase/lib/hadoop-mapreduce-client-app.jar:/usr/lib/hbase/lib/hadoop-mapreduce-client-common.jar:/usr/lib/hbase/lib/hadoop-mapreduce-client-core.jar:/usr/lib/hbase/lib/hadoop-mapreduce-client-jobclient.jar:/usr/lib/hbase/lib/hadoop-mapreduce-client-shuffle.jar:/usr/lib/hbase/lib/hadoop-yarn-api.jar:/usr/lib/hbase/lib/hadoop-yarn-client.jar:/usr/lib/hbase/lib/hadoop-yarn-common.jar:/usr/lib/hbase/lib/hadoop-yarn-server-common.jar:/usr/lib/hbase/lib/hbase-annotations-1.1.3-tests.jar:/usr/lib/hbase/lib/hbase-annotations-1.1.3.jar:/usr/lib/hbase/lib/hbase-client-1.1.3.jar:/usr/lib/hbase/lib/hbase-common-1.1.3-tests.jar:/usr/lib/hbase/lib/hbase-common-1.1.3.jar:/usr/lib/hbase/lib/hbase-examples-1.1.3.jar:/usr/lib/hbase/lib/hbase-hadoop-compat-1.1.3.jar:/usr/lib/hbase/lib/hbase-hadoop2-compat-1.1.3.jar:/usr/lib/hbase/lib/hbase-it-1.1.3-tests.jar:/usr/lib/hbase/lib/hbase-it-1.1.3.jar:/usr/lib/hbase/lib/hbase-prefix-tree-1.1.3.jar:/usr/lib/hbase/lib/hbase-procedure-1.1.3.jar:/usr/lib/hbase/lib/hbase-protocol-1.1.3.jar:/usr/lib/hbase/lib/hbase-resource-bundle-1.1.3.jar:/usr/lib/hbase/lib/hbase-rest-1.1.3.jar:/usr/lib/hbase/lib/hbase-server-1.1.3-tests.jar:/usr/lib/hbase/lib/hbase-server-1.1.3.jar:/usr/lib/hbase/lib/hbase-shell-1.1.3.jar:/usr/lib/hbase/lib/hbase-thrift-1.1.3.jar:/usr/lib/hbase/lib/htrace-core-3.1.0-incubating.jar:/usr/lib/hbase/lib/httpclient-4.2.5.jar:/usr/lib/hbase/lib/httpcore-4.1.3.jar:/usr/lib/hbase/lib/jackson-core-asl-1.9.13.jar:/usr/lib/hbase/lib/jackson-jaxrs-1.9.13.jar:/usr/lib/hbase/lib/jackson-mapper-asl-1.9.13.jar:/usr/lib/hbase/lib/jackson-xc-1.9.13.jar:/usr/lib/hbase/lib/jamon-runtime-2.3.1.jar:/usr/lib/hbase/lib/jasper-compiler-5.5.23.jar:/usr/lib/hbase/lib/jasper-runtime-5.5.23.jar:/usr/lib/hbase/lib/java-xmlbuilder-0.4.jar:/usr/lib/hbase/lib/javax.inject-1.jar:/usr/lib/hbase/lib/jaxb-api-2.2.2.jar:/usr/lib/hbase/lib/jaxb-impl-2.2.3-1.jar:/usr/lib/hbase/lib/jcodings-1.0.8.jar:/usr/lib/hbase/lib/jersey-client-1.9.jar:/usr/lib/hbase/lib/jersey-core-1.9.jar:/usr/lib/hbase/lib/jersey-guice-1.9.jar:/usr/lib/hbase/lib/jersey-json-1.9.jar:/usr/lib/hbase/lib/jersey-server-1.9.jar:/usr/lib/hbase/lib/jets3t-0.9.0.jar:/usr/lib/hbase/lib/jettison-1.3.3.jar:/usr/lib/hbase/lib/jetty-6.1.26.jar:/usr/lib/hbase/lib/jetty-sslengine-6.1.26.jar:/usr/lib/hbase/lib/jetty-util-6.1.26.jar:/usr/lib/hbase/lib/joni-2.1.2.jar:/usr/lib/hbase/lib/jruby-complete-1.6.8.jar:/usr/lib/hbase/lib/jsch-0.1.42.jar:/usr/lib/hbase/lib/jsp-2.1-6.1.14.jar:/usr/lib/hbase/lib/jsp-api-2.1-6.1.14.jar:/usr/lib/hbase/lib/jsr305-1.3.9.jar:/usr/lib/hbase/lib/junit-4.12.jar:/usr/lib/hbase/lib/leveldbjni-all-1.8.jar:/usr/lib/hbase/lib/libthrift-0.9.0.jar:/usr/lib/hbase/lib/log4j-1.2.17.jar:/usr/lib/hbase/lib/metrics-core-2.2.0.jar:/usr/lib/hbase/lib/netty-3.2.4.Final.jar:/usr/lib/hbase/lib/netty-all-4.0.23.Final.jar:/usr/lib/hbase/lib/paranamer-2.3.jar:/usr/lib/hbase/lib/phoenix-server.jar:/usr/lib/hbase/lib/protobuf-java-2.5.0.jar:/usr/lib/hbase/lib/servlet-api-2.5-6.1.14.jar:/usr/lib/hbase/lib/servlet-api-2.5.jar:/usr/lib/hbase/lib/slf4j-api-1.6.1.jar:/usr/lib/hbase/lib/snappy-java-1.0.4.1.jar:/usr/lib/hbase/lib/spymemcached-2.11.6.jar:/usr/lib/hbase/lib/xercesImpl-2.9.1.jar:/usr/lib/hbase/lib/xml-apis-1.3.04.jar:/usr/lib/hbase/lib/xmlenc-0.52.jar:/usr/lib/hbase/lib/xz-1.0.jar:/usr/lib/hbase/lib/zookeeper.jar:/etc/hadoop/conf:/usr/lib/hadoop/lib/*:/usr/lib/hadoop/.//*:/usr/lib/hadoop-hdfs/./:/usr/lib/hadoop-hdfs/lib/*:/usr/lib/hadoop-hdfs/.//*:/usr/lib/hadoop-yarn/lib/*:/usr/lib/hadoop-yarn/.//*:/usr/lib/hadoop-mapreduce/lib/*:/usr/lib/hadoop-mapreduce/.//*::/usr/lib/tez/*:/usr/lib/tez/lib/*:/etc/tez/conf:/etc/hadoop/conf:/*:/lib/*:/usr/lib/zookeeper/*:/usr/lib/zookeeper/lib/*:
+
+```
+
 Phoenix bulkload & fs permission:
 - https://issues.apache.org/jira/browse/PHOENIX-976
 - -Dfs.permissions.umask-mode=000
