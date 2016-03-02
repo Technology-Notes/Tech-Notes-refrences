@@ -18,6 +18,28 @@ java.lang.RuntimeException: org.apache.phoenix.schema.TableNotFoundException: ER
 	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:635)
 	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:555)
 	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.apache.phoenix.schema.TableNotFoundException: ERROR 1012 (42M03): Table undefined. tableName=SYSTEM.STATS
+	at org.apache.phoenix.compile.FromCompiler$BaseColumnResolver.createTableRef(FromCompiler.java:414)
+	at org.apache.phoenix.compile.FromCompiler$SingleTableColumnResolver.<init>(FromCompiler.java:285)
+	at org.apache.phoenix.compile.FromCompiler.getResolverForQuery(FromCompiler.java:186)
+	at org.apache.phoenix.jdbc.PhoenixStatement$ExecutableSelectStatement.compilePlan(PhoenixStatement.java:392)
+	at org.apache.phoenix.jdbc.PhoenixStatement$ExecutableSelectStatement.compilePlan(PhoenixStatement.java:373)
+	at org.apache.phoenix.jdbc.PhoenixStatement$1.call(PhoenixStatement.java:266)
+	at org.apache.phoenix.jdbc.PhoenixStatement$1.call(PhoenixStatement.java:261)
+	at org.apache.phoenix.call.CallRunner.run(CallRunner.java:53)
+	at org.apache.phoenix.jdbc.PhoenixStatement.executeQuery(PhoenixStatement.java:260)
+	at org.apache.phoenix.jdbc.PhoenixStatement.executeQuery(PhoenixStatement.java:1313)
+	at org.apache.phoenix.schema.MetaDataClient.updateStatisticsInternal(MetaDataClient.java:919)
+	at org.apache.phoenix.schema.MetaDataClient.updateStatistics(MetaDataClient.java:857)
+	at org.apache.phoenix.jdbc.PhoenixStatement$ExecutableUpdateStatisticsStatement$1.execute(PhoenixStatement.java:994)
+	at org.apache.phoenix.jdbc.PhoenixStatement$2.call(PhoenixStatement.java:338)
+	at org.apache.phoenix.jdbc.PhoenixStatement$2.call(PhoenixStatement.java:326)
+	at org.apache.phoenix.call.CallRunner.run(CallRunner.java:53)
+	at org.apache.phoenix.jdbc.PhoenixStatement.executeMutation(PhoenixStatement.java:325)
+	at org.apache.phoenix.jdbc.PhoenixStatement.execute(PhoenixStatement.java:1345)
+	at org.apache.calcite.avatica.jdbc.JdbcMeta.prepareAndExecute(JdbcMeta.java:695)
+	... 15 more
+
 ```
 RC2 -> RC3
 ```
