@@ -1,3 +1,49 @@
+RC2 -> RC3
+```
+java.lang.RuntimeException: java.sql.SQLException: ERROR 1015 (42J04): Cannot add column to table when the last PK column is of type VARBINARY or ARRAY. columnName=GUIDE_POST_KEY
+	at org.apache.calcite.avatica.jdbc.JdbcMeta.openConnection(JdbcMeta.java:585)
+	at org.apache.calcite.avatica.remote.LocalService.apply(LocalService.java:263)
+	at org.apache.calcite.avatica.remote.Service$OpenConnectionRequest.accept(Service.java:1642)
+	at org.apache.calcite.avatica.remote.Service$OpenConnectionRequest.accept(Service.java:1625)
+	at org.apache.calcite.avatica.remote.AbstractHandler.apply(AbstractHandler.java:102)
+	at org.apache.calcite.avatica.remote.ProtobufHandler.apply(ProtobufHandler.java:38)
+	at org.apache.calcite.avatica.server.AvaticaProtobufHandler.handle(AvaticaProtobufHandler.java:68)
+	at org.eclipse.jetty.server.handler.HandlerList.handle(HandlerList.java:52)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:97)
+	at org.eclipse.jetty.server.Server.handle(Server.java:497)
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:310)
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:245)
+	at org.eclipse.jetty.io.AbstractConnection$2.run(AbstractConnection.java:540)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:635)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:555)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.sql.SQLException: ERROR 1015 (42J04): Cannot add column to table when the last PK column is of type VARBINARY or ARRAY. columnName=GUIDE_POST_KEY
+	at org.apache.phoenix.exception.SQLExceptionCode$Factory$1.newException(SQLExceptionCode.java:422)
+	at org.apache.phoenix.exception.SQLExceptionInfo.buildException(SQLExceptionInfo.java:145)
+	at org.apache.phoenix.schema.MetaDataClient.addColumn(MetaDataClient.java:2625)
+	at org.apache.phoenix.jdbc.PhoenixStatement$ExecutableAddColumnStatement$1.execute(PhoenixStatement.java:1021)
+	at org.apache.phoenix.jdbc.PhoenixStatement$2.call(PhoenixStatement.java:338)
+	at org.apache.phoenix.jdbc.PhoenixStatement$2.call(PhoenixStatement.java:326)
+	at org.apache.phoenix.call.CallRunner.run(CallRunner.java:53)
+	at org.apache.phoenix.jdbc.PhoenixStatement.executeMutation(PhoenixStatement.java:325)
+	at org.apache.phoenix.jdbc.PhoenixStatement.executeUpdate(PhoenixStatement.java:1326)
+	at org.apache.phoenix.query.ConnectionQueryServicesImpl.addColumn(ConnectionQueryServicesImpl.java:2214)
+	at org.apache.phoenix.query.ConnectionQueryServicesImpl.addColumnsIfNotExists(ConnectionQueryServicesImpl.java:2242)
+	at org.apache.phoenix.query.ConnectionQueryServicesImpl.access$500(ConnectionQueryServicesImpl.java:211)
+	at org.apache.phoenix.query.ConnectionQueryServicesImpl$13.call(ConnectionQueryServicesImpl.java:2440)
+	at org.apache.phoenix.query.ConnectionQueryServicesImpl$13.call(ConnectionQueryServicesImpl.java:2248)
+	at org.apache.phoenix.util.PhoenixContextExecutor.call(PhoenixContextExecutor.java:78)
+	at org.apache.phoenix.query.ConnectionQueryServicesImpl.init(ConnectionQueryServicesImpl.java:2248)
+	at org.apache.phoenix.jdbc.PhoenixDriver.getConnectionQueryServices(PhoenixDriver.java:233)
+	at org.apache.phoenix.jdbc.PhoenixEmbeddedDriver.createConnection(PhoenixEmbeddedDriver.java:135)
+	at org.apache.phoenix.jdbc.PhoenixDriver.connect(PhoenixDriver.java:202)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:187)
+	at org.apache.calcite.avatica.jdbc.JdbcMeta.openConnection(JdbcMeta.java:582)
+	... 15 more
+
+
+```
 Failed task, mr syslog:
 ```
 2016-02-26 10:34:12,663 INFO [hconnection-0x1efb7582-shared--pool2-t4] org.apache.hadoop.hbase.client.RpcRetryingCaller: Call exception, tries=13, retries=35, started=213888 ms ago, cancelled=false, msg=row '' on table 'SYSTEM.CATALOG' at region=SYSTEM.CATALOG,,1453257315715.d5e9564b98cf035163a8e4270333e6cf., hostname=fcbigstg05,16020,1456038654966, seqNum=164402
