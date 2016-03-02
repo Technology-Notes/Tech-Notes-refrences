@@ -1,3 +1,24 @@
+stats
+```
+java.lang.RuntimeException: org.apache.phoenix.schema.TableNotFoundException: ERROR 1012 (42M03): Table undefined. tableName=SYSTEM.STATS
+	at org.apache.calcite.avatica.jdbc.JdbcMeta.propagate(JdbcMeta.java:651)
+	at org.apache.calcite.avatica.jdbc.JdbcMeta.prepareAndExecute(JdbcMeta.java:715)
+	at org.apache.calcite.avatica.remote.LocalService.apply(LocalService.java:186)
+	at org.apache.calcite.avatica.remote.Service$PrepareAndExecuteRequest.accept(Service.java:868)
+	at org.apache.calcite.avatica.remote.Service$PrepareAndExecuteRequest.accept(Service.java:842)
+	at org.apache.calcite.avatica.remote.AbstractHandler.apply(AbstractHandler.java:102)
+	at org.apache.calcite.avatica.remote.ProtobufHandler.apply(ProtobufHandler.java:38)
+	at org.apache.calcite.avatica.server.AvaticaProtobufHandler.handle(AvaticaProtobufHandler.java:68)
+	at org.eclipse.jetty.server.handler.HandlerList.handle(HandlerList.java:52)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:97)
+	at org.eclipse.jetty.server.Server.handle(Server.java:497)
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:310)
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:245)
+	at org.eclipse.jetty.io.AbstractConnection$2.run(AbstractConnection.java:540)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:635)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:555)
+	at java.lang.Thread.run(Thread.java:745)
+```
 RC2 -> RC3
 ```
 java.lang.RuntimeException: java.sql.SQLException: ERROR 1015 (42J04): Cannot add column to table when the last PK column is of type VARBINARY or ARRAY. columnName=GUIDE_POST_KEY
