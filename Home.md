@@ -1,3 +1,5 @@
+ibm db2 transaction isolation level http://www.ibm.com/developerworks/data/library/techarticle/dm-0509schuetz/
+
 oracle default schema http://abcdba.com/abcdbaserver11gdefaultschema
 순서 long to slice castToSlice 
 slice to utf, 
