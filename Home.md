@@ -1,5 +1,7 @@
 oracle default schema http://abcdba.com/abcdbaserver11gdefaultschema
-
+순서 long to slice castToSlice 
+slice to utf, 
+ java.sql.Date d=java.sql.Date.valueOf("2012-03-15");
 
 http://www.slideshare.net/lifeinnovator/effective-java-57604973
 
