@@ -1,3 +1,6 @@
+oracle default schema http://abcdba.com/abcdbaserver11gdefaultschema
+
+
 http://www.slideshare.net/lifeinnovator/effective-java-57604973
 
 https://www.slideshare.net/mobile/saintya/how-bigtop-leveraged-docker-for-build-automation-and-one-click-hadoop-provisioning-apache-bigdata2015eu-pub
