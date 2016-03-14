@@ -1,3 +1,10 @@
+config.properties
+```
+http-server.log.path=/var/log/presto/http-request.log
+http-server.log.max-size=67108864B
+http-server.log.max-history=5
+```
+
 Presto-elasticsearch, https://github.com/albertocsm/presto
 
 
