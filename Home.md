@@ -1,3 +1,6 @@
+git diff ref - ref
+git diff refs/tags/0.141..0.141-t > ~/tmp/1.diff
+
 ibm db2 transaction isolation level http://www.ibm.com/developerworks/data/library/techarticle/dm-0509schuetz/
 
 oracle default schema http://abcdba.com/abcdbaserver11gdefaultschema
