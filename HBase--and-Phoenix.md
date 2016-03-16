@@ -1,3 +1,5 @@
+.NET driver for Apache Phoenix and Phoenix Query Server, https://github.com/Azure/hdinsight-phoenix-sharp
+
 stats
 ```
 java.lang.RuntimeException: org.apache.phoenix.schema.TableNotFoundException: ERROR 1012 (42M03): Table undefined. tableName=SYSTEM.STATS
