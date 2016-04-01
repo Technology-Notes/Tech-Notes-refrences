@@ -1,3 +1,5 @@
+PHOENIX-2743 HivePhoenixHandler for big-big join with predicate push down
+
 Hadoop 2.7.1
 ```
 Error: ERROR 103 (08004): Unable to establish connection. (state=08004,code=103)
