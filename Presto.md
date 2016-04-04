@@ -1,3 +1,5 @@
+http://teradata.github.io/presto/docs/141t/index.html
+
 config.properties
 ```
 http-server.log.path=/var/log/presto/http-request.log
