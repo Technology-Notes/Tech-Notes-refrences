@@ -1,3 +1,5 @@
+https://community.hortonworks.com/articles/9377/deploying-the-phoenix-query-server-in-production-e.html
+
 PHOENIX-2743 HivePhoenixHandler for big-big join with predicate push down
 
 Hadoop 2.7.1
