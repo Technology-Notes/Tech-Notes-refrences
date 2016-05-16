@@ -1,6 +1,6 @@
 Export to CSV: https://groups.google.com/forum/#!msg/presto-users/kR-3YZAaNg8/5LXy4FfeT6cJ
 ```
-presto --execute "select * from foo" --output-format CSV > foo.csv
+presto --execute "select * from foo" --output-format CSV_HEADER > foo.csv
 
 Use --output-format CSV_HEADER when running the CLI. Use --help to see all the options. Unfortunately, it doesn't list all the supported output formats:
 
