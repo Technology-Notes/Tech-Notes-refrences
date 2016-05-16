@@ -136,3 +136,24 @@ $ sudo yum update presto*
 $ sudo yum update hbase*
 $ sudo yum update phoenix*
 ```
+
+```
+Packaging and Smoke tests
+​https://github.com/youngwookim/bigtop
+
+Hadoop - 2.7.1, master / 1.1
+HBase - 1.1.3, BIGTOP-2077, BIGTOP-2077-T
+Phoenix - 4.7.0-HBase-1.1, BIGTOP-2077, BIGTOP-2077-T
+Presto - 0.132, BIGTOP-1561, BIGTOP-1561-T
+Zookeeper - 3.4.6, master 
+Sqoop - 1.4.6, master 
+Kafka - 0.8.0.1, master 
+Spark - 1.5.2, master / 1.1
+Presto
+0.147-t, ​https://github.com/youngwookim/presto/tree/0.147-t
+
+Hive JDBC Driver
+Hive 1.2.1 + Dynamic Service Discovery
+
+​https://github.com/youngwookim/hive-jdbc-uber-jar/commits/1.2.1-DSD
+```
