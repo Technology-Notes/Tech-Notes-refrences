@@ -1,3 +1,5 @@
+MySQL my.cnf, https://tools.percona.com/wizard
+
 Presto @ Twitter, http://sssslide.com/www.slideshare.net/billonahill/presto-at-twitter
 
 Hive & Tez, http://pivotalhd.docs.pivotal.io/docs/performance-tuning-guide.html
