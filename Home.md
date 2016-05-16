@@ -1,3 +1,5 @@
+Hive & Tez, http://pivotalhd.docs.pivotal.io/docs/performance-tuning-guide.html
+
 Hive metastore HA, https://developer.ibm.com/hadoop/2016/04/26/bigsql-ha-configure-ha-hive-metastore-db-using-mariadb10-1/
 
 https://discuss.zendesk.com/hc/en-us/articles/201180246-IOException-Job-status-not-available-when-mapreduce-job-exits-successfully
