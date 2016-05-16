@@ -1,3 +1,5 @@
+https://discuss.zendesk.com/hc/en-us/articles/201180246-IOException-Job-status-not-available-when-mapreduce-job-exits-successfully
+
 git diff ref - ref:
 ```
 git diff refs/tags/0.141..0.141-t > ~/tmp/1.diff
