@@ -3,6 +3,7 @@ MySQL my.cnf, https://tools.percona.com/wizard
 Presto @ Twitter, http://sssslide.com/www.slideshare.net/billonahill/presto-at-twitter
 
 Hive & Tez, http://pivotalhd.docs.pivotal.io/docs/performance-tuning-guide.html
+https://developer.ibm.com/hadoop/2015/12/14/install-tez-iop-4-1/
 
 Hive metastore HA, https://developer.ibm.com/hadoop/2016/04/26/bigsql-ha-configure-ha-hive-metastore-db-using-mariadb10-1/
 
