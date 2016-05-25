@@ -1,3 +1,5 @@
+http://appsintheopen.com/posts/38-maven-config-for-cloudera-map-reduce-programs
+
 YARN Fair shceduler
 - https://discuss.zendesk.com/hc/en-us/articles/201999117-How-to-Configure-YARN-Fair-Scheduler-on-a-PHD-Cluster
 - https://amalgjose.com/tag/mapred-job-queue-name/
