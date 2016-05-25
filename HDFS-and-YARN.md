@@ -1,6 +1,7 @@
 https://github.com/tomwhite/hadoop-book/blob/master/ch08-mr-types/src/main/java/WholeFileRecordReader.java
 - WholeFileInputFormat.java
 - WholeFileRecordReader.java
+https://github.com/tomwhite/hadoop-book/tree/master/ch06-mr-dev/src/main/java/v4
 
 http://appsintheopen.com/posts/38-maven-config-for-cloudera-map-reduce-programs
 
