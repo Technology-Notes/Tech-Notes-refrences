@@ -1,3 +1,7 @@
+https://github.com/tomwhite/hadoop-book/blob/master/ch08-mr-types/src/main/java/WholeFileRecordReader.java
+- WholeFileInputFormat.java
+- WholeFileRecordReader.java
+
 http://appsintheopen.com/posts/38-maven-config-for-cloudera-map-reduce-programs
 
 YARN Fair shceduler
