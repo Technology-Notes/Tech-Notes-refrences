@@ -1,3 +1,60 @@
+```
+Error: Task org.apache.phoenix.job.JobManager$InstrumentedJobFutureTask@4dd94a58 rejected from org.apache.phoenix.job.JobManager$1@2f4919b0[Running, pool size = 128, active threads = 128, queued tasks = 4955, completed tasks = 205] (state=08000,code=101)
+
+org.apache.phoenix.exception.PhoenixIOException: Task org.apache.phoenix.job.JobManager$InstrumentedJobFutureTask@4dd94a58 rejected from org.apache.phoenix.job.JobManager$1@2f4919b0[Running, pool size = 128, active threads = 128, queued tasks = 4955, completed tasks = 205]
+
+            at org.apache.phoenix.util.ServerUtil.parseServerException(ServerUtil.java:111)
+
+            at org.apache.phoenix.iterate.BaseResultIterators.getIterators(BaseResultIterators.java:734)
+
+            at org.apache.phoenix.iterate.BaseResultIterators.getIterators(BaseResultIterators.java:638)
+
+            at org.apache.phoenix.iterate.MergeSortResultIterator.getMinHeap(MergeSortResultIterator.java:72)
+
+            at org.apache.phoenix.iterate.MergeSortResultIterator.minIterator(MergeSortResultIterator.java:93)
+
+            at org.apache.phoenix.iterate.MergeSortResultIterator.next(MergeSortResultIterator.java:58)
+
+            at org.apache.phoenix.iterate.MergeSortTopNResultIterator.next(MergeSortTopNResultIterator.java:85)
+
+            at org.apache.phoenix.jdbc.PhoenixResultSet.next(PhoenixResultSet.java:778)
+
+            at sqlline.BufferedRows.<init>(BufferedRows.java:37)
+
+            at sqlline.SqlLine.print(SqlLine.java:1650)
+
+            at sqlline.Commands.execute(Commands.java:833)
+
+            at sqlline.Commands.sql(Commands.java:732)
+
+            at sqlline.SqlLine.dispatch(SqlLine.java:808)
+
+            at sqlline.SqlLine.begin(SqlLine.java:681)
+
+            at sqlline.SqlLine.start(SqlLine.java:398)
+
+            at sqlline.SqlLine.main(SqlLine.java:292)
+
+Caused by: java.util.concurrent.RejectedExecutionException: Task org.apache.phoenix.job.JobManager$InstrumentedJobFutureTask@4dd94a58 rejected from org.apache.phoenix.job.JobManager$1@2f4919b0[Running, pool size = 128, active threads = 128, queued tasks = 4955, completed tasks = 205]
+
+            at org.apache.phoenix.job.JobManager$InstrumentedThreadPoolExecutor$1.rejectedExecution(JobManager.java:244)
+
+            at java.util.concurrent.ThreadPoolExecutor.reject(ThreadPoolExecutor.java:823)
+
+            at java.util.concurrent.ThreadPoolExecutor.execute(ThreadPoolExecutor.java:1369)
+
+            at org.apache.phoenix.job.JobManager$InstrumentedThreadPoolExecutor.execute(JobManager.java:261)
+
+            at java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:134)
+
+            at org.apache.phoenix.iterate.ParallelIterators.submitWork(ParallelIterators.java:103)
+
+            at org.apache.phoenix.iterate.BaseResultIterators.getIterators(BaseResultIterators.java:668)
+
+            ... 14 more
+
+
+```
 https://community.hortonworks.com/articles/9377/deploying-the-phoenix-query-server-in-production-e.html
 
 PHOENIX-2743 HivePhoenixHandler for big-big join with predicate push down
