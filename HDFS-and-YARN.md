@@ -1,3 +1,7 @@
+MRUnit
+- https://www.infoq.com/articles/HadoopMRUnit
+- https://mrunit.apache.org/
+
 https://github.com/tomwhite/hadoop-book/blob/master/ch08-mr-types/src/main/java/WholeFileRecordReader.java
 - WholeFileInputFormat.java
 - WholeFileRecordReader.java
