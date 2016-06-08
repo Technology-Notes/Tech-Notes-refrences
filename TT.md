@@ -4,6 +4,7 @@
 - FIXME: Who we are
 - FIXME: Powered by B
  - Google Cloud Dataproc (cf. Amazon EMR)
+ - IBM Open Platform with Apache Hadoop
 - Apache Bigtop at H
  - Why?
  - 1561, 2077, 2333, 2419, 2118, 2164, 2162, 2163, 2327, 2416, 2419
