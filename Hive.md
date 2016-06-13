@@ -1,3 +1,8 @@
+HiveServer2 Web UI:
+- http://hostname:10002
+- https://issues.apache.org/jira/browse/HIVE-12338
+- http://www.cloudera.com/documentation/enterprise/latest/topics/cm_mc_hive_webui.html
+
 Hive / Tez:
 - Hive CLI / beeline:
 ```
