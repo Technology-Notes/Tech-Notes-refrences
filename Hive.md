@@ -7,7 +7,7 @@ Hive / Tez:
 - Hive CLI / beeline:
 ```
 set hive.execution.engine=tez;
-set tez.que.name=root.default;
+set tez.queue.name=root.default;
 
 SELECT ...
 ```
