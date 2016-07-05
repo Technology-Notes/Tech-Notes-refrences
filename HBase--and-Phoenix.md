@@ -1,3 +1,6 @@
+Phoenix + HBase: An Enterprise Grade Data-Warehouse Appliance for Interactive Analytics?
+- https://www.youtube.com/watch?v=BR94YR1GP54
+
 ```
 Error: Task org.apache.phoenix.job.JobManager$InstrumentedJobFutureTask@4dd94a58 rejected from org.apache.phoenix.job.JobManager$1@2f4919b0[Running, pool size = 128, active threads = 128, queued tasks = 4955, completed tasks = 205] (state=08000,code=101)
 
