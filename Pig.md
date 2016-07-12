@@ -1,0 +1,1 @@
+Hive 2.0, https://issues.apache.org/jira/browse/PIG-4764
