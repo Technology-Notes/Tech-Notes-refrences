@@ -1,3 +1,5 @@
+https://www.datadoghq.com/blog/collecting-hadoop-metrics/
+
 https://github.com/miguel10/YARN-Memory-Calculator
 
 MRUnit
