@@ -1,3 +1,6 @@
+https://community.hortonworks.com/questions/4343/what-is-the-best-approach-for-migrating-no-data-lo.html
+
+
 # HiveServer2 Web UI
 - http://hostname:10002
 - https://issues.apache.org/jira/browse/HIVE-12338
