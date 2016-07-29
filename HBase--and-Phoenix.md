@@ -1,3 +1,16 @@
+Slides for "Five major tips to maximize performance on a 200+ SQL HBase/Phoenix cluster" are available at http://www.slideshare.net/mas4share/five-major-tips-to-maximize-performance-on-a-200-sql-hbasephoenix-cluster
+
+Here are the slides for "ACID Transactions in Phoenix" - http://www.slideshare.net/caskdata/acid-transactions-in-apache-phoenix-with-apache-tephra-incubating-by-poorna-chandra
+
+Here is the link for slides of Simplified Reads/Writes in HBase( Or "Dont be a Bytecode Jedi"): https://www.dropbox.com/s/zlj2bulozf5p28b/PhoenixCon-uvls.pptx?dl=0
+
+Column qualifier encoding in Apache Phoenix slides are available at http://www.slideshare.net/SamarthJain23/column-encoding
+
+"Phoenix and eHarmony, a better match" slides are available at 
+http://www.slideshare.net/VijaykumarVangapandu/eharmony-phoenix-con-2016
+
+"Phoenix Query Server" slides are available at http://www.slideshare.net/je2451/apache-phoenix-query-server-phoenixcon2016
+
 Phoenix + HBase: An Enterprise Grade Data-Warehouse Appliance for Interactive Analytics?
 - https://www.youtube.com/watch?v=BR94YR1GP54
 
