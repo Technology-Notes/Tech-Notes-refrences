@@ -1,6 +1,6 @@
 발표자:
 
-제목:
+제목: Leverage Apache Bigtop to build Big Data discovery solutions for (Semiconductor) Manufacturing
 
 목차:
 
