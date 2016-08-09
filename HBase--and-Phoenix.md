@@ -1,3 +1,5 @@
+https://groups.google.com/forum/#!topic/phoenix-hbase-user/D7Q_ksL49Q8
+
 Slides for "Five major tips to maximize performance on a 200+ SQL HBase/Phoenix cluster" are available at http://www.slideshare.net/mas4share/five-major-tips-to-maximize-performance-on-a-200-sql-hbasephoenix-cluster
 
 Here are the slides for "ACID Transactions in Phoenix" - http://www.slideshare.net/caskdata/acid-transactions-in-apache-phoenix-with-apache-tephra-incubating-by-poorna-chandra
