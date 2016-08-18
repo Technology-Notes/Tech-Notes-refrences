@@ -1,3 +1,38 @@
+Phoenix-Hive Integration:
+```
+-- Hive integration
+/etc/hive/conf/hive-env.sh:
+# Folder containing extra ibraries required for hive compilation/execution can be controlled by:
+export HIVE_AUX_JARS_PATH=/usr/lib/phoenix/phoenix-hive.jar
+
+-- Test
+
+-- Hive Managed
+create table test.hive_m_phoenix1 (
+scd string,
+scddesc string
+)
+STORED BY 'org.apache.phoenix.hive.PhoenixStorageHandler'
+TBLPROPERTIES (
+'phoenix.table.name'='test.hive_m_phoenix1',
+'phoenix.zookeeper.quorum'='mnode1,wnode1,wnode2',
+'phoenix.rowkeys'='scd'
+);
+
+
+-- Hive External
+create external table test.hive_e_phoenix1 (
+scd string,
+scddesc string
+)
+STORED BY 'org.apache.phoenix.hive.PhoenixStorageHandler'
+TBLPROPERTIES (
+'phoenix.table.name'='bigstats.bigstats_cd',
+'phoenix.zookeeper.quorum'='mnode1,wnode1,wnode2',
+'phoenix.rowkeys'='scd'
+);
+```
+
 https://groups.google.com/forum/#!topic/phoenix-hbase-user/D7Q_ksL49Q8
 
 Slides for "Five major tips to maximize performance on a 200+ SQL HBase/Phoenix cluster" are available at http://www.slideshare.net/mas4share/five-major-tips-to-maximize-performance-on-a-200-sql-hbasephoenix-cluster
