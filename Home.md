@@ -1,3 +1,5 @@
+https://issues.apache.org/jira/browse/FLUME-2703
+
 http://cleverowl.uk/2015/09/30/ingesting-files-with-apache-flume/
 
 MySQL my.cnf, https://tools.percona.com/wizard
