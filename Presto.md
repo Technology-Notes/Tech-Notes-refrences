@@ -1,4 +1,7 @@
-Presto + HUE
+Raptor 
+https://groups.google.com/forum/m/#!topic/presto-users/ni5yshI98K8
+
+ Presto + HUE
 - https://medium.com/@ilkkaturunen/integrating-presto-with-hue-61702b244839#.t6z8mxpdc
 
 Export to CSV: https://groups.google.com/forum/#!msg/presto-users/kR-3YZAaNg8/5LXy4FfeT6cJ
