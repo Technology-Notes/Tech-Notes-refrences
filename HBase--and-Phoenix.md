@@ -1,3 +1,5 @@
+https://www.inovex.de/blog/hbase-and-phoenix-on-azure-adventures-in-abstraction/
+
 Phoenix-Hive Integration:
 ```
 -- Hive integration
