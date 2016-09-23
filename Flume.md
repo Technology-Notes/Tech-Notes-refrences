@@ -1,0 +1,1 @@
+http://www.toadworld.com/platforms/oracle/w/wiki/11114.streaming-mysql-database-table-data-to-hdfs-with-flume
