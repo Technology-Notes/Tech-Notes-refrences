@@ -1,3 +1,5 @@
+https://www.google.co.kr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&cad=rja&uact=8&ved=0ahUKEwjL69jom-PPAhXkxlQKHVdOBH4QFghPMAg&url=http%3A%2F%2Fwww.slideshare.net%2Fvanuganti%2Fhbase-hadoop-hbaseoperationspractices&usg=AFQjCNEawwotCYMS2NvRwr25xtBRurtuNg&sig2=UBCwKeky08lH_k-74RxKlg
+
 https://www.inovex.de/blog/hbase-and-phoenix-on-azure-adventures-in-abstraction/
 
 Phoenix-Hive Integration:
