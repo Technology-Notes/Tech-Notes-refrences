@@ -1,3 +1,7 @@
+```
+HADOOP_ROOT_LOGGER=DEBUG,console hadoop fs -ls /
+```
+
 Fix 'under replicated blocks', https://community.hortonworks.com/articles/4427/fix-under-replicated-blocks-in-hdfs-manually.html
 
 https://www.datadoghq.com/blog/collecting-hadoop-metrics/
