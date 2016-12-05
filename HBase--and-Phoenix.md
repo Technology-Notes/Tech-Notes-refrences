@@ -1,3 +1,6 @@
+HBase compaction
+- https://community.hortonworks.com/articles/52616/hbase-compaction-tuning-tips.html
+
 HBase BucketCache
 - http://blog.asquareb.com/blog/2016/03/12/hbase-1-dot-0-offheap-cache-configuration/
 
