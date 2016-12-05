@@ -1,3 +1,7 @@
+Phoenix-Spark
+- https://issues.apache.org/jira/browse/PHOENIX-3311
+- PHOENIX-3333
+
 HBase compaction
 - https://community.hortonworks.com/articles/52616/hbase-compaction-tuning-tips.html
 
