@@ -1,3 +1,5 @@
+https://community.hortonworks.com/content/supportkb/49612/what-is-the-recommended-number-of-regions-per-regi.html
+
 Phoenix-Spark
 - https://issues.apache.org/jira/browse/PHOENIX-3311
 - PHOENIX-3333
