@@ -1,3 +1,5 @@
+http://www.slideshare.net/uprush/subsecondsqlonhadoopatscale
+
 https://community.hortonworks.com/content/supportkb/49612/what-is-the-recommended-number-of-regions-per-regi.html
 
 Phoenix-Spark
