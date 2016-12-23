@@ -1,5 +1,7 @@
 http://www.slideshare.net/uprush/subsecondsqlonhadoopatscale
 
+http://engineering.vcnc.co.kr/2013/04/hbase-configuration/
+
 https://community.hortonworks.com/content/supportkb/49612/what-is-the-recommended-number-of-regions-per-regi.html
 
 Phoenix-Spark
