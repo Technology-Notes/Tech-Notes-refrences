@@ -5,6 +5,7 @@ http://engineering.vcnc.co.kr/2013/04/hbase-configuration/
 https://community.hortonworks.com/content/supportkb/49612/what-is-the-recommended-number-of-regions-per-regi.html
 
 Phoenix-Spark
+- https://community.hortonworks.com/questions/1942/spark-to-phoenix.html
 - https://issues.apache.org/jira/browse/PHOENIX-3311
 - PHOENIX-3333
 
@@ -74,135 +75,12 @@ http://www.slideshare.net/VijaykumarVangapandu/eharmony-phoenix-con-2016
 Phoenix + HBase: An Enterprise Grade Data-Warehouse Appliance for Interactive Analytics?
 - https://www.youtube.com/watch?v=BR94YR1GP54
 
-```
-Error: Task org.apache.phoenix.job.JobManager$InstrumentedJobFutureTask@4dd94a58 rejected from org.apache.phoenix.job.JobManager$1@2f4919b0[Running, pool size = 128, active threads = 128, queued tasks = 4955, completed tasks = 205] (state=08000,code=101)
 
-org.apache.phoenix.exception.PhoenixIOException: Task org.apache.phoenix.job.JobManager$InstrumentedJobFutureTask@4dd94a58 rejected from org.apache.phoenix.job.JobManager$1@2f4919b0[Running, pool size = 128, active threads = 128, queued tasks = 4955, completed tasks = 205]
-
-            at org.apache.phoenix.util.ServerUtil.parseServerException(ServerUtil.java:111)
-
-            at org.apache.phoenix.iterate.BaseResultIterators.getIterators(BaseResultIterators.java:734)
-
-            at org.apache.phoenix.iterate.BaseResultIterators.getIterators(BaseResultIterators.java:638)
-
-            at org.apache.phoenix.iterate.MergeSortResultIterator.getMinHeap(MergeSortResultIterator.java:72)
-
-            at org.apache.phoenix.iterate.MergeSortResultIterator.minIterator(MergeSortResultIterator.java:93)
-
-            at org.apache.phoenix.iterate.MergeSortResultIterator.next(MergeSortResultIterator.java:58)
-
-            at org.apache.phoenix.iterate.MergeSortTopNResultIterator.next(MergeSortTopNResultIterator.java:85)
-
-            at org.apache.phoenix.jdbc.PhoenixResultSet.next(PhoenixResultSet.java:778)
-
-            at sqlline.BufferedRows.<init>(BufferedRows.java:37)
-
-            at sqlline.SqlLine.print(SqlLine.java:1650)
-
-            at sqlline.Commands.execute(Commands.java:833)
-
-            at sqlline.Commands.sql(Commands.java:732)
-
-            at sqlline.SqlLine.dispatch(SqlLine.java:808)
-
-            at sqlline.SqlLine.begin(SqlLine.java:681)
-
-            at sqlline.SqlLine.start(SqlLine.java:398)
-
-            at sqlline.SqlLine.main(SqlLine.java:292)
-
-Caused by: java.util.concurrent.RejectedExecutionException: Task org.apache.phoenix.job.JobManager$InstrumentedJobFutureTask@4dd94a58 rejected from org.apache.phoenix.job.JobManager$1@2f4919b0[Running, pool size = 128, active threads = 128, queued tasks = 4955, completed tasks = 205]
-
-            at org.apache.phoenix.job.JobManager$InstrumentedThreadPoolExecutor$1.rejectedExecution(JobManager.java:244)
-
-            at java.util.concurrent.ThreadPoolExecutor.reject(ThreadPoolExecutor.java:823)
-
-            at java.util.concurrent.ThreadPoolExecutor.execute(ThreadPoolExecutor.java:1369)
-
-            at org.apache.phoenix.job.JobManager$InstrumentedThreadPoolExecutor.execute(JobManager.java:261)
-
-            at java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:134)
-
-            at org.apache.phoenix.iterate.ParallelIterators.submitWork(ParallelIterators.java:103)
-
-            at org.apache.phoenix.iterate.BaseResultIterators.getIterators(BaseResultIterators.java:668)
-
-            ... 14 more
-
-
-```
 https://community.hortonworks.com/articles/9377/deploying-the-phoenix-query-server-in-production-e.html
 
 PHOENIX-2743 HivePhoenixHandler for big-big join with predicate push down
 
-Hadoop 2.7.1
-```
-Error: ERROR 103 (08004): Unable to establish connection. (state=08004,code=103)
-java.sql.SQLException: ERROR 103 (08004): Unable to establish connection.
-	at org.apache.phoenix.exception.SQLExceptionCode$Factory$1.newException(SQLExceptionCode.java:422)
-	at org.apache.phoenix.exception.SQLExceptionInfo.buildException(SQLExceptionInfo.java:145)
-	at org.apache.phoenix.query.ConnectionQueryServicesImpl.openConnection(ConnectionQueryServicesImpl.java:392)
-	at org.apache.phoenix.query.ConnectionQueryServicesImpl.access$300(ConnectionQueryServicesImpl.java:211)
-	at org.apache.phoenix.query.ConnectionQueryServicesImpl$13.call(ConnectionQueryServicesImpl.java:2269)
-	at org.apache.phoenix.query.ConnectionQueryServicesImpl$13.call(ConnectionQueryServicesImpl.java:2248)
-	at org.apache.phoenix.util.PhoenixContextExecutor.call(PhoenixContextExecutor.java:78)
-	at org.apache.phoenix.query.ConnectionQueryServicesImpl.init(ConnectionQueryServicesImpl.java:2248)
-	at org.apache.phoenix.jdbc.PhoenixDriver.getConnectionQueryServices(PhoenixDriver.java:233)
-	at org.apache.phoenix.jdbc.PhoenixEmbeddedDriver.createConnection(PhoenixEmbeddedDriver.java:135)
-	at org.apache.phoenix.jdbc.PhoenixDriver.connect(PhoenixDriver.java:202)
-	at sqlline.DatabaseConnection.connect(DatabaseConnection.java:157)
-	at sqlline.DatabaseConnection.getConnection(DatabaseConnection.java:203)
-	at sqlline.Commands.connect(Commands.java:1064)
-	at sqlline.Commands.connect(Commands.java:996)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.lang.reflect.Method.invoke(Method.java:606)
-	at sqlline.ReflectiveCommandHandler.execute(ReflectiveCommandHandler.java:36)
-	at sqlline.SqlLine.dispatch(SqlLine.java:804)
-	at sqlline.SqlLine.initArgs(SqlLine.java:588)
-	at sqlline.SqlLine.begin(SqlLine.java:656)
-	at sqlline.SqlLine.start(SqlLine.java:398)
-	at sqlline.SqlLine.main(SqlLine.java:292)
-Caused by: java.io.IOException: java.lang.reflect.InvocationTargetException
-	at org.apache.hadoop.hbase.client.ConnectionFactory.createConnection(ConnectionFactory.java:240)
-	at org.apache.hadoop.hbase.client.ConnectionManager.createConnection(ConnectionManager.java:421)
-	at org.apache.hadoop.hbase.client.ConnectionManager.createConnectionInternal(ConnectionManager.java:330)
-	at org.apache.hadoop.hbase.client.HConnectionManager.createConnection(HConnectionManager.java:144)
-	at org.apache.phoenix.query.HConnectionFactory$HConnectionFactoryImpl.createConnection(HConnectionFactory.java:47)
-	at org.apache.phoenix.query.ConnectionQueryServicesImpl.openConnection(ConnectionQueryServicesImpl.java:390)
-	... 22 more
-Caused by: java.lang.reflect.InvocationTargetException
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
-	at org.apache.hadoop.hbase.client.ConnectionFactory.createConnection(ConnectionFactory.java:238)
-	... 27 more
-Caused by: java.lang.NoSuchMethodError: org.apache.hadoop.net.unix.DomainSocketWatcher.<init>(I)V
-	at org.apache.hadoop.hdfs.shortcircuit.DfsClientShmManager.<init>(DfsClientShmManager.java:415)
-	at org.apache.hadoop.hdfs.shortcircuit.ShortCircuitCache.<init>(ShortCircuitCache.java:379)
-	at org.apache.hadoop.hdfs.ClientContext.<init>(ClientContext.java:96)
-	at org.apache.hadoop.hdfs.ClientContext.get(ClientContext.java:145)
-	at org.apache.hadoop.hdfs.DFSClient.<init>(DFSClient.java:627)
-	at org.apache.hadoop.hdfs.DFSClient.<init>(DFSClient.java:547)
-	at org.apache.hadoop.hdfs.DistributedFileSystem.initialize(DistributedFileSystem.java:139)
-	at org.apache.hadoop.fs.FileSystem.createFileSystem(FileSystem.java:2653)
-	at org.apache.hadoop.fs.FileSystem.access$200(FileSystem.java:92)
-	at org.apache.hadoop.fs.FileSystem$Cache.getInternal(FileSystem.java:2687)
-	at org.apache.hadoop.fs.FileSystem$Cache.get(FileSystem.java:2669)
-	at org.apache.hadoop.fs.FileSystem.get(FileSystem.java:371)
-	at org.apache.hadoop.fs.Path.getFileSystem(Path.java:295)
-	at org.apache.hadoop.hbase.util.DynamicClassLoader.initTempDir(DynamicClassLoader.java:118)
-	at org.apache.hadoop.hbase.util.DynamicClassLoader.<init>(DynamicClassLoader.java:98)
-	at org.apache.hadoop.hbase.protobuf.ProtobufUtil.<clinit>(ProtobufUtil.java:241)
-	at org.apache.hadoop.hbase.ClusterId.parseFrom(ClusterId.java:64)
-	at org.apache.hadoop.hbase.zookeeper.ZKClusterId.readClusterIdZNode(ZKClusterId.java:75)
-	at org.apache.hadoop.hbase.client.ZooKeeperRegistry.getClusterId(ZooKeeperRegistry.java:105)
-	at org.apache.hadoop.hbase.client.ConnectionManager$HConnectionImplementation.retrieveClusterId(ConnectionManager.java:880)
-	at org.apache.hadoop.hbase.client.ConnectionManager$HConnectionImplementation.<init>(ConnectionManager.java:636)
-	... 32 more
-```
+
 
 .NET driver for Apache Phoenix and Phoenix Query Server, https://github.com/Azure/hdinsight-phoenix-sharp
 
