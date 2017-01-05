@@ -1,3 +1,6 @@
+local index
+- http://hadoop-hbase.blogspot.kr/2016/10/experiments-hbase-phoenix-and-sql-at.html
+
 http://www.slideshare.net/uprush/subsecondsqlonhadoopatscale
 
 http://engineering.vcnc.co.kr/2013/04/hbase-configuration/
