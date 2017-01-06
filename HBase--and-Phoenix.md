@@ -1,3 +1,35 @@
+```
+> drop index Q_INL_REP_WF_DATA_IDX1 ON QDW.Q_INL_REP_WF_DATA;
+Error: Operation timed out. (state=TIM01,code=6000)
+java.sql.SQLTimeoutException: Operation timed out.
+	at org.apache.phoenix.exception.SQLExceptionCode$15.newException(SQLExceptionCode.java:387)
+	at org.apache.phoenix.exception.SQLExceptionInfo.buildException(SQLExceptionInfo.java:150)
+	at org.apache.phoenix.iterate.BaseResultIterators.getIterators(BaseResultIterators.java:788)
+	at org.apache.phoenix.iterate.BaseResultIterators.getIterators(BaseResultIterators.java:699)
+	at org.apache.phoenix.iterate.ConcatResultIterator.getIterators(ConcatResultIterator.java:50)
+	at org.apache.phoenix.iterate.ConcatResultIterator.currentIterator(ConcatResultIterator.java:97)
+	at org.apache.phoenix.iterate.ConcatResultIterator.next(ConcatResultIterator.java:117)
+	at org.apache.phoenix.iterate.BaseGroupedAggregatingResultIterator.next(BaseGroupedAggregatingResultIterator.java:64)
+	at org.apache.phoenix.iterate.UngroupedAggregatingResultIterator.next(UngroupedAggregatingResultIterator.java:39)
+	at org.apache.phoenix.compile.PostDDLCompiler$2.execute(PostDDLCompiler.java:287)
+	at org.apache.phoenix.query.ConnectionQueryServicesImpl.updateData(ConnectionQueryServicesImpl.java:3186)
+	at org.apache.phoenix.schema.MetaDataClient.dropTable(MetaDataClient.java:2543)
+	at org.apache.phoenix.schema.MetaDataClient.dropIndex(MetaDataClient.java:2412)
+	at org.apache.phoenix.jdbc.PhoenixStatement$ExecutableDropIndexStatement$1.execute(PhoenixStatement.java:984)
+	at org.apache.phoenix.jdbc.PhoenixStatement$2.call(PhoenixStatement.java:358)
+	at org.apache.phoenix.jdbc.PhoenixStatement$2.call(PhoenixStatement.java:341)
+	at org.apache.phoenix.call.CallRunner.run(CallRunner.java:53)
+	at org.apache.phoenix.jdbc.PhoenixStatement.executeMutation(PhoenixStatement.java:340)
+	at org.apache.phoenix.jdbc.PhoenixStatement.execute(PhoenixStatement.java:1511)
+	at sqlline.Commands.execute(Commands.java:822)
+	at sqlline.Commands.sql(Commands.java:732)
+	at sqlline.SqlLine.dispatch(SqlLine.java:813)
+	at sqlline.SqlLine.begin(SqlLine.java:686)
+	at sqlline.SqlLine.start(SqlLine.java:398)
+	at sqlline.SqlLine.main(SqlLine.java:291)
+
+```
+
 local index
 - http://hadoop-hbase.blogspot.kr/2016/10/experiments-hbase-phoenix-and-sql-at.html
 
