@@ -1,55 +1,32 @@
 ```
-== Software Stack ==
-마지막 업데이트 : 2016-09-22
+# ./gradlew tez-clean tez-rpm
+:buildSrc:compileJava UP-TO-DATE
+:buildSrc:compileGroovy UP-TO-DATE
+:buildSrc:processResources UP-TO-DATE
+:buildSrc:classes UP-TO-DATE
+:buildSrc:jar UP-TO-DATE
+:buildSrc:assemble UP-TO-DATE
+:buildSrc:compileTestJava UP-TO-DATE
+:buildSrc:compileTestGroovy UP-TO-DATE
+:buildSrc:processTestResources UP-TO-DATE
+:buildSrc:testClasses UP-TO-DATE
+:buildSrc:test UP-TO-DATE
+:buildSrc:check UP-TO-DATE
+:buildSrc:build UP-TO-DATE
+:tez_vardefines FAILED
 
-Linux
-- 이천: CentOS 6.6 (ichbig, ichsaz, ichdev, poc)
-- 청주: CentOS 6.7 (fcbig)
+FAILURE: Build failed with an exception.
 
-----
-TiCAT
+* Where:
+Script '/bigtop/packages.gradle' line: 72
 
-Metatron
- - Druid
- - Polaris
- - Integrator (ETL & Workflow)
+* What went wrong:
+Execution failed for task ':tez_vardefines'.
+> sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
 
-----
-Java 8
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output.
 
-Apache Hadoop 2.7.1
-
-Apache Zookeeper 3.4.6
-
-Apache Hive 1.2.1 
-
-Apache Tez 
-- PROD: 0.6.2
-- DEV: 0.8.2
-
-Apache HBase 1.1.7
-
-Apache Phoenix 4.8.0-HBase-1.1
-
-Presto 0.150-SKT
-
-Apache Spark 1.6.2
-
-Apache Sqoop 1.4.6
-
-Apache Flume 1.7.0
-
-Apache Kafka 0.9.0.1
-
-Apache Pig 0.15.0
-
-Apache Oozie 4.3.0
-
-Azkaban
-
-Python Modules
- - snakebite
- - azkaban cli
- - pyhive
+BUILD FAILED
 
 ```
