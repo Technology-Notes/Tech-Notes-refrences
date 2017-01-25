@@ -1,3 +1,6 @@
+Hive LLAP:
+- https://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.5.0/bk_command-line-installation/content/llap_install_unsecure.html
+
 https://community.hortonworks.com/questions/4343/what-is-the-best-approach-for-migrating-no-data-lo.html
 
 
