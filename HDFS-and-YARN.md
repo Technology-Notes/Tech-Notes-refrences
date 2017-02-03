@@ -1,3 +1,6 @@
+https://issues.apache.org/jira/browse/YARN-3214
+https://issues.apache.org/jira/browse/HDFS-7285
+
 ```
 HADOOP_ROOT_LOGGER=DEBUG,console hadoop fs -ls /
 ```
