@@ -1,3 +1,6 @@
+homebrew versions
+- https://coderwall.com/p/1ouwaq/install-specific-version-of-a-software-with-brew
+
 https://issues.apache.org/jira/browse/FLUME-2703
 
 http://cleverowl.uk/2015/09/30/ingesting-files-with-apache-flume/
