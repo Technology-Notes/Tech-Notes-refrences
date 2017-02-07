@@ -1,5 +1,11 @@
 ```
 docker run -ti --rm -v `pwd`:/bigtop bigtop/slaves:trunk-centos-7 bash -l
+
+CentOS 7:
+
+yum update -y java\*
+keytool -import -alias hynix -keystore  /usr/lib/jvm/java-1.8.0/jre/lib/security/cacerts -file /bigtop/sslproxy.crt
+
 ```
 http://blogs.aws.amazon.com/bigdata/post/TxNJ6YS4X6S59U/Building-and-Deploying-Custom-Applications-with-Apache-Bigtop-and-Amazon-EMR
 
