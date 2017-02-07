@@ -1,4 +1,6 @@
-
+```
+docker run -ti --rm -v `pwd`:/bigtop bigtop/slaves:trunk-centos-7 bash -l
+```
 http://blogs.aws.amazon.com/bigdata/post/TxNJ6YS4X6S59U/Building-and-Deploying-Custom-Applications-with-Apache-Bigtop-and-Amazon-EMR
 
 
