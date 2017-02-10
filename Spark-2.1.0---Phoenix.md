@@ -21,3 +21,17 @@ val df = spark.read.format("org.apache.phoenix.spark").options(opts).load
 
 df.show
 ```
+
+STS:
+```
+$ /usr/lib/spark/bin/beeline -u 'jdbc:hive2://host:port'
+
+>
+CREATE TABLE phoenixtbl
+USING org.apache.phoenix.spark
+OPTIONS (
+table "TEST.TEST", 
+zkUrl "node1,node2,node3"
+);
+
+```
