@@ -1,3 +1,8 @@
+```
+mvn versions:set -DnewVersion=0.166
+mvn -N versions:update-child-modules
+
+```
 Raptor 
 https://groups.google.com/forum/m/#!topic/presto-users/ni5yshI98K8
 
