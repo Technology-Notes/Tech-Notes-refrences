@@ -1,4 +1,8 @@
 ```
+git format-patch HEAD^..HEAD --stdout > BIGTOP-1031.patch
+```
+
+```
 docker run -ti --rm -v `pwd`:/bigtop bigtop/slaves:trunk-centos-7 bash -l
 
 CentOS 7:
