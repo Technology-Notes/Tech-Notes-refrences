@@ -5,6 +5,8 @@ git format-patch HEAD^..HEAD --stdout > BIGTOP-1031.patch
 ```
 docker run -ti --rm -v `pwd`:/bigtop bigtop/slaves:trunk-centos-7 bash -l
 
+docker run -ti --rm -v `pwd`:/bigtop bigtop/slaves:trunk-ubuntu-16.04 bash -l
+
 CentOS 7:
 
 yum update -y java\*
