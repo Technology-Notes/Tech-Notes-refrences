@@ -1,5 +1,5 @@
 ```
-mvn versions:set -DnewVersion=0.166
+mvn versions:set -DnewVersion=0.167
 mvn -N versions:update-child-modules
 
 ```
