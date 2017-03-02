@@ -7,6 +7,9 @@ docker run -ti --rm -v `pwd`:/bigtop bigtop/slaves:trunk-centos-7 bash -l
 
 docker run -ti --rm -v `pwd`:/bigtop bigtop/slaves:trunk-ubuntu-16.04 bash -l
 
+-- user namesapce
+docker run -ti --rm -u jenkins -v `pwd`:/bigtop bigtop/slaves:trunk-centos-7 bash -l
+
 CentOS 7:
 
 yum update -y java\*
