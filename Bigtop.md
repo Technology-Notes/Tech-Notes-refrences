@@ -19,7 +19,7 @@ keytool -import -alias hynix -keystore  /usr/lib/jvm/java-1.8.0/jre/lib/security
 
 BOM:
 ```
-./gradlew -Dbomfile=bigtop-metatron-dap.bom zeppelin-clean zeppelin-rpm
+./gradlew -Dbomfile=metatron.bom zeppelin-clean zeppelin-rpm
 
 ```
 
