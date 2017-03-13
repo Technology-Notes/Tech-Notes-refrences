@@ -7,3 +7,8 @@ brew cask list | xargs brew cask install --force
 
 * ssh-copy-id @ MacOSX
  - https://github.com/beautifulcode/ssh-copy-id-for-OSX
+
+* git push & 400 ERROR
+```
+$ git config http.postBuffer 524288000
+```
