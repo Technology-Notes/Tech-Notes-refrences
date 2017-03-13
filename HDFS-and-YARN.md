@@ -1,3 +1,5 @@
+https://developer.ibm.com/hadoop/2017/03/10/yarn-node-labels/
+
 https://issues.apache.org/jira/browse/YARN-3214
 https://issues.apache.org/jira/browse/HDFS-7285
 
