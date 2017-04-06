@@ -1,3 +1,6 @@
+Hive 2.1.1 & MSSQL
+- https://issues.apache.org/jira/browse/HIVE-16106
+ 
 Hive LLAP:
 - https://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.5.0/bk_command-line-installation/content/llap_install_unsecure.html
 - http://eastcirclek.blogspot.kr/2016/10/how-to-start-hive-llap-functionality.html
