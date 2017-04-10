@@ -1,4 +1,6 @@
-Maven Archetype:
+http://stackoverflow.com/questions/29114936/how-do-i-find-the-correct-maven-archetype-project-for-developing-with-scala-in-e
+
+Maven Archetype (for Spark):
 - https://github.com/spark-in-action/scala-archetype-sparkinaction
 
 https://www.tutorialspoint.com/scala/index.htm
