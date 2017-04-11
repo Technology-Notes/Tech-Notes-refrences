@@ -6,3 +6,5 @@ Maven Archetype (for Spark):
 https://www.tutorialspoint.com/scala/index.htm
 
 https://github.com/worldline/scala-cheatsheet
+
+http://hamait.tistory.com/category/Scala
