@@ -1,3 +1,6 @@
+HDFS iNotify
+- https://community.hortonworks.com/questions/57661/hdfs-best-way-to-trigger-execution-at-file-arrival.html
+
 https://developer.ibm.com/hadoop/2017/03/10/yarn-node-labels/
 
 https://issues.apache.org/jira/browse/YARN-3214
