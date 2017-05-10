@@ -49,6 +49,9 @@
 
 2. Emerging Trends and Technologies
 
+3. Resources
+Books, websites...
+
 
 ----
 
