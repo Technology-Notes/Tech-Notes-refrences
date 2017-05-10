@@ -3,6 +3,7 @@
 ```
 ```
 https://www.oreilly.com/ideas/questioning-the-lambda-architecture
+http://www.datascienceassn.org/sites/default/files/Newly%20Emerging%20Best%20Practices%20for%20Big%20Data%20-%20Ralph%20Kimball.pdf
 ```
 
 # Day 1, 8 HR
