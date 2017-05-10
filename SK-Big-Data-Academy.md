@@ -43,6 +43,8 @@
 - '사용자' 입장에서 오픈소스 활용
 - '개발자' 입장에서 오픈소스 참여
 
+2. Emerging Trends and Technologies
+
 
 ----
 
