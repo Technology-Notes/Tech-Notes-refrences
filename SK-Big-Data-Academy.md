@@ -13,6 +13,9 @@
 
 - '데이터 애플리케이션'을 위한 소프트웨어 스택
   * 데이터 생성 기술
+    * File format & Compression codecs 
+      * Text (CSV, TSV, JSON, XML, and etc.)
+      * 
   * 데이터 수집 기술
   * 데이터 저장 기술
   * 데이터 (분산)처리 기술
@@ -27,7 +30,7 @@
   * Cluster Management 
     * YARN vs Mesos
   
-- 빅데이터 아키텍처와 패턴
+- 빅데이터 아키텍처 패턴 & Best Practices
 
 --
 
