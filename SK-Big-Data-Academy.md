@@ -1,6 +1,9 @@
 ```
 2017. 6. 23 / 26-30
 ```
+```
+https://www.oreilly.com/ideas/questioning-the-lambda-architecture
+```
 
 # Day 1, 8 HR
 
