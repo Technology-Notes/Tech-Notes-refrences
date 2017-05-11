@@ -26,6 +26,7 @@ http://blog.cloudera.com/blog/2014/09/getting-started-with-big-data-architecture
   * 데이터 수집 기술
   * 데이터 저장 기술
     * HDFS
+    * Data Store like BigTable (HBase, Cassandra, Accumulo, Phoenix, ...)
   * 데이터 (분산)처리 기술
     * Hadoop MapReduce, Spark, Flink, Apex
   * 시각화 기술
