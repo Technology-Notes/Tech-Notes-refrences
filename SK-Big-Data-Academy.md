@@ -47,6 +47,7 @@ http://blog.cloudera.com/blog/2014/09/getting-started-with-big-data-architecture
   * 압축
   * 보안
   * 'Roll out' system (Prod, Dev, Test)
+
 --
 
 # Day 2, 8 HR
