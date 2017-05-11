@@ -5,6 +5,8 @@
 https://www.oreilly.com/ideas/questioning-the-lambda-architecture
 http://www.datascienceassn.org/sites/default/files/Newly%20Emerging%20Best%20Practices%20for%20Big%20Data%20-%20Ralph%20Kimball.pdf
 https://www.ibm.com/developerworks/library/bd-archpatterns1/
+
+http://blog.cloudera.com/blog/2014/09/getting-started-with-big-data-architecture/
 ```
 
 # Day 1, 8 HR
@@ -63,7 +65,5 @@ Books, websites...
 
 ----
 
-https://www.ibm.com/developerworks/library/bd-archpatterns1/
 
-http://blog.cloudera.com/blog/2014/09/getting-started-with-big-data-architecture/
 
