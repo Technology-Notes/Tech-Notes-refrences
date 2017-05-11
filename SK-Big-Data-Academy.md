@@ -42,7 +42,10 @@ http://blog.cloudera.com/blog/2014/09/getting-started-with-big-data-architecture
     * YARN vs Mesos
   
 - 빅데이터 아키텍처 패턴 & Best Practices
-
+  * 클러스터 워크로드 관리
+  * 메타 데이터 관리
+  * 압축
+  * 보안
 --
 
 # Day 2, 8 HR
