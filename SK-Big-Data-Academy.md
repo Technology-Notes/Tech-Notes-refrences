@@ -33,7 +33,8 @@ https://www.ibm.com/developerworks/library/bd-archpatterns1/
     * 배치 / 실시간 아키텍처
     * 람다 아키텍처
   * Hadoop/Spark 배포판
-  * 인프라스트럭처 중심의 고려사항 (데이터센터, 클라우드, 가상화, 컨테이너, 베어메탈, 디스크, 스토리지, 네트워크)
+  * 인프라스트럭처 중심의 고려사항 
+    * 데이터센터, 클라우드, 컨테이너, 베어메탈, 디스크, 스토리지, 네트워크
   * Cluster Management 
     * YARN vs Mesos
   
