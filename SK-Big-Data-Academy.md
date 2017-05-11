@@ -46,7 +46,8 @@ http://blog.cloudera.com/blog/2014/09/getting-started-with-big-data-architecture
   * 메타 데이터 관리
   * 압축
   * 보안
-  * 'Roll out' system (Prod, Dev, Test)
+  * '롤아웃' 시스템 (Prod, Dev, Test)
+  * 캐시
 
 --
 
