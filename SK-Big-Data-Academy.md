@@ -20,10 +20,12 @@ https://www.ibm.com/developerworks/library/bd-archpatterns1/
   * 데이터 생성 기술
     * File format & Compression codecs 
       * Text (CSV, TSV, JSON, XML, and etc.)
-      * 
+      * Avro, Parquet, ORC
   * 데이터 수집 기술
   * 데이터 저장 기술
+    * HDFS
   * 데이터 (분산)처리 기술
+    * Hadoop MapReduce, Spark, Flink, Apex
   * 시각화 기술
 
 - 빅데이터 시스템 구축
