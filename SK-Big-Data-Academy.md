@@ -10,7 +10,7 @@ http://blog.cloudera.com/blog/2014/09/getting-started-with-big-data-architecture
 https://github.com/dvryaboy/idl_storage_guidelines
 ```
 
-# Day 1, 8 HR
+# Day 1
 
 0. 빅데이터 아키텍처 설계
 - 오버뷰
@@ -55,7 +55,7 @@ https://github.com/dvryaboy/idl_storage_guidelines
 
 --
 
-# Day 5, 8 HR
+# Day 5
 
 0. 사례연구 및 토론
 - 사례연구1: 온라인 클릭스트림 분석 시스템
