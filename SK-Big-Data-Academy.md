@@ -22,7 +22,7 @@ http://blog.cloudera.com/blog/2014/09/getting-started-with-big-data-architecture
   * 데이터 생성 기술
     * File format & Compression codecs 
       * Text (CSV, TSV, JSON, XML, and etc.)
-      * IDL: Apache Thrift, Apache Avro, Protocol Buffers
+      * Apache Thrift, Apache Avro, Protocol Buffers
       * Parquet, ORC
   * 데이터 수집 기술
   * 데이터 저장 기술
