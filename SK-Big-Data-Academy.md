@@ -69,7 +69,7 @@ https://github.com/dvryaboy/idl_storage_guidelines
 2. Emerging Trends and Technologies
 
 3. Resources
-Books, websites...
+- Books, websites...
 
 
 ----
