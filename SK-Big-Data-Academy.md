@@ -28,7 +28,7 @@ https://github.com/dvryaboy/idl_storage_guidelines
   * 데이터 수집 기술
   * 데이터 저장 기술
     * HDFS
-    * Data Store like BigTable (HBase, Cassandra, Accumulo, Phoenix, ...)
+    * Data Stores like BigTable (HBase, Cassandra, Accumulo, Phoenix, ...)
   * 데이터 (분산)처리 기술
     * Hadoop MapReduce, Spark, Flink, Apex
   * 시각화 기술
@@ -53,7 +53,7 @@ https://github.com/dvryaboy/idl_storage_guidelines
 
 --
 
-# Day 2, 8 HR
+# Day 5, 8 HR
 
 0. 사례연구 및 토론
 - 사례연구1
@@ -67,9 +67,12 @@ https://github.com/dvryaboy/idl_storage_guidelines
 - '개발자' 입장에서 오픈소스 참여
 
 2. Emerging Trends and Technologies
+- Data Infrastructures
+  * Cloud & Containers
+- Data Analytics
 
 3. Resources
-- Books, websites...
+- Books, websites and etc...
 
 
 ----
