@@ -26,6 +26,7 @@ https://github.com/dvryaboy/idl_storage_guidelines
       * Apache Thrift, Apache Avro, Protocol Buffers
       * Parquet, ORC
   * 데이터 수집 기술
+    * Data Integrations (DBs, Files, Streams...)
   * 데이터 저장 기술
     * HDFS
     * Data Stores like BigTable (HBase, Cassandra, Accumulo, Phoenix, ...)
@@ -38,6 +39,7 @@ https://github.com/dvryaboy/idl_storage_guidelines
     * 배치 / 실시간 아키텍처
     * 람다 아키텍처
   * Hadoop/Spark 배포판
+    * 배포판 비교 및 선택 가이드 제공
   * 인프라스트럭처 중심의 고려사항 
     * 데이터센터, 클라우드, 컨테이너, 베어메탈, 디스크, 스토리지, 네트워크
   * Cluster Management 
@@ -48,8 +50,8 @@ https://github.com/dvryaboy/idl_storage_guidelines
   * 메타 데이터 관리
   * 압축
   * 보안
-  * '롤아웃' 시스템 (Prod, Dev, Test)
   * 캐시
+  * '롤아웃' 시스템 아키텍처 및 실행 전략 (Prod, Dev, Test)
 
 --
 
@@ -63,8 +65,10 @@ https://github.com/dvryaboy/idl_storage_guidelines
 - 토론
 
 1. 빅데이터를 위한 오픈소스 활용 전략
-- '사용자' 입장에서 오픈소스 활용
+- '사용자/관리자' 입장에서 오픈소스 활용
+  * 엔터프라이즈 시스템에 오픈소스 소프트웨어 도입 시 참고사항
 - '개발자' 입장에서 오픈소스 참여
+  * 오픈소스 프로젝트 기여(참여) 가이드 및 팁
 
 2. Emerging Trends and Technologies
 - Data Infrastructures
