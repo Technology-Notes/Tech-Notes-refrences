@@ -72,6 +72,7 @@ https://github.com/dvryaboy/idl_storage_guidelines
   * 엔터프라이즈 시스템에 오픈소스 소프트웨어 도입 시 참고사항
 - '개발자' 입장에서 오픈소스 참여
   * 오픈소스 프로젝트 기여(참여) 가이드 및 팁
+  * [The Apache way](https://www.apache.org/foundation/how-it-works.html)
 
 2. Emerging Trends and Technologies
 - Data Infrastructures
