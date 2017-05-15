@@ -30,10 +30,10 @@ https://github.com/dvryaboy/idl_storage_guidelines
     * Data Integrations (DBs, Files, Streams...)
   * 데이터 저장 기술
     * HDFS
-    * Data Stores like BigTable (HBase, Cassandra, Accumulo, Phoenix, ...)
+    * Data Stores like BigTable (Apache HBase, Apache Cassandra, Apache Accumulo, Apache Phoenix, ...)
   * 데이터 (분산)처리 기술
-    * Hadoop MapReduce, Spark, Flink, Apex
-    * Hive
+    * Apache Hadoop: MapReduce, Apache Spark, Apache Flink, Apache Apex
+    * Apache Hive, SparkSQL, Apache HAWK, Presto
   * 시각화 기술
 
 - 빅데이터 시스템 구축
@@ -62,7 +62,7 @@ https://github.com/dvryaboy/idl_storage_guidelines
 0. 사례연구 및 토론
 - 사례연구1: 온라인 클릭스트림 분석 시스템
 - 사례연구2: 센서 데이터 수집/분석 시스템
-- 사예연구3: TBD (SKT?) 
+- 사예연구3: TBD (SKT DSC 사례?) 
 - 오픈소스 사례연구1: Apache Flume & KiteSDK
 - 오픈소스 사례연구2: Apache Bigtop
 - 토론
