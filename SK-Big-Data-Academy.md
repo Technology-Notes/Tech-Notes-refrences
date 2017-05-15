@@ -64,7 +64,7 @@ https://github.com/dvryaboy/idl_storage_guidelines
 - 사례연구2: 센서 데이터 수집/분석 시스템
 - 사예연구3: TBD (SKT?) 
 - 오픈소스 사례연구1: Apache Flume & KiteSDK
-- 오픈소스 사례연구2:
+- 오픈소스 사례연구2: Apache Bigtop
 - 토론
 
 1. 빅데이터를 위한 오픈소스 활용 전략
