@@ -41,7 +41,7 @@ https://github.com/dvryaboy/idl_storage_guidelines
     * 배치 / 실시간 아키텍처
     * 람다 아키텍처
   * Hadoop/Spark 배포판
-    * 배포판 비교 및 선택 가이드 제공
+    * 배포판 비교 및 선택 가이드 제공 (CDH, HDP, PHD, MapR ...)
   * 인프라스트럭처 중심의 고려사항 
     * 데이터센터, 클라우드, 컨테이너, 베어메탈, 디스크, 스토리지, 네트워크
   * Cluster Management 
