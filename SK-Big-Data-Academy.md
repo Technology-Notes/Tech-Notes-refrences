@@ -33,6 +33,7 @@ https://github.com/dvryaboy/idl_storage_guidelines
     * Data Stores like BigTable (HBase, Cassandra, Accumulo, Phoenix, ...)
   * 데이터 (분산)처리 기술
     * Hadoop MapReduce, Spark, Flink, Apex
+    * Hive
   * 시각화 기술
 
 - 빅데이터 시스템 구축
