@@ -25,11 +25,11 @@ https://github.com/dvryaboy/idl_storage_guidelines
     * File format & Compression codecs 
       * Text (CSV, TSV, JSON, XML, and etc.)
       * Apache Thrift, Apache Avro, Protocol Buffers
-      * Parquet, ORC
+      * Apache Parquet, Apache ORC
   * 데이터 수집 기술
     * Data Integrations (DBs, Files, Streams...)
   * 데이터 저장 기술
-    * HDFS
+    * Apache Hadoop: HDFS
     * Data Stores like BigTable (Apache HBase, Apache Cassandra, Apache Accumulo, Apache Phoenix, ...)
   * 데이터 (분산)처리 기술
     * Apache Hadoop: MapReduce, Apache Spark, Apache Flink, Apache Apex
