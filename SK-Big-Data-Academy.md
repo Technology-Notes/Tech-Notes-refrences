@@ -10,6 +10,7 @@ https://amplab.cs.berkeley.edu/wp-content/uploads/2011/06/disk-irrelevant_hotos2
 http://blog.cloudera.com/blog/2014/09/getting-started-with-big-data-architecture/
 https://github.com/dvryaboy/idl_storage_guidelines
 http://robertgreiner.com/2014/08/cap-theorem-revisited/
+http://blog.nahurst.com/visual-guide-to-nosql-systems
 ```
 
 # Day 1
