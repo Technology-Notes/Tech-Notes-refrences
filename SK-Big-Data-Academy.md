@@ -12,6 +12,8 @@ https://github.com/dvryaboy/idl_storage_guidelines
 http://robertgreiner.com/2014/08/cap-theorem-revisited/
 http://blog.nahurst.com/visual-guide-to-nosql-systems
 http://events.linuxfoundation.org/sites/events/files/slides/PrestoTalk.pdf
+
+http://events.linuxfoundation.org/sites/events/files/slides/Leveraging%20Docker%20for%20Hadoop%20Build%20Automation%20and%20Big%20Data%20Stack%20Provisioning.pdf
 ```
 
 # Day 1
