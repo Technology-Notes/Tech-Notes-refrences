@@ -1,3 +1,5 @@
+http://events.linuxfoundation.org/sites/events/files/slides/ApacheCon%20-%20Starting%20with%20Apache%20Spark%2C%20Best%20Practices.pdf
+
 https://sparkour.urizone.net/recipes
 
 https://spark-summit.org/east-2017/schedule/
