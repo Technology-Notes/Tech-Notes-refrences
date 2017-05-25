@@ -36,9 +36,10 @@ http://events.linuxfoundation.org/sites/events/files/slides/Leveraging%20Docker%
   * 데이터 저장 기술
     * Apache Hadoop: HDFS
     * Data Stores like BigTable (Apache HBase, Apache Cassandra, Apache Accumulo, Apache Phoenix, ...)
+    * OLAP (Druid, Kylin)
   * 데이터 (분산)처리 기술
     * Apache Hadoop: MapReduce, Apache Spark, Apache Flink, Apache Apex
-    * Apache Hive, SparkSQL, Apache HAWK, Presto
+    * SQL on Hadoop (Apache Hive, SparkSQL, Apache HAWK, Presto)
   * 시각화 기술
 
 - 빅데이터 시스템 구축
