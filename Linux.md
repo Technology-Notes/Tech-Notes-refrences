@@ -1,3 +1,5 @@
+http://brendangregg.com/linuxperf.html
+
 Linux / THP, http://blog.cloudera.com/blog/2015/01/how-to-deploy-apache-hadoop-clusters-like-a-boss/
 
 
