@@ -49,7 +49,8 @@ http://events.linuxfoundation.org/sites/events/files/slides/Leveraging%20Docker%
     * 배포판 비교 및 선택 가이드 (CDH, HDP, PHD, MapR, IOP ...)
   * 인프라스트럭처 중심의 고려사항 
     * 데이터센터, 클라우드, 컨테이너, 베어메탈, 디스크, 스토리지, 네트워크
-  * Cluster Management 
+  * Cluster Management
+    * Cluster Automation (Ansible, Chef, Puppet...)
     * YARN vs Mesos
   
 - 빅데이터 아키텍처 패턴 & Best Practices
