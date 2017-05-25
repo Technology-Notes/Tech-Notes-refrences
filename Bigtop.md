@@ -1,3 +1,5 @@
+http://events.linuxfoundation.org/sites/events/files/slides/Leveraging%20Docker%20for%20Hadoop%20Build%20Automation%20and%20Big%20Data%20Stack%20Provisioning.pdf
+
 ```
 git format-patch HEAD^..HEAD --stdout > BIGTOP-1031.patch
 ```
