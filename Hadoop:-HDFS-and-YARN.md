@@ -1,3 +1,13 @@
+Fair scheduler:
+http://blog.cloudera.com/blog/2015/09/untangling-apache-hadoop-yarn-part-1/
+
+http://blog.cloudera.com/blog/2015/10/untangling-apache-hadoop-yarn-part-2/
+
+http://blog.cloudera.com/blog/2016/01/untangling-apache-hadoop-yarn-part-3/
+
+http://blog.cloudera.com/blog/2016/06/untangling-apache-hadoop-yarn-part-4-fair-scheduler-queue-basics/
+
+
 HDFS iNotify
 - https://community.hortonworks.com/questions/57661/hdfs-best-way-to-trigger-execution-at-file-arrival.html
 
