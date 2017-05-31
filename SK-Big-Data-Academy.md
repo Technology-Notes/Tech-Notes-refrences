@@ -35,7 +35,7 @@ https://www.linkedin.com/pulse/100-open-source-big-data-architecture-papers-anil
     * File format & Compression codecs 
       * Text (CSV, TSV, JSON, XML, and etc.)
       * Apache Thrift, Apache Avro, Protocol Buffers
-      * Apache Parquet, Apache ORC
+      * Apache Parquet, Apache ORC, Apache CarbonData
   * 데이터 수집 기술
     * Data Integrations (DBs, Files, Streams...)
   * 데이터 저장 기술
