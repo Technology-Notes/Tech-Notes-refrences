@@ -19,6 +19,9 @@ https://github.com/rxin/db-readings
 https://github.com/t-ivanov/BigDataReading
 
 https://www.linkedin.com/pulse/100-open-source-big-data-architecture-papers-anil-madan
+
+https://www.nextplatform.com/2015/07/03/building-a-better-hadoop-cluster/
+http://www.computerworlduk.com/data/enterprises-just-want-simplicity-when-it-comes-their-hadoop-big-data-strategy-3638198/
 ```
 
 # Day 1
