@@ -22,6 +22,8 @@ https://www.linkedin.com/pulse/100-open-source-big-data-architecture-papers-anil
 
 https://www.nextplatform.com/2015/07/03/building-a-better-hadoop-cluster/
 http://www.computerworlduk.com/data/enterprises-just-want-simplicity-when-it-comes-their-hadoop-big-data-strategy-3638198/
+
+https://www.slideshare.net/SparkSummit/data-storage-tips-for-optimal-spark-performancevida-ha-databricks?next_slideshow=1
 ```
 
 # Day 1
