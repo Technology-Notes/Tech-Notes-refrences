@@ -42,7 +42,8 @@ https://www.slideshare.net/SparkSummit/data-storage-tips-for-optimal-spark-perfo
       * Apache Thrift, Apache Avro, Protocol Buffers
       * Apache Parquet, Apache ORC, Apache CarbonData
   * 데이터 수집 기술
-    * Data Integrations (DBs, Files, Streams...)
+    * Data Ingestion (DBs, Files, Streams...)
+    * Data Integration 
   * 데이터 저장 기술
     * Apache Hadoop: HDFS
     * Data Stores like BigTable (Apache HBase, Apache Cassandra, Apache Accumulo, Apache Phoenix, ...)
