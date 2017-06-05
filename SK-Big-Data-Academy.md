@@ -52,7 +52,7 @@ https://www.slideshare.net/SparkSummit/data-storage-tips-for-optimal-spark-perfo
     * SQL on Hadoop (Apache Hive, SparkSQL, Apache HAWK, Presto)
   * 시각화 기술
 
-- 빅데이터 시스템 구축
+- 빅데이터 아키텍처 설계 및 구현
   * 레퍼런스 아키텍처
     * 배치 / 실시간 아키텍처
     * 람다 아키텍처
