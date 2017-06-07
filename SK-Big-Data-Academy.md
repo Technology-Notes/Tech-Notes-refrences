@@ -96,6 +96,7 @@ https://www.slideshare.net/SparkSummit/data-storage-tips-for-optimal-spark-perfo
 - Data Infrastructures
   * Cloud & Containers
 - Data Analytics
+  * Apache SystemML, BigDL(Intel)
 
 3. Resources
 - Books, websites and etc...
