@@ -52,6 +52,8 @@ http://distributedlog.incubator.apache.org/technical-review/2016/09/19/kafka-vs-
     * Logs(Streams, logs .... Kafka, DistributedLog, Y! Pulsar, Apache Bookeeper)
   * 데이터 (분산)처리 기술
     * Apache Hadoop: MapReduce, Apache Spark, Apache Flink, Apache Apex
+    * Domain specific (realtime)
+      * Apache Strom, Twitter Heron (Apache Incubator)
     * SQL on Hadoop (Apache Hive, SparkSQL, Apache HAWK, Presto)
     * OLAP (Druid, Kylin)
   * 시각화 기술
