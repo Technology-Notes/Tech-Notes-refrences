@@ -102,6 +102,7 @@ http://distributedlog.incubator.apache.org/technical-review/2016/09/19/kafka-vs-
   * Cloud & Containers
 - Data Analytics
   * Apache SystemML, BigDL(Intel)
+- Hadoop 3 / Spark 3?
 
 3. Resources
 - Books, websites and etc...
