@@ -49,7 +49,7 @@ http://distributedlog.incubator.apache.org/technical-review/2016/09/19/kafka-vs-
   * 데이터 저장 기술
     * Apache Hadoop: HDFS
     * Data Stores like BigTable (Apache HBase, Apache Cassandra, Apache Accumulo, Apache Phoenix, ...)
-    * Logs(Streams, logs .... Kafka, DistributedLog)
+    * Logs(Streams, logs .... Kafka, DistributedLog, Y! Pulsar)
   * 데이터 (분산)처리 기술
     * Apache Hadoop: MapReduce, Apache Spark, Apache Flink, Apache Apex
     * SQL on Hadoop (Apache Hive, SparkSQL, Apache HAWK, Presto)
