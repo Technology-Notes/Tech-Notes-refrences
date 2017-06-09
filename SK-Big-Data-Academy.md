@@ -66,12 +66,11 @@ http://distributedlog.incubator.apache.org/technical-review/2016/09/19/kafka-vs-
     * 배포판 비교 및 선택 가이드 (CDH, HDP, Dell EMC PHD, MapR, IOP, Amazon EMR Microsoft Azure's HDInsight, Google Cloud Dataproc...)
   * 인프라스트럭처 중심의 고려사항 
     * 데이터센터, 클라우드, 컨테이너, 베어메탈, 디스크, 스토리지, 네트워크
+  
+- 빅데이터 아키텍처 패턴 & Best Practices
   * Cluster Management
     * Cluster Automation (Ansible, Chef, Puppet...)
     * YARN vs Mesos
-  
-- 빅데이터 아키텍처 패턴 & Best Practices
-  * 클러스터 워크로드 관리
   * 메타 데이터 관리
   * 압축
   * 보안
