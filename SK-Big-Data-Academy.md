@@ -24,6 +24,8 @@ https://www.nextplatform.com/2015/07/03/building-a-better-hadoop-cluster/
 http://www.computerworlduk.com/data/enterprises-just-want-simplicity-when-it-comes-their-hadoop-big-data-strategy-3638198/
 
 https://www.slideshare.net/SparkSummit/data-storage-tips-for-optimal-spark-performancevida-ha-databricks?next_slideshow=1
+
+http://distributedlog.incubator.apache.org/technical-review/2016/09/19/kafka-vs-distributedlog.html
 ```
 
 # Day 1
@@ -43,14 +45,15 @@ https://www.slideshare.net/SparkSummit/data-storage-tips-for-optimal-spark-perfo
       * Apache Parquet, Apache ORC, Apache CarbonData
   * 데이터 수집 기술
     * Data Ingestion (DBs, Files, Streams...)
-    * Data Integration 
+    * Data Integration
   * 데이터 저장 기술
     * Apache Hadoop: HDFS
     * Data Stores like BigTable (Apache HBase, Apache Cassandra, Apache Accumulo, Apache Phoenix, ...)
-    * OLAP (Druid, Kylin)
+    * Logs(Streams, logs .... Kafka, DistributedLog)
   * 데이터 (분산)처리 기술
     * Apache Hadoop: MapReduce, Apache Spark, Apache Flink, Apache Apex
     * SQL on Hadoop (Apache Hive, SparkSQL, Apache HAWK, Presto)
+    * OLAP (Druid, Kylin)
   * 시각화 기술
 
 - 빅데이터 아키텍처 설계 및 구현
