@@ -25,7 +25,7 @@ keytool -import -alias hynix -keystore  /usr/lib/jvm/java-1.8.0/jre/lib/security
 
 With R support:
 ```
-docker run -ti --rm -v `pwd`:/bigtop youngwookim/bigtop-slaves:centos-7 bash -l
+docker run -ti -u jenkins:jenkins --rm -v `pwd`:/bigtop youngwookim/bigtop-slaves:centos-7 bash -l
 ```
 
 BOM:
@@ -41,7 +41,7 @@ Ansible roles and playbooks for Bigtop, https://issues.apache.org/jira/browse/BI
 
 package tests are for testing the correctness of the packages through the development cycle. They are usually pretty trivial and you can find the examples of those under bigtop-tests/test-artifacts/package/
 
-Slaves:
+My bigtop-slaves:
 ```
 FROM bigtop/slaves:trunk-centos-7
 
@@ -50,4 +50,6 @@ RUN yum install -y R R-devel libcurl-devel openssl-devel
 RUN yum clean all
 
 docker build --no-cache --force-rm -t youngwookim/bigtop-slaves:centos-7 .
+docker push youngwookim/bigtop-slaves:centos-7
+
 ```
