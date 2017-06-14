@@ -23,6 +23,11 @@ keytool -import -alias hynix -keystore  /usr/lib/jvm/java-1.8.0/jre/lib/security
 
 ```
 
+With R support:
+```
+docker run -ti --rm -v `pwd`:/bigtop youngwookim/bigtop-slaves:centos-7 bash -l
+```
+
 BOM:
 ```
 ./gradlew -Dbomfile=metatron.bom zeppelin-clean zeppelin-rpm
