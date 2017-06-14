@@ -35,3 +35,14 @@ http://blogs.aws.amazon.com/bigdata/post/TxNJ6YS4X6S59U/Building-and-Deploying-C
 Ansible roles and playbooks for Bigtop, https://issues.apache.org/jira/browse/BIGTOP-1584
 
 package tests are for testing the correctness of the packages through the development cycle. They are usually pretty trivial and you can find the examples of those under bigtop-tests/test-artifacts/package/
+
+Slaves:
+```
+FROM bigtop/slaves:trunk-centos-7
+
+RUN yum install -y epel-release
+RUN yum install -y R R-devel libcurl-devel openssl-devel
+RUN yum clean all
+
+docker build --no-cache --force-rm -t youngwookim/bigtop-slaves:centos-7 .
+```
