@@ -12,7 +12,7 @@ https://github.com/dvryaboy/idl_storage_guidelines
 http://robertgreiner.com/2014/08/cap-theorem-revisited/
 http://blog.nahurst.com/visual-guide-to-nosql-systems
 http://events.linuxfoundation.org/sites/events/files/slides/PrestoTalk.pdf
-
+http://blog.cloudera.com/blog/2013/08/how-to-select-the-right-hardware-for-your-new-hadoop-cluster/
 http://events.linuxfoundation.org/sites/events/files/slides/Leveraging%20Docker%20for%20Hadoop%20Build%20Automation%20and%20Big%20Data%20Stack%20Provisioning.pdf
 
 https://github.com/rxin/db-readings
