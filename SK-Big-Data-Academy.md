@@ -14,7 +14,7 @@ http://blog.nahurst.com/visual-guide-to-nosql-systems
 http://events.linuxfoundation.org/sites/events/files/slides/PrestoTalk.pdf
 http://blog.cloudera.com/blog/2013/08/how-to-select-the-right-hardware-for-your-new-hadoop-cluster/
 http://events.linuxfoundation.org/sites/events/files/slides/Leveraging%20Docker%20for%20Hadoop%20Build%20Automation%20and%20Big%20Data%20Stack%20Provisioning.pdf
-
+https://community.hpe.com/t5/Servers-The-Right-Compute/The-HP-Big-Data-Reference-Architecture-It-s-Worth-Taking-a/ba-p/6795401#.WUiKwlPyjBI
 https://github.com/rxin/db-readings
 https://github.com/t-ivanov/BigDataReading
 
