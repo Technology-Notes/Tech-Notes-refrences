@@ -17,7 +17,7 @@ http://events.linuxfoundation.org/sites/events/files/slides/Leveraging%20Docker%
 https://community.hpe.com/t5/Servers-The-Right-Compute/The-HP-Big-Data-Reference-Architecture-It-s-Worth-Taking-a/ba-p/6795401#.WUiKwlPyjBI
 https://github.com/rxin/db-readings
 https://github.com/t-ivanov/BigDataReading
-
+https://www.slideshare.net/HadoopSummit/hdfs-erasure-coding-in-action
 https://www.linkedin.com/pulse/100-open-source-big-data-architecture-papers-anil-madan
 
 https://www.nextplatform.com/2015/07/03/building-a-better-hadoop-cluster/
