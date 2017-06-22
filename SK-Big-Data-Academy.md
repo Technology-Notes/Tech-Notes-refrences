@@ -26,6 +26,9 @@ http://www.computerworlduk.com/data/enterprises-just-want-simplicity-when-it-com
 https://www.slideshare.net/SparkSummit/data-storage-tips-for-optimal-spark-performancevida-ha-databricks?next_slideshow=1
 
 http://distributedlog.incubator.apache.org/technical-review/2016/09/19/kafka-vs-distributedlog.html
+
+SSD & IB
+https://www.sandisk.co.kr/business/datacenter/resources/white-papers/evaluating-the-impact-of-ssds-and-infiniband-in-hadoop-clusters
 ```
 
 # Day 1
