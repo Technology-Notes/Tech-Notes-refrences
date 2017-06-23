@@ -31,6 +31,7 @@ SSD & IB
 https://www.sandisk.co.kr/business/datacenter/resources/white-papers/evaluating-the-impact-of-ssds-and-infiniband-in-hadoop-clusters
 https://www.enterprisetech.com/2014/11/20/unravelling-hadoop-performance-mysteries/
 http://www.lanl.gov/projects/national-security-education-center/information-science-technology/_assets/docs/2007-si-docs/GreenTeamPresentation07.pdf
+https://www.hpe.com/h20195/V2/getpdf.aspx/4AA5-6136ENW.pdf
 ```
 
 # Day 1
