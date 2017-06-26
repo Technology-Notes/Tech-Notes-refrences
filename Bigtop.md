@@ -69,3 +69,11 @@ Metatron DAP:
 http://52.79.212.190/yum/metatron/centos-6/
 http://52.79.212.190/yum/metatron/centos-7/
 ```
+```
+docker run -ti -u jenkins:jenkins --rm -v `pwd`:/bigtop youngwookim/bigtop-slaves:centos-6 bash -l
+docker run -ti -u jenkins:jenkins --rm -v `pwd`:/bigtop youngwookim/bigtop-slaves:centos-7 bash -l
+
+cd /bigtop
+
+./gradlew -Dbomfile=metatron.bom allclean ; ./gradlew -Dbomfile=metatron.bom spark-rpm zeppelin-rpm tez-rpm bigtop-groovy-rpm bigtop-jsvc-rpm bigtop-tomcat-rpm bigtop-utils-rpm zookeeper-rpm hadoop-rpm hive-rpm hbase-rpm phoenix-rpm hue-rpm flume-rpm kafka-rpm flink-rpm presto-rpm ; ./gradlew -Dbomfile=metatron.bom yum
+```
