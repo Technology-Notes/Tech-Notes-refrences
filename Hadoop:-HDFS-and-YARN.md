@@ -1,3 +1,6 @@
+HDFS & Fuse:
+- https://www.cloudera.com/documentation/enterprise/5-8-x/topics/cdh_ig_hdfs_mountable.html
+
 Fair scheduler:
 http://blog.cloudera.com/blog/2015/09/untangling-apache-hadoop-yarn-part-1/
 
