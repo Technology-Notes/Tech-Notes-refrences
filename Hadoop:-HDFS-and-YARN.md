@@ -1,3 +1,6 @@
+HDP 2.6 Docs:
+- https://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.6.1/index.html
+
 HDFS & Fuse:
 - https://www.cloudera.com/documentation/enterprise/5-8-x/topics/cdh_ig_hdfs_mountable.html
 
