@@ -1,3 +1,5 @@
+The Hive connector has a hidden column $path (need to surround it in double quotes). 
+
 Audit log
 - https://github.com/zz22394/presto-audit
 
