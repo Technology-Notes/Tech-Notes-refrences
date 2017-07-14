@@ -1,5 +1,6 @@
 Structured Streaming:
 - https://databricks.com/blog/2017/01/19/real-time-streaming-etl-structured-streaming-apache-spark-2-1.html
+- https://docs.databricks.com/spark/latest/structured-streaming/production.html
 
 http://events.linuxfoundation.org/sites/events/files/slides/ApacheCon%20-%20Starting%20with%20Apache%20Spark%2C%20Best%20Practices.pdf
 
