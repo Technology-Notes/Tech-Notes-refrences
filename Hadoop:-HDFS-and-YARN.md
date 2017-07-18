@@ -1,3 +1,8 @@
+webhdfs, curl example:
+```
+curl -L -i -X PUT -T hs_err_pid103121.log "http://icdasdat07:50075/webhdfs/v1/tmp/2.txt?op=CREATE&namenoderpcaddress=icdas&overwrite=true&permission=777"
+````
+
 HDP 2.6 Docs:
 - https://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.6.1/index.html
 
