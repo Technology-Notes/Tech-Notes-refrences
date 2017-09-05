@@ -1,3 +1,5 @@
+Spark 2.2 CBO, https://databricks.com/blog/2017/08/31/cost-based-optimizer-in-apache-spark-2-2.html
+
 Structured Streaming:
 - https://databricks.com/blog/2017/01/19/real-time-streaming-etl-structured-streaming-apache-spark-2-1.html
 - https://docs.databricks.com/spark/latest/structured-streaming/production.html
