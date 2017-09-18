@@ -5,6 +5,10 @@
 * ssh-copy-id @ MacOSX
  - https://github.com/beautifulcode/ssh-copy-id-for-OSX
 
+# eclipse
+* https://github.com/typesafehub/sbteclipse
+
+# git
 * git push & 400 ERROR
 ```
 $ git config http.postBuffer 524288000
