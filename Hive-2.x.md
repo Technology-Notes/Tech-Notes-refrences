@@ -121,11 +121,6 @@ export HADOOP_CONF_DIR=/etc/hadoop/conf
 </property>
  
 <property>
-     <name>hive.server2.tez.default.queues</name>
-     <value>root.default</value>
-</property>
- 
-<property>
      <name>hive.server2.tez.sessions.per.default.queue</name>
      <value>1</value>
 </property>
