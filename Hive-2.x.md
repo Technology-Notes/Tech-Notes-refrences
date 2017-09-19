@@ -65,6 +65,14 @@ mvn clean install -DskipTests -Prpm
 # install
 yum install slider
 
+* /usr/lib/slider/conf/slider-env.sh
+
+export JAVA_HOME=/usr/java/latest
+export HADOOP_CONF_DIR=/etc/hadoop/conf
+
+* /usr/lib/slider/conf/slider-client.xml
+
+
 2-1. Configurations
 -- /etc/hadoop/conf/hadoop-env.sh
 
