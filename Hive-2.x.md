@@ -56,10 +56,16 @@ $ mvn clean package -Dhadoop.version=2.7.1 -DskipTests
 Apache Slider (0.91)
 
 # build
-git clone https://github.com/apache/incubator-slider.git
-cd in...
-git checkout -b branch-0.91 origin/branches/branch-0.91
-mvn clean install -DskipTests -Prpm
+-- CentOS-7
+$ docker run -ti --rm -v `pwd`:/work bigtop/slaves:trunk-centos-7 bash -l
+-- CentOS-6
+$ docker run -ti --rm -v `pwd`:/work bigtop/slaves:trunk-centos-6 bash -l
+
+# cd /work
+# git clone https://github.com/apache/incubator-slider.git -b branches/branch-0.91
+# cd in...
+# mvn clean install -DskipTests -Prpm
+# ls -als slider-assembly/rpm/slider/RPMS/noarch/
 
 
 # install
