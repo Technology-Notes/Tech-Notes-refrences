@@ -1,3 +1,5 @@
+DISTINCT COUNT Multiple columns - https://github.com/prestodb/presto/issues/5281
+
 The Hive connector has a hidden column $path (need to surround it in double quotes). 
 
 Audit log
