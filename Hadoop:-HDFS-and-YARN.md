@@ -1,6 +1,7 @@
-hdfs, data locality 
+hdfs, data locality, HP moonshot, BDRA
 - https://community.hpe.com/t5/Around-the-Storage-Block/Data-Locality-in-Hadoop-Taking-a-Deep-Dive/ba-p/6969665#.WX6BFdPyhAY
 - https://community.hortonworks.com/articles/4698/hps-bdra-what-is-different-from-traditional-hadoop.html
+- https://www.slideshare.net/profyclub_ru/6-key-trends-in-big-data-and-new-reference-architecture-from-hewlett-packard-enterprise-gilles-noisette
 
 webhdfs, curl example:
 ```
