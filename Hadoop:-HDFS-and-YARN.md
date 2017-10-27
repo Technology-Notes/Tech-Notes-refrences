@@ -1,4 +1,6 @@
-hdfs, data locality - https://community.hpe.com/t5/Around-the-Storage-Block/Data-Locality-in-Hadoop-Taking-a-Deep-Dive/ba-p/6969665#.WX6BFdPyhAY
+hdfs, data locality 
+- https://community.hpe.com/t5/Around-the-Storage-Block/Data-Locality-in-Hadoop-Taking-a-Deep-Dive/ba-p/6969665#.WX6BFdPyhAY
+- https://community.hortonworks.com/articles/4698/hps-bdra-what-is-different-from-traditional-hadoop.html
 
 webhdfs, curl example:
 ```
