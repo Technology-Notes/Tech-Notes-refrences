@@ -1,3 +1,6 @@
+Maven Archetype (for Spark):
+- https://github.com/spark-in-action/scala-archetype-sparkinaction
+
 Unit test
 - https://github.com/bosea/spark-unit-testing
 
