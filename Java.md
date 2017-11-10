@@ -1,3 +1,7 @@
+java 8 tutorial:
+- http://www.mkyong.com/tutorials/java-8-tutorials/
+- https://github.com/winterbe/java8-tutorial
+
 http://stackoverflow.com/questions/5726291/updating-version-numbers-of-modules-in-a-multi-module-maven-project
 
 Requested array size exceeds VM limit:
