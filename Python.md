@@ -1,3 +1,5 @@
+The Hitchhiker’s Guide to Packaging, https://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/index.html
+
 sample module:
 - http://docs.python-guide.org/en/latest/writing/structure/
 - https://github.com/kennethreitz/samplemod
