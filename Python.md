@@ -1,3 +1,7 @@
+# Testing
+http://pythontesting.net/
+
+# Packaging
 The Hitchhiker’s Guide to Packaging, https://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/index.html
 
 sample module:
