@@ -4,6 +4,7 @@ Maven Archetype (for Spark):
 Unit test
 - https://github.com/bosea/spark-unit-testing
 - https://dzone.com/articles/testing-spark-code
+- https://stackoverflow.com/questions/44536150/how-do-i-use-spark-testing-base-with-maven
 
 Spark 2.2 CBO, https://databricks.com/blog/2017/08/31/cost-based-optimizer-in-apache-spark-2-2.html
 
