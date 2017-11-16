@@ -1,3 +1,64 @@
+##
+hdfs-over-ftp
+
+https://github.com/chia7712/hof
+
+```
+# cat conf/hdfs-over-ftp.properties 
+
+#uncomment this to run ftp server
+port = 2222
+data-ports = 2223-2225
+
+#uncomment this to run ssl ftp server
+#ssl-port = 2226
+#ssl-data-ports = 2227-2229
+
+# hdfs uri
+#hdfs-uri = hdfs://localhost:8020
+hdfs-uri = hdfs://mnode1:9000
+
+# have to be a user which runs HDFS
+# this allows you to start ftp server as a root to use 21 port
+# and use hdfs as a superuser
+superuser = hdfs
+
+```
+
+```
+# cat conf/users.properties 
+
+ftpserver.user.test.userpassword=5f4dcc3b5aa765d61d8327deb882cf99
+ftpserver.user.test.homedirectory=/user/test
+ftpserver.user.test.enableflag=true
+ftpserver.user.test.writepermission=true
+ftpserver.user.test.maxloginnumber=0
+ftpserver.user.test.maxloginperip=0
+ftpserver.user.test.idletime=0
+ftpserver.user.test.uploadrate=0
+ftpserver.user.test.downloadrate=0
+ftpserver.user.test.groups=test,users
+```
+
+```
+su -s /bin/bash hdfs -c "cd /opt/hof-0.1.1/; bin/hof hof conf/hdfs-over-ftp.properties conf/users.properties"
+
+ps aux | grep hof
+````
+
+-- HDFS
+```
+sudo -u hdfs hdfs dfs -mkdir -p /user/test
+sudo -u hdfs hdfs dfs -chown test /user/test
+```
+
+-- Test
+```
+$ ftp ftp://test:password@HOSTNAME:2222
+```
+
+## TBD
+
 hdfs, data locality, HP moonshot, BDRA
 - https://community.hpe.com/t5/Around-the-Storage-Block/Data-Locality-in-Hadoop-Taking-a-Deep-Dive/ba-p/6969665#.WX6BFdPyhAY
 - https://community.hortonworks.com/articles/4698/hps-bdra-what-is-different-from-traditional-hadoop.html
