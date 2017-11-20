@@ -1,5 +1,3 @@
-All about redirections, http://www.catonmat.net/blog/bash-one-liners-explained-part-three/
-
 homebrew versions
 - https://coderwall.com/p/1ouwaq/install-specific-version-of-a-software-with-brew
 
