@@ -1,3 +1,5 @@
+https://github.com/youngwookim/better-java
+
 java 8 tutorial:
 - http://www.mkyong.com/tutorials/java-8-tutorials/
 - https://github.com/winterbe/java8-tutorial
