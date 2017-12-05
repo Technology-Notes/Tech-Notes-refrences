@@ -1,3 +1,9 @@
+```
+$ spark-shell
+scala> :load src/WordCount.scala
+
+```
+
 Maven Archetype (for Spark):
 - https://github.com/spark-in-action/scala-archetype-sparkinaction
 - https://www.luckyryan.com/2013/02/15/create-maven-archetype-from-existing-project/
