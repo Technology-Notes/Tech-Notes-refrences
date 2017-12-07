@@ -21,7 +21,9 @@ BOM for DAP:
 
 개발
 - 0. 스택 정의
-- 1. 개발 및 Integration Test https://tde.sktelecom.com/stash/projects/BDD/repos/bigtop/
+- 1. 개발 및 Integration Test 
+  * https://tde.sktelecom.com/stash/projects/BDD/repos/bigtop/
+  * https://tde.sktelecom.com/stash/projects/BDD/repos/metatron-solution-builder
 - 2. CI(Jenkins)
 - 3. YUM/APT
 
