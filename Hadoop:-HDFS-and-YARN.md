@@ -64,6 +64,8 @@ hdfs, data locality, HP moonshot, BDRA
 - https://community.hortonworks.com/articles/4698/hps-bdra-what-is-different-from-traditional-hadoop.html
 - https://www.slideshare.net/profyclub_ru/6-key-trends-in-big-data-and-new-reference-architecture-from-hewlett-packard-enterprise-gilles-noisette
 - https://www.youtube.com/watch?v=P5GXf9xU2kk
+- https://h20195.www2.hpe.com/V2/GetDocument.aspx?docname=4AA6-8931ENW
+- HPE Reference Architecture for migration from a traditional Hadoop architecture to an HPE Workload and Density Optimized solution, https://h20195.www2.hpe.com/V2/GetDocument.aspx?docname=a00027171enw
 
 webhdfs, curl example:
 ```
