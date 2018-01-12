@@ -1,4 +1,10 @@
-Spark 2.1.0, HBase 1.2.4 & Phoenix 4.10.0-HBase-1.2
+Spark 2.2.0, HBase 1.2.5 & Phoenix 4.13.1-HBase-1.2
+
+Ref: https://phoenix.apache.org/phoenix_spark.html
+
+{quote}
+To ensure that all requisite Phoenix / HBase platform dependencies are available on the classpath for the Spark executors and drivers, set both ‘spark.executor.extraClassPath’ and ‘spark.driver.extraClassPath’ in spark-defaults.conf to include the ‘phoenix-<version>-client.jar’
+{quote}
 
 /etc/spark/conf/spark-defaults.conf:
 ```
@@ -6,6 +12,7 @@ spark.executor.extraClassPath    /usr/lib/phoenix/phoenix-client.jar
 spark.driver.extraClassPath      /usr/lib/phoenix/phoenix-client.jar
 
 ```
+또는
 
 spark-shell:
 ```
