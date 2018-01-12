@@ -31,7 +31,7 @@ df.show
 
 spark-shell on YARN:
 ```
-spark-shell --master yarn --conf "spark.executor.extraClassPath=/usr/lib/phoenix/phoenix-client.jar" --conf "spark.driver.extraClassPath=/usr/lib/phoenix/phoenix-client.jar"
+spark-shell --master yarn --conf "spark.executor.extraClassPath=/usr/lib/phoenix/phoenix-client.jar" --conf "spark.driver.extraClassPath=/usr/lib/phoenix/phoenix-client.jar" --conf "spark.hadoop.yarn.timeline-service.enabled=false"
 ```
 
 ----
