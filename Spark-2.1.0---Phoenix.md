@@ -16,11 +16,12 @@ spark.driver.extraClassPath      /usr/lib/phoenix/phoenix-client.jar
 
 spark-shell:
 ```
-$ spark-shell --master yarn --deploy-mode client
+$ spark-shell --conf "spark.executor.extraClassPath=/usr/lib/phoenix/phoenix-client.jar" --conf "spark.driver.extraClassPath=/usr/lib/phoenix/phoenix-client.jar"
+```
 
-
+```
 val opts = Map(
-  "table" -> "TEST.TEST",
+  "table" -> "WEB_STAT",
   "zkUrl" -> "node1,node2,node3")
 
 val df = spark.read.format("org.apache.phoenix.spark").options(opts).load
