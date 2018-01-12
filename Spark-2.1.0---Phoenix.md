@@ -29,9 +29,9 @@ val df = spark.read.format("org.apache.phoenix.spark").options(opts).load
 df.show
 ```
 
-YARN:
+spark-shell on YARN:
 ```
-
+spark-shell --master yarn --conf "spark.executor.extraClassPath=/usr/lib/phoenix/phoenix-client.jar" --conf "spark.driver.extraClassPath=/usr/lib/phoenix/phoenix-client.jar"
 ```
 
 ----
