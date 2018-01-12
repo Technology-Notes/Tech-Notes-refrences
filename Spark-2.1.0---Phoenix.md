@@ -29,6 +29,13 @@ val df = spark.read.format("org.apache.phoenix.spark").options(opts).load
 df.show
 ```
 
+YARN:
+```
+
+```
+
+----
+
 STS:
 ```
 $ /usr/lib/spark/bin/beeline -u 'jdbc:hive2://host:port'
