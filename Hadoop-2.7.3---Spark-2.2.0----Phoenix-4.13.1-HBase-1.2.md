@@ -12,7 +12,7 @@ spark.executor.extraClassPath    /usr/lib/phoenix/phoenix-client.jar
 spark.driver.extraClassPath      /usr/lib/phoenix/phoenix-client.jar
 
 ```
-또는
+Or
 
 spark-shell:
 ```
