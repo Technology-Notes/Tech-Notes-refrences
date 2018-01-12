@@ -18,7 +18,6 @@ spark-shell:
 ```
 $ spark-shell --master yarn --deploy-mode client
 
-......
 
 val opts = Map(
   "table" -> "TEST.TEST",
