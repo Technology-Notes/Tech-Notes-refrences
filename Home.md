@@ -1,3 +1,5 @@
+https://chris.beams.io/posts/git-commit/
+
 homebrew versions
 - https://coderwall.com/p/1ouwaq/install-specific-version-of-a-software-with-brew
 
