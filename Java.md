@@ -1,3 +1,6 @@
+Java, Read & Write binary file:
+* http://www.javapractices.com/topic/TopicAction.do?Id=245
+
 http://www.vogella.com/tutorials/java.html
 
 https://github.com/youngwookim/better-java
