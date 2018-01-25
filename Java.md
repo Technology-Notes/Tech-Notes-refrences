@@ -1,3 +1,6 @@
+SLF4J:
+* https://gualtierotesta.wordpress.com/2016/02/27/tutorial-correct-slf4j-logging-usage-and-how-to-check-it/
+
 Java, Read & Write binary file:
 * http://www.javapractices.com/topic/TopicAction.do?Id=245
 
