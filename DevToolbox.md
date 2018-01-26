@@ -7,8 +7,8 @@
 
 # eclipse
 * Plugins
- - https://github.com/typesafehub/sbteclipse
- - scala IDE
+  * https://github.com/typesafehub/sbteclipse
+  * scala IDE
  - checkstyle
  - pydev
  - dbeaver 
