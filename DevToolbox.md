@@ -6,7 +6,12 @@
  - https://github.com/beautifulcode/ssh-copy-id-for-OSX
 
 # eclipse
-* https://github.com/typesafehub/sbteclipse
+* Plugins
+ - https://github.com/typesafehub/sbteclipse
+ - scala IDE
+ - checkstyle
+ - pydev
+ - dbeaver 
 
 # git
 * git push & 400 ERROR
