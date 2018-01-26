@@ -9,9 +9,9 @@
 * Plugins
   * https://github.com/typesafehub/sbteclipse
   * scala IDE
- - checkstyle
- - pydev
- - dbeaver 
+  * checkstyle
+  * pydev
+  * dbeaver 
 
 # git
 * git push & 400 ERROR
