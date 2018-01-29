@@ -1,3 +1,6 @@
+https://www.sigmoid.com/spark-streaming-internals/
+
+spark-shell:
 ```
 $ spark-shell
 scala> :load src/WordCount.scala
