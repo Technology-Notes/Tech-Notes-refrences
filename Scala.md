@@ -1,4 +1,6 @@
 
+https://github.com/twitter/effectivescala
+
 https://twitter.github.io/scala_school/ko/index.html
 
 http://bryanesmith.com/docs/other-notes/scala-school.pdf
