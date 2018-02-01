@@ -127,3 +127,8 @@ https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/W265aa64a
 http://dewoods.com/blog/hadoop-kerberos-guide
 
 http://hortonworks.com/blog/simplifying-user-logs-management-and-access-in-yarn/
+
+## Pig
+Hive 2.0, https://issues.apache.org/jira/browse/PIG-4764
+
+HACT, https://cwiki.apache.org/confluence/display/Hive/HCatalog+LoadStore
