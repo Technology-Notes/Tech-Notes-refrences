@@ -1,6 +1,7 @@
 
 ## DI
 * Guice
+  * https://github.com/google/guice/wiki
   * https://www.ibm.com/developerworks/library/j-guice/
 
 ## Logging
