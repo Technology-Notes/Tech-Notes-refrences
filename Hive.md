@@ -1,3 +1,6 @@
+Hive & Tez, http://pivotalhd.docs.pivotal.io/docs/performance-tuning-guide.html
+https://developer.ibm.com/hadoop/2015/12/14/install-tez-iop-4-1/
+
 Hive 2.1.1 & MSSQL
 - https://issues.apache.org/jira/browse/HIVE-16106
  
