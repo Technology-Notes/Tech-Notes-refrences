@@ -26,3 +26,4 @@ http://docs.oracle.com/javase/8/docs/technotes/tools/unix/java.html#BABCBGHF
 * http://winterbe.com/posts/2015/04/07/java8-concurrency-tutorial-thread-executor-examples/
 * https://github.com/callicoder/java-concurrency-examples
 * http://www.vogella.com/tutorials/JavaConcurrency/article.html
+* https://www.ibm.com/developerworks/library/j-jvmc2/index.html
