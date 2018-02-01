@@ -1,3 +1,8 @@
+
+## DI
+* Guice
+  * https://www.ibm.com/developerworks/library/j-guice/
+
 Effective Java:
 * http://www.slideshare.net/lifeinnovator/effective-java-57604973 
 
