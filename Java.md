@@ -20,3 +20,8 @@ Requested array size exceeds VM limit:
 http://docs.oracle.com/javase/8/docs/technotes/tools/unix/java.html#BABCBGHF
 -XX:+AggressiveOpts
 -XX:+AggressiveHeap
+
+## Concurrency (Java8)
+* https://docs.oracle.com/javase/tutorial/essential/concurrency/index.html
+* http://winterbe.com/posts/2015/04/07/java8-concurrency-tutorial-thread-executor-examples/
+* https://github.com/callicoder/java-concurrency-examples
