@@ -14,7 +14,7 @@ spark.driver.extraClassPath      /usr/lib/phoenix/phoenix-client.jar
 ```
 Or
 
-## spark-shell
+spark-shell:
 ```
 $ spark-shell --conf "spark.executor.extraClassPath=/usr/lib/phoenix/phoenix-client.jar" --conf "spark.driver.extraClassPath=/usr/lib/phoenix/phoenix-client.jar"
 ```
