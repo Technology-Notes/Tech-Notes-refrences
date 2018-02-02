@@ -14,7 +14,7 @@ spark.driver.extraClassPath      /usr/lib/phoenix/phoenix-client.jar
 ```
 Or
 
-spark-shell:
+## spark-shell
 ```
 $ spark-shell --conf "spark.executor.extraClassPath=/usr/lib/phoenix/phoenix-client.jar" --conf "spark.driver.extraClassPath=/usr/lib/phoenix/phoenix-client.jar"
 ```
@@ -36,7 +36,7 @@ spark-shell --master yarn --conf "spark.executor.extraClassPath=/usr/lib/phoenix
 
 ----
 
-STS:
+## STS
 ```
 $ /usr/lib/spark/bin/beeline -u 'jdbc:hive2://host:port'
 
@@ -48,4 +48,13 @@ table "TEST.TEST",
 zkUrl "node1,node2,node3"
 );
 
+```
+
+## Zeppelin
+
+```
+%spark.dep
+
+z.reset() // clean up previously added artifact and repository
+z.load("/usr/lib/phoenix/phoenix-client.jar")
 ```
