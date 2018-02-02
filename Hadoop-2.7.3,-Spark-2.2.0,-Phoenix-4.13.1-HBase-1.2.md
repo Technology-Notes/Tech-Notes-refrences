@@ -1,4 +1,4 @@
-Hadoop 2.7.3, Spark 2.2.0, HBase 1.2.5 & Phoenix 4.13.1-HBase-1.2
+# Hadoop 2.7.3, Spark 2.2.0, HBase 1.2.5 & Phoenix 4.13.1-HBase-1.2
 
 Ref: https://phoenix.apache.org/phoenix_spark.html
 
