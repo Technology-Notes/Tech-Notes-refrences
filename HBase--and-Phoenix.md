@@ -1,3 +1,5 @@
+https://community.hortonworks.com/questions/87231/reduce-existing-hbase-table-regions.html
+
 https://github.com/Azure-Samples/hbase-phoenix-connection-pool
 
 https://github.com/Pirionfr/pyPhoenix
