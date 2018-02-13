@@ -28,6 +28,8 @@ java 8 tutorial:
 - http://www.mkyong.com/tutorials/java-8-tutorials/
 - https://github.com/winterbe/java8-tutorial
 
+java, default method:
+- http://www.baeldung.com/java-static-default-methods
 
 
 ## Tips
