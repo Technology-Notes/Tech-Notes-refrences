@@ -1,5 +1,6 @@
 ## Docker
 - https://github.com/Lewuathe/docker-presto-cluster
+- https://github.com/zhicwu/docker-presto
 
 ## Prestogres
 - https://github.com/treasure-data/prestogres
