@@ -1,3 +1,5 @@
+https://www.slideshare.net/cloudera/h-base-and-accumulo-todd-lipcom-jan-25-2012
+
 https://community.hortonworks.com/questions/87231/reduce-existing-hbase-table-regions.html
 
 https://community.hortonworks.com/questions/59557/hbase-phoenix-query-server-tuning-properties.html
