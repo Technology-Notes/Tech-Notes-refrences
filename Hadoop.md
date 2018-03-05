@@ -1,3 +1,6 @@
+## WebHDFS
+- WebHDFS & HA, https://issues.cloudera.org/browse/DISTRO-403
+
 ##
 hdfs-over-ftp
 
