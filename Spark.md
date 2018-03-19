@@ -1,4 +1,6 @@
-https://www.inovex.de/blog/247-spark-streaming-on-yarn-in-production/
+Spark Streaming:
+- https://www.slideshare.net/JoanViladrosaRiera/spark-streaming-kafka-010
+- https://www.inovex.de/blog/247-spark-streaming-on-yarn-in-production/
 
 
 spark-shell:
