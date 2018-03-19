@@ -1,3 +1,4 @@
+https://www.inovex.de/blog/247-spark-streaming-on-yarn-in-production/
 
 
 spark-shell:
