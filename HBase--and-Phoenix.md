@@ -1,3 +1,7 @@
+## Deployment
+- PQS & Haproxy, https://community.hortonworks.com/articles/9377/deploying-the-phoenix-query-server-in-production-e.html
+
+## Etc.
 https://www.slideshare.net/cloudera/h-base-and-accumulo-todd-lipcom-jan-25-2012
 
 https://community.hortonworks.com/questions/87231/reduce-existing-hbase-table-regions.html
@@ -92,7 +96,6 @@ Phoenix + HBase: An Enterprise Grade Data-Warehouse Appliance for Interactive An
 - https://www.youtube.com/watch?v=BR94YR1GP54
 
 
-https://community.hortonworks.com/articles/9377/deploying-the-phoenix-query-server-in-production-e.html
 
 PHOENIX-2743 HivePhoenixHandler for big-big join with predicate push down
 
