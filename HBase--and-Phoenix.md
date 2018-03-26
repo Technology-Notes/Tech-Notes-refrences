@@ -2,6 +2,11 @@
 - PQS & Haproxy, https://community.hortonworks.com/articles/9377/deploying-the-phoenix-query-server-in-production-e.html
 - https://www.percona.com/blog/2014/10/03/haproxy-give-me-some-logs-on-centos-6-5/
 
+## Apache Phoenix
+
+### PQS JDBC
+- https://github.com/joshelser/phoenix-queryserver-jdbc-client
+
 
 ## Etc.
 https://www.slideshare.net/cloudera/h-base-and-accumulo-todd-lipcom-jan-25-2012
