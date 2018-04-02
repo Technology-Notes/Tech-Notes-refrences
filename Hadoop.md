@@ -70,6 +70,7 @@ hdfs, data locality, HP moonshot, BDRA
 - https://h20195.www2.hpe.com/V2/GetDocument.aspx?docname=4AA6-8931ENW
 - HPE Reference Architecture for migration from a traditional Hadoop architecture to an HPE Workload and Density Optimized solution, https://h20195.www2.hpe.com/V2/GetDocument.aspx?docname=a00027171enw
 - https://www.slideshare.net/HadoopSummit/empower-datadriven-organizations
+- https://www.bluedata.com/blog/2018/03/hadoop-3-decoupling-hadoop-compute-storage/
 
 webhdfs, curl example:
 ```
