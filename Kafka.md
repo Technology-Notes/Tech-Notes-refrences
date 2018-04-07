@@ -1,1 +1,3 @@
-https://github.com/gwenshap/kafka-examples
+## Examples
+- https://github.com/confluentinc/examples
+- https://github.com/gwenshap/kafka-examples
