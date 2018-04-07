@@ -6,6 +6,7 @@
 
 ## Kafka
 ### Kafka
+- https://github.com/wurstmeister/kafka-docker
 ### Schema Registry
 ### schema-registry-ui
 - https://github.com/Landoop/schema-registry-ui/tree/master/docker
