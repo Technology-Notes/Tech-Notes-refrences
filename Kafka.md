@@ -2,9 +2,10 @@
 - http://www.hongyusu.com/amt/spark-streaming-kafka-avro-and-registry.html
 - https://github.com/opencore/kafka-spark-avro-example
 
-## Schema Registry
+## Kafka Schema Registry
 - https://github.com/confluentinc/schema-registry
 - https://github.com/Landoop/schema-registry-ui
+- https://dzone.com/articles/kafka-avro-serialization-and-the-schema-registry
 - http://cloudurable.com/blog/kafka-avro-schema-registry/index.html
 ```
 The compatibility checks value is one of the following:
