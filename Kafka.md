@@ -19,3 +19,6 @@ FULL - make sure new schema is forwards and backwards compatible from latest to 
 ## Examples
 - https://github.com/confluentinc/examples
 - https://github.com/gwenshap/kafka-examples
+
+## Cheatsheet
+- http://ronnieroller.com/kafka/cheat-sheet
