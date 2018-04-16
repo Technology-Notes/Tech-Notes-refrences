@@ -28,7 +28,7 @@ kafka-topics.sh --list --zookeeper localhost:2181
 kafka-configs.sh --zookeeper localhost:2181 --entity-type topics --entity-name pluto_mvou_events
 
 # The default retention time is 24 hours (86400000 millis)
-kafka-configs.sh --zookeeper localhost:2181 --alter --entity-type topics --entity-name TOPIC_NAME --add-config retention.ms=5184000000
+kafka-configs.sh --zookeeper localhost:2181 --entity-type topics --entity-name TOPIC_NAME --alter --add-config retention.ms=5184000000
 
 
 ```
