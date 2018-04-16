@@ -16,6 +16,20 @@ BACKWARDS (default) - make sure new schema is backwards compatible with latest
 FULL - make sure new schema is forwards and backwards compatible from latest to new and from new to latest
 ```
 
+## Kafka OPS
+```
+1. Alter configs for Kafka topics
+# List topics
+kafka-topics.sh --list --zookeeper localhost:2181
+
+# Describe the topic
+kafka-configs.sh --zookeeper localhost:2181 --entity-type topics --entity-name pluto_mvou_events
+
+# The default retention time is 24 hours (86400000 millis)
+kafka-configs.sh --zookeeper localhost:2181 --alter --entity-type topics --entity-name TOPIC_NAME --add-config retention.ms=5184000000
+
+
+```
 ## Examples
 - https://github.com/confluentinc/examples
 - https://github.com/gwenshap/kafka-examples
