@@ -1,3 +1,5 @@
+https://community.hortonworks.com/articles/80813/kafka-best-practices-1.html
+
 ## Kafka, Spark, Avro Integration
 - http://www.hongyusu.com/amt/spark-streaming-kafka-avro-and-registry.html
 - https://github.com/opencore/kafka-spark-avro-example
