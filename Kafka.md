@@ -1,3 +1,5 @@
+https://kafka.apache.org/documentation/
+
 https://community.hortonworks.com/articles/80813/kafka-best-practices-1.html
 
 ## Kafka, Spark, Avro Integration
@@ -19,6 +21,7 @@ FULL - make sure new schema is forwards and backwards compatible from latest to 
 ```
 
 ## Kafka OPS
+- https://kafka.apache.org/documentation/#operations
 ```
 1. Alter configs for Kafka topics
 # List topics
