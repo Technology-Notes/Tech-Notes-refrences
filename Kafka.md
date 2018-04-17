@@ -2,6 +2,13 @@ https://kafka.apache.org/documentation/
 
 https://community.hortonworks.com/articles/80813/kafka-best-practices-1.html
 
+https://sookocheff.com/post/kafka/kafka-in-a-nutshell/
+```
+Consumers and Consumer Groups
+
+Consumers read from any single partition, allowing you to scale throughput of message consumption in a similar fashion to message production. Consumers can also be organized into consumer groups for a given topic — each consumer within the group reads from a unique partition and the group as a whole consumes all messages from the entire topic. If you have more consumers than partitions then some consumers will be idle because they have no partitions to read from. If you have more partitions than consumers then consumers will receive messages from multiple partitions. If you have equal numbers of consumers and partitions, each consumer reads messages in order from exactly one partition.
+```
+
 ## Kafka, Spark, Avro Integration
 - http://www.hongyusu.com/amt/spark-streaming-kafka-avro-and-registry.html
 - https://github.com/opencore/kafka-spark-avro-example
