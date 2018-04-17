@@ -14,6 +14,7 @@ SLF4J:
 * https://github.com/callicoder/java-concurrency-examples
 * http://www.vogella.com/tutorials/JavaConcurrency/article.html
 * https://www.ibm.com/developerworks/library/j-jvmc2/index.html
+* https://stackify.com/java-thread-pools/
 
 ## Tutotials
 
