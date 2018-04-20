@@ -46,7 +46,9 @@ http://docs.oracle.com/javase/8/docs/technotes/tools/unix/java.html#BABCBGHF
 -XX:+AggressiveOpts
 -XX:+AggressiveHeap
 
-Retry? http://www.yegor256.com/2014/08/15/retry-java-method-on-exception.html
+Retry? 
+- Guava Retrying, http://jivimberg.github.io/blog/2014/07/17/keep-trying-with-guava-retrying/
+- http://www.yegor256.com/2014/08/15/retry-java-method-on-exception.html
 
 ## Refs
 Effective Java:
