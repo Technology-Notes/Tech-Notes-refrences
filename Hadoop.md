@@ -1,3 +1,6 @@
+## Hadoop 3.x
+- https://www.slideshare.net/Hadoop_Summit/apache-hadoop-30-community-update-79999467
+
 ## WebHDFS
 - WebHDFS & HA, https://issues.cloudera.org/browse/DISTRO-403
 
