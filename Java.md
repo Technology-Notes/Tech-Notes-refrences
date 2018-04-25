@@ -7,6 +7,7 @@
 ## Logging
 SLF4J:
 * https://gualtierotesta.wordpress.com/2016/02/27/tutorial-correct-slf4j-logging-usage-and-how-to-check-it/
+* https://www.ctheu.com/2016/09/07/why-it-s-important-to-log-using-slf4j/
 
 ## Concurrency (Java8)
 * https://docs.oracle.com/javase/tutorial/essential/concurrency/index.html
