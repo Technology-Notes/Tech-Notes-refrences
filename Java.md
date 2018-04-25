@@ -49,6 +49,7 @@ http://docs.oracle.com/javase/8/docs/technotes/tools/unix/java.html#BABCBGHF
 Retry? 
 - Guava Retrying, http://jivimberg.github.io/blog/2014/07/17/keep-trying-with-guava-retrying/
 - http://www.yegor256.com/2014/08/15/retry-java-method-on-exception.html
+- https://www.ctheu.com/2017/01/22/how-to-communicate-between-micro-services-part-2-retryers/
 
 ## Refs
 Effective Java:
