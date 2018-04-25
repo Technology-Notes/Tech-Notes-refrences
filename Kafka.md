@@ -19,6 +19,7 @@ Consumers read from any single partition, allowing you to scale throughput of me
 - https://dzone.com/articles/kafka-avro-serialization-and-the-schema-registry
 - http://cloudurable.com/blog/kafka-avro-schema-registry/index.html
 - https://www.confluent.io/blog/put-several-event-types-kafka-topic/
+- https://www.ctheu.com/2017/03/02/serializing-data-efficiently-with-apache-avro-and-dealing-with-a-schema-registry/
 ```
 The compatibility checks value is one of the following:
 
