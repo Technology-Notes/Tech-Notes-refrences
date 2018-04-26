@@ -1,3 +1,6 @@
+## JDBC
+- jdbi
+- Commons dbutils (+ Yank)
 
 ## DI
 * Guice
