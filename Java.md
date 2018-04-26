@@ -1,5 +1,5 @@
 ## JDBC
-- jdbi
+- https://github.com/bwajtr/java-persistence-frameworks-comparison
 - Commons dbutils (+ Yank)
 
 ## DI
