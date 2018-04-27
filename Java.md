@@ -8,6 +8,8 @@
   * https://www.ibm.com/developerworks/library/j-guice/
 
 ## Logging
+Flogger, https://google.github.io/flogger/
+
 SLF4J:
 * https://gualtierotesta.wordpress.com/2016/02/27/tutorial-correct-slf4j-logging-usage-and-how-to-check-it/
 * https://www.ctheu.com/2016/09/07/why-it-s-important-to-log-using-slf4j/
