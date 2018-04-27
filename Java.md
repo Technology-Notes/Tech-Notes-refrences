@@ -1,4 +1,4 @@
-## My Stack
+
 ```
 DI
 - Google Guice
@@ -10,6 +10,9 @@ JDBC
 App FW
 - Dropwizard
 - Spring
+
+Tools
+- https://maven.apache.org/plugins/maven-checkstyle-plugin/usage.html
 
 ```
 
