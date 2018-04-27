@@ -1,3 +1,18 @@
+## My Stack
+```
+DI
+- Google Guice
+
+JDBC
+- JDBI
+- Yank
+
+App FW
+- Dropwizard
+- Spring
+
+```
+
 ## App FW
 - Spring
 - Dropwizard (REST)
