@@ -1,3 +1,9 @@
+## App FW
+- Spring
+- Dropwizard (REST)
+- Airlift (REST)
+- Play
+
 ## JDBC
 - https://github.com/bwajtr/java-persistence-frameworks-comparison
 - Commons dbutils (+ Yank)
