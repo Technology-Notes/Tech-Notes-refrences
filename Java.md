@@ -65,6 +65,8 @@ java 8 tutorial:
 java, default method:
 - http://www.baeldung.com/java-static-default-methods
 
+## Tools
+- Code formatter, https://github.com/diffplug/spotless/tree/master/plugin-maven
 
 ## Tips
 http://stackoverflow.com/questions/5726291/updating-version-numbers-of-modules-in-a-multi-module-maven-project
