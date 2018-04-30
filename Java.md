@@ -69,6 +69,8 @@ java, default method:
 - Code formatter, https://github.com/diffplug/spotless/tree/master/plugin-maven
 
 ## Tips
+Circuit Breaker, http://goldone.tistory.com/5
+
 http://stackoverflow.com/questions/5726291/updating-version-numbers-of-modules-in-a-multi-module-maven-project
 
 Requested array size exceeds VM limit:
