@@ -22,6 +22,10 @@ Tools
 - Airlift (REST)
 - Play
 
+## Resiliency
+- failsafe
+- http://resilience4j.github.io/
+
 ## JDBC
 - https://github.com/bwajtr/java-persistence-frameworks-comparison
 - Commons dbutils (+ Yank)
