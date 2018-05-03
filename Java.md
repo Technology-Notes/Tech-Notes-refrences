@@ -74,7 +74,9 @@ java, default method:
 
 ## Tips
 
-Java '::' operator, https://stackoverflow.com/questions/20001427/double-colon-operator-in-java-8
+Java '::' operator, 
+- http://www.baeldung.com/java-8-double-colon-operator
+- https://stackoverflow.com/questions/20001427/double-colon-operator-in-java-8
 
 Circuit Breaker, http://goldone.tistory.com/5
 
