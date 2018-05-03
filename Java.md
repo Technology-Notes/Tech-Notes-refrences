@@ -73,6 +73,9 @@ java, default method:
 - Code formatter, https://github.com/diffplug/spotless/tree/master/plugin-maven
 
 ## Tips
+
+Java '::' operator, https://stackoverflow.com/questions/20001427/double-colon-operator-in-java-8
+
 Circuit Breaker, http://goldone.tistory.com/5
 
 http://stackoverflow.com/questions/5726291/updating-version-numbers-of-modules-in-a-multi-module-maven-project
