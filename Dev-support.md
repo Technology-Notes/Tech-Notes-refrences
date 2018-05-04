@@ -18,3 +18,17 @@
 ```
 $ git config http.postBuffer 524288000
 ```
+
+## Misc.
+
+https://chris.beams.io/posts/git-commit/
+
+homebrew versions
+- https://coderwall.com/p/1ouwaq/install-specific-version-of-a-software-with-brew
+
+
+
+git diff ref - ref:
+```
+git diff refs/tags/0.141..0.141-t > ~/tmp/1.diff
+```
