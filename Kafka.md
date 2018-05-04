@@ -36,6 +36,19 @@ FULL - make sure new schema is forwards and backwards compatible from latest to 
 - https://gist.github.com/benstopford/49555b2962f93f6d50e3
 - https://groups.google.com/forum/#!topic/confluent-platform/oOZ852q8aB4
 
+https://github.com/confluentinc/kafka-streams-examples/blob/4710dbf7017666157ce01de4108b57da41399c28/src/test/java/io/confluent/examples/streams/kafka/EmbeddedSingleNodeKafkaCluster.java
+
+```
+<dependency>
+			<groupId>io.confluent</groupId>
+			<artifactId>kafka-streams-examples</artifactId>
+			<version>4.1.0</version>
+			<!-- Required for e.g. schema registry's RestApp -->
+			<classifier>tests</classifier>
+			<scope>test</scope>
+		</dependency>
+```
+
 ## Kafka OPS
 - https://kafka.apache.org/documentation/#operations
 ```
