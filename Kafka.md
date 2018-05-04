@@ -34,6 +34,7 @@ FULL - make sure new schema is forwards and backwards compatible from latest to 
 - https://github.com/salesforce/kafka-junit
 - https://github.com/Landoop/kafka-testing
 - https://gist.github.com/benstopford/49555b2962f93f6d50e3
+- https://groups.google.com/forum/#!topic/confluent-platform/oOZ852q8aB4
 
 ## Kafka OPS
 - https://kafka.apache.org/documentation/#operations
