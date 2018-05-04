@@ -32,6 +32,7 @@ FULL - make sure new schema is forwards and backwards compatible from latest to 
 ## Unit Test
 - https://github.com/chbatey/kafka-unit
 - https://github.com/salesforce/kafka-junit
+- https://github.com/Landoop/kafka-testing
 - https://gist.github.com/benstopford/49555b2962f93f6d50e3
 
 ## Kafka OPS
