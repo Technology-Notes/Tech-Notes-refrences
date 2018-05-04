@@ -29,6 +29,11 @@ BACKWARDS (default) - make sure new schema is backwards compatible with latest
 FULL - make sure new schema is forwards and backwards compatible from latest to new and from new to latest
 ```
 
+## Unit Test
+- https://github.com/chbatey/kafka-unit
+- https://github.com/salesforce/kafka-junit
+- https://gist.github.com/benstopford/49555b2962f93f6d50e3
+
 ## Kafka OPS
 - https://kafka.apache.org/documentation/#operations
 ```
