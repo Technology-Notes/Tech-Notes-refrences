@@ -33,6 +33,9 @@ Tools
 - http://resilience4j.github.io/
 
 ## JDBC
+* JDBI
+  * http://jdbi.org/
+  * http://www.baeldung.com/jdbi
 - https://github.com/bwajtr/java-persistence-frameworks-comparison
 - Commons dbutils (+ Yank)
 
