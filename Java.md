@@ -22,6 +22,9 @@ Tools
 - Airlift (REST)
 - Play
 
+## Optional (Java8)
+* https://www.mkyong.com/java8/java-8-optional-in-depth/
+
 ## Unit Test
 * https://dzone.com/articles/using-spring-fakeftpserver
 
