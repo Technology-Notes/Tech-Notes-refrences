@@ -27,6 +27,8 @@ Tools
 
 ## Unit Test
 * https://dzone.com/articles/using-spring-fakeftpserver
+* Junit & resources
+  * https://howtoprogram.xyz/2017/01/17/read-file-and-resource-in-junit-test/
 
 ## Regexp
 * https://www.freeformatter.com/java-regex-tester.html
