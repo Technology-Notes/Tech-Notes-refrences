@@ -11,6 +11,9 @@ Consumers read from any single partition, allowing you to scale throughput of me
 
 Scalability of Kafka Messaging using Consumer Groups, http://blog.cloudera.com/blog/2018/05/scalability-of-kafka-messaging-using-consumer-groups/
 
+Kafka Clients (at-most-once, at-least-once, exactly-once and Avro Client)
+* https://medium.com/@ajmalbabu/kafka-0-9-0-clients-db1f43257d30
+
 ## Kafka, Spark, Avro Integration
 - http://www.hongyusu.com/amt/spark-streaming-kafka-avro-and-registry.html
 - https://github.com/opencore/kafka-spark-avro-example
