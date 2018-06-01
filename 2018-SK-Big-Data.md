@@ -9,3 +9,8 @@
 
 MSA
 - http://channy.creation.net/articles/microservices-by-james_lewes-martin_fowler
+
+Delivery Semantics (Streaming, Kafka, Spark and Flink)
+- Delivery Semantics, https://www.confluent.io/blog/tutorial-getting-started-with-the-new-apache-kafka-0-9-consumer-client/
+- https://medium.com/@ajmalbabu/kafka-0-9-0-clients-db1f43257d30
+
