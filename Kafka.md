@@ -1,15 +1,14 @@
-https://kafka.apache.org/documentation/
-
-https://community.hortonworks.com/articles/80813/kafka-best-practices-1.html
-
-https://sookocheff.com/post/kafka/kafka-in-a-nutshell/
+# Apache Kafka
+* https://kafka.apache.org/documentation/
+* https://sookocheff.com/post/kafka/kafka-in-a-nutshell/
 ```
 Consumers and Consumer Groups
 
 Consumers read from any single partition, allowing you to scale throughput of message consumption in a similar fashion to message production. Consumers can also be organized into consumer groups for a given topic — each consumer within the group reads from a unique partition and the group as a whole consumes all messages from the entire topic. If you have more consumers than partitions then some consumers will be idle because they have no partitions to read from. If you have more partitions than consumers then consumers will receive messages from multiple partitions. If you have equal numbers of consumers and partitions, each consumer reads messages in order from exactly one partition.
 ```
 
-Scalability of Kafka Messaging using Consumer Groups, http://blog.cloudera.com/blog/2018/05/scalability-of-kafka-messaging-using-consumer-groups/
+## Tuning
+* https://community.hortonworks.com/articles/80813/kafka-best-practices-1.html
 
 ## KSQL
 * https://github.com/confluentinc/ksql
@@ -19,6 +18,8 @@ Scalability of Kafka Messaging using Consumer Groups, http://blog.cloudera.com/b
 ## Kafka Consumer client
 * https://www.confluent.io/blog/tutorial-getting-started-with-the-new-apache-kafka-0-9-consumer-client/
 * Kafka Clients (at-most-once, at-least-once, exactly-once and Avro Client), https://medium.com/@ajmalbabu/kafka-0-9-0-clients-db1f43257d30
+* Scalability of Kafka Messaging using Consumer Groups, http://blog.cloudera.com/blog/2018/05/scalability-of-kafka-messaging-using-consumer-groups/
+
 
 ## Kafka, Spark, Avro Integration
 - http://www.hongyusu.com/amt/spark-streaming-kafka-avro-and-registry.html
@@ -68,13 +69,14 @@ https://github.com/confluentinc/kafka-streams-examples/blob/4710dbf7017666157ce0
 kafka-topics.sh --list --zookeeper localhost:2181
 
 # Describe the topic
-kafka-configs.sh --zookeeper localhost:2181 --entity-type topics --entity-name pluto_mvou_events
+kafka-configs.sh --zookeeper localhost:2181 --entity-type topics --entity-name TOPIC_NAME
 
 # The default retention time is 24 hours (86400000 millis)
 kafka-configs.sh --zookeeper localhost:2181 --entity-type topics --entity-name TOPIC_NAME --alter --add-config retention.ms=5184000000
 
 
 ```
+
 ## Examples
 - https://github.com/confluentinc/examples
 - https://github.com/gwenshap/kafka-examples
