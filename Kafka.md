@@ -8,6 +8,7 @@ Consumers read from any single partition, allowing you to scale throughput of me
 ```
 
 ## Tuning
+* https://kafka.apache.org/documentation/#configuration
 * https://community.hortonworks.com/articles/80813/kafka-best-practices-1.html
 
 ## KSQL
