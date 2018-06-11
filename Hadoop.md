@@ -63,6 +63,10 @@ sudo -u hdfs hdfs dfs -chown test /user/test
 $ ftp ftp://test:password@HOSTNAME:2222
 ```
 
+
+## MiniHDFS
+* http://www.lopakalogic.com/articles/hadoop-articles/hadoop-testing-with-minicluster/
+
 ## TBD
 
 hdfs, data locality, HP moonshot, BDRA
