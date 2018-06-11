@@ -17,6 +17,7 @@ Maven Archetype (for Spark):
 
 
 Unit test
+- http://www.jesse-anderson.com/2016/04/unit-testing-spark-with-java/
 - https://github.com/bosea/spark-unit-testing
 - https://dzone.com/articles/testing-spark-code
 - https://stackoverflow.com/questions/44536150/how-do-i-use-spark-testing-base-with-maven
