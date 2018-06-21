@@ -43,6 +43,7 @@ Tools
   * http://www.baeldung.com/jdbi
 - https://github.com/bwajtr/java-persistence-frameworks-comparison
 - Commons dbutils (+ Yank)
+* https://www.stubbornjava.com/posts/database-connection-pooling-in-java-with-hikaricp
 
 ## DI
 * Guice
