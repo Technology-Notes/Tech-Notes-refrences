@@ -1,26 +1,11 @@
-
-```
-DI
-- Google Guice
-
-JDBC
-- JDBI
-- Yank
-
-App FW
-- Dropwizard
-- Spring
-
-Tools
-- https://maven.apache.org/plugins/maven-checkstyle-plugin/usage.html
-
-```
-
 ## App FW
 - Spring
 - Dropwizard (REST)
 - Airlift (REST)
 - Play
+
+## Config
+* https://github.com/lightbend/config
 
 ## Optional (Java8)
 * https://www.mkyong.com/java8/java-8-optional-in-depth/
