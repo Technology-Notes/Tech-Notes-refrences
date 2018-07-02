@@ -1,6 +1,7 @@
 JDBC Reporter:
 
 1. https://github.com/wso2/carbon-metrics
+* https://github.com/wso2/carbon-metrics/blob/master/components/org.wso2.carbon.metrics.jdbc.reporter/src/main/java/org/wso2/carbon/metrics/jdbc/reporter/JdbcReporter.java
 
 2. https://gist.github.com/abhikalitra/1c252dc20684aaf5d353
 ```
