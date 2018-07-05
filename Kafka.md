@@ -25,6 +25,7 @@ Consumers read from any single partition, allowing you to scale throughput of me
 ## Kafka, Spark, Avro Integration
 - http://www.hongyusu.com/amt/spark-streaming-kafka-avro-and-registry.html
 - https://github.com/opencore/kafka-spark-avro-example
+- https://github.com/simplesteph/kafka-avro-course-udemy
 
 ## Kafka Schema Registry
 - https://github.com/confluentinc/schema-registry
@@ -84,6 +85,7 @@ https://docs.confluent.io/current/kafka/operations.html
 ## Examples
 - https://github.com/confluentinc/examples
 - https://github.com/gwenshap/kafka-examples
+- https://github.com/simplesteph/kafka-avro-course-udemy
 
 ## Cheatsheet
 - http://ronnieroller.com/kafka/cheat-sheet
