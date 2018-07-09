@@ -21,6 +21,10 @@ Consumers read from any single partition, allowing you to scale throughput of me
 * Kafka Clients (at-most-once, at-least-once, exactly-once and Avro Client), https://medium.com/@ajmalbabu/kafka-0-9-0-clients-db1f43257d30
 * Scalability of Kafka Messaging using Consumer Groups, http://blog.cloudera.com/blog/2018/05/scalability-of-kafka-messaging-using-consumer-groups/
 
+## Kafka REST Proxy
+* https://github.com/confluentinc/kafka-rest
+* https://github.com/gamechanger/kafka-rest : Async Python client for Kafka REST proxy
+* https://github.com/bergundy/python-kafka-rest-client
 
 ## Kafka, Spark, Avro Integration
 - http://www.hongyusu.com/amt/spark-streaming-kafka-avro-and-registry.html
