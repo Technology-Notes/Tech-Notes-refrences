@@ -15,6 +15,7 @@ Consumers read from any single partition, allowing you to scale throughput of me
 * https://www.slideshare.net/sap1ens/kafka-streams-the-easiest-way-to-start-with-stream-processing
 * https://datamelt.weebly.com/blog/ruleengine-with-kafka-streams
 * https://codelook.com/versatile-streaming-data-processing-using-kafka-streams-76b32dbe8ef9
+  * https://github.com/robvadai/kafka-streams-bootstrap
 
 ## Tuning Kafka
 * https://kafka.apache.org/documentation/#configuration
