@@ -16,6 +16,9 @@ Consumers read from any single partition, allowing you to scale throughput of me
 * https://github.com/mmolimar/ksql-jdbc-driver
 * KSQL + Avro, https://www.confluent.io/blog/ksql-december-release
 
+## Kafka connect
+* https://github.com/Landoop/stream-reactor
+
 ## Kafka Consumer client
 * https://www.confluent.io/blog/tutorial-getting-started-with-the-new-apache-kafka-0-9-consumer-client/
 * Kafka Clients (at-most-once, at-least-once, exactly-once and Avro Client), https://medium.com/@ajmalbabu/kafka-0-9-0-clients-db1f43257d30
