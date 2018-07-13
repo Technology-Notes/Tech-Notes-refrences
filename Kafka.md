@@ -10,6 +10,7 @@ Consumers read from any single partition, allowing you to scale throughput of me
 ## Kafka Streams (+ Avro)
 * https://kafka.apache.org/documentation.html#streams
 * http://kafka.apache.org/11/documentation/#streamsconfigs
+* https://kafka.apache.org/documentation/streams/developer-guide/
 * https://docs.confluent.io/current/streams/index.html
 * https://github.com/confluentinc/kafka-streams-examples/blob/4.1.1-post/src/main/java/io/confluent/examples/streams/WikipediaFeedAvroExample.java
 * https://www.slideshare.net/sap1ens/kafka-streams-the-easiest-way-to-start-with-stream-processing
