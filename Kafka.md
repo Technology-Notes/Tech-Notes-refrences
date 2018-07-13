@@ -1,6 +1,7 @@
 # Apache Kafka
 * https://kafka.apache.org/documentation/
 * https://sookocheff.com/post/kafka/kafka-in-a-nutshell/
+* https://github.com/infoslack/awesome-kafka
 ```
 Consumers and Consumer Groups
 
@@ -101,7 +102,6 @@ kafka-configs.sh --zookeeper localhost:2181 --entity-type topics --entity-name T
 ```
 
 https://docs.confluent.io/current/kafka/operations.html
-
 
 ## Examples
 - https://github.com/confluentinc/examples
