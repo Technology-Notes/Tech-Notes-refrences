@@ -6,6 +6,7 @@ Hadoop 3.0+
 - Hive 3.0+
 - Tez 0.10.0+
 - Spark (SPARK-23534)
+- HBase 2.0.0+ (Phoenix 5.0+)
 ```
 
 ## WebHDFS
