@@ -1,6 +1,6 @@
 ## Hadoop 3.x
 - https://www.slideshare.net/Hadoop_Summit/apache-hadoop-30-community-update-79999467
-
+- https://www.slideshare.net/Hadoop_Summit/migrating-your-clusters-and-workloads-from-hadoop-2-to-hadoop-3
 ```
 Hadoop 3.0+
 - Hive 3.0+
