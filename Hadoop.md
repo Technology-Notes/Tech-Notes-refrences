@@ -1,6 +1,13 @@
 ## Hadoop 3.x
 - https://www.slideshare.net/Hadoop_Summit/apache-hadoop-30-community-update-79999467
 
+```
+Hadoop 3.0+
+- Hive 3.0+
+- Tez 0.10.0+
+- Spark (SPARK-23534)
+```
+
 ## WebHDFS
 - WebHDFS & HA, https://issues.cloudera.org/browse/DISTRO-403
 
