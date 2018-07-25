@@ -5,7 +5,7 @@
 Hadoop 3.0.3+
 - Hive 3.0+
 - Tez 0.10.0+
-- Spark (SPARK-23534)
+- Spark 2.4.0+ ???(SPARK-23534)
 - HBase 2.0.0+ (Phoenix 5.0+)
 ```
 
