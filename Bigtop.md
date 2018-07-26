@@ -1,3 +1,7 @@
+Use case:
+- Integration Test: https://www.slideshare.net/Hadoop_Summit/scaling-hadoop-at-linkedin-107176757
+
+
 Ambari https://issues.apache.org/jira/browse/AMBARI-19429
 
 https://dataworkssummit.com/san-jose-2017/sessions/leveraging-docker-for-hadoop-build-automation-and-big-data-stack-provisioning/
