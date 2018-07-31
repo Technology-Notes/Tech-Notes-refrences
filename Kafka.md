@@ -21,6 +21,8 @@ Consumers read from any single partition, allowing you to scale throughput of me
 * https://github.com/jaceklaskowski/mastering-kafka-streams-book
 * https://www.manning.com/books/kafka-streams-in-action
 
+* https://www.confluent.io/blog/data-reprocessing-with-kafka-streams-resetting-a-streams-application/
+
 ## Tuning Kafka
 * https://kafka.apache.org/documentation/#configuration
 * https://community.hortonworks.com/articles/80813/kafka-best-practices-1.html
