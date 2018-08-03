@@ -1,6 +1,7 @@
 ## Hadoop 3.x
 - https://www.slideshare.net/Hadoop_Summit/apache-hadoop-30-community-update-79999467
 - Hadoop-2 to Hadoop-3, https://www.slideshare.net/Hadoop_Summit/migrating-your-clusters-and-workloads-from-hadoop-2-to-hadoop-3
+- http://www.adaltas.com/en/2018/07/25/clusters-workloads-migration-hadoop-2-to-3/
 - https://hortonworks.com/blog/first-class-support-long-running-services-apache-hadoop-yarn/
 ```
 Hadoop 3.0.3+
