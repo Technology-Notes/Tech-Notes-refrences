@@ -51,6 +51,9 @@ SLF4J:
 * https://www.ibm.com/developerworks/library/j-jvmc2/index.html
 * https://stackify.com/java-thread-pools/
 
+## Java Design Patterns
+* http://java-design-patterns.com/
+
 ## Tutotials
 
 JSVC
