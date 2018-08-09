@@ -8,6 +8,9 @@ Consumers and Consumer Groups
 Consumers read from any single partition, allowing you to scale throughput of message consumption in a similar fashion to message production. Consumers can also be organized into consumer groups for a given topic — each consumer within the group reads from a unique partition and the group as a whole consumes all messages from the entire topic. If you have more consumers than partitions then some consumers will be idle because they have no partitions to read from. If you have more partitions than consumers then consumers will receive messages from multiple partitions. If you have equal numbers of consumers and partitions, each consumer reads messages in order from exactly one partition.
 ```
 
+## Benchmark
+* https://gist.github.com/saurabhmishra/6ed428be4c00003dd926
+
 ## Kafka Streams (+ Avro)
 * https://kafka.apache.org/documentation/streams/
 * http://kafka.apache.org/11/documentation/#streamsconfigs
