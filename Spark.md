@@ -1,3 +1,6 @@
+Spark structured streaming, Kafka and Avro:
+* Avro SerDe for Apache Spark structured APIs., https://github.com/AbsaOSS/ABRiS
+
 Spark Streaming:
 - https://www.slideshare.net/JoanViladrosaRiera/spark-streaming-kafka-010
 - https://www.inovex.de/blog/247-spark-streaming-on-yarn-in-production/
