@@ -6,6 +6,7 @@
 
 ## Kafka
 ### Kafka
+- https://github.com/sknop/kafka-cluster
 - https://github.com/wurstmeister/kafka-docker
 ### Schema Registry
 ### schema-registry-ui
