@@ -5,9 +5,7 @@
 - https://github.com/Lewuathe/docker-presto-cluster (https://github.com/youngwookim/docker-presto-cluster)
 
 ## Kafka
-### Kafka
+- https://github.com/simplesteph/kafka-stack-docker-compose
 - https://github.com/sknop/kafka-cluster
 - https://github.com/wurstmeister/kafka-docker
-### Schema Registry
-### schema-registry-ui
 - https://github.com/Landoop/schema-registry-ui/tree/master/docker
