@@ -4,6 +4,9 @@
 - Airlift (REST)
 - Play
 
+## Maven Repository
+- https://dzone.com/articles/getting-started-nexus-maven
+
 ## Config
 * https://github.com/lightbend/config
 
