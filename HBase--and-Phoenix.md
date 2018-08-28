@@ -4,6 +4,8 @@
 
 ## Apache Phoenix
 
+### .NET Client for Apache Phoenix
+- https://github.com/Azure/hdinsight-phoenix-sharp
 ### PQS JDBC
 - https://github.com/joshelser/phoenix-queryserver-jdbc-client
 
