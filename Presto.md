@@ -1,3 +1,5 @@
+## .NET Client
+- https://www.nuget.org/packages/PrestoClient/
 ## Docker
 - https://github.com/Lewuathe/docker-presto-cluster
 - https://github.com/zhicwu/docker-presto
