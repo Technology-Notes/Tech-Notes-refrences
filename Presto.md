@@ -1,3 +1,6 @@
+## Apache Phoenix connector
+- https://github.com/prestodb/presto/pull/10536
+
 ## .NET Client
 - https://www.nuget.org/packages/PrestoClient/
 ## Docker
