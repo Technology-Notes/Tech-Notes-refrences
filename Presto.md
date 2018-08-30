@@ -1,5 +1,6 @@
 ## Apache Phoenix connector
 - https://github.com/prestodb/presto/pull/10536
+- https://github.com/combineads/plugin-presto-phoenix
 
 ## .NET Client
 - https://www.nuget.org/packages/PrestoClient/
