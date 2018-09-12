@@ -10,3 +10,5 @@ https://www.slideshare.net/sap1ens/designing-scalable-and-extendable-data-pipeli
 https://databricks.com/session/zipline-airbnbs-machine-learning-data-management-platform
 
 https://medium.com/airbnb-engineering/using-machine-learning-to-predict-value-of-homes-on-airbnb-9272d3d4739d
+
+https://airbnb.io/projects/
