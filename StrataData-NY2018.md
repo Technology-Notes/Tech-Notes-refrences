@@ -6,3 +6,5 @@ Tutorials:
 https://events.linuxfoundation.org/wp-content/uploads/2017/11/Building-Scalable-and-Extendable-Data-Pipelines-For-Call-Of-Duty-Games-Lessons-Learned-Yaroslav-Tkachenko.pdf
 
 https://www.slideshare.net/sap1ens/designing-scalable-and-extendable-data-pipeline-for-call-of-duty-games
+
+https://databricks.com/session/zipline-airbnbs-machine-learning-data-management-platform
