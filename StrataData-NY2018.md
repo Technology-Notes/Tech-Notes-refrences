@@ -12,3 +12,5 @@ https://databricks.com/session/zipline-airbnbs-machine-learning-data-management-
 https://medium.com/airbnb-engineering/using-machine-learning-to-predict-value-of-homes-on-airbnb-9272d3d4739d
 
 https://airbnb.io/projects/
+
+https://databricks.com/session/bighead-airbnbs-end-to-end-machine-learning-platform
