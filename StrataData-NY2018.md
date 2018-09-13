@@ -14,3 +14,6 @@ https://medium.com/airbnb-engineering/using-machine-learning-to-predict-value-of
 https://airbnb.io/projects/
 
 https://databricks.com/session/bighead-airbnbs-end-to-end-machine-learning-platform
+
+Data@Netflix
+- https://github.com/nteract/nteract
