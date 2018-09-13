@@ -17,3 +17,5 @@ https://databricks.com/session/bighead-airbnbs-end-to-end-machine-learning-platf
 
 Data@Netflix
 - https://github.com/nteract/nteract
+- https://medium.com/netflix-techblog/meson-workflow-orchestration-for-netflix-recommendations-fc932625c1d9
+- Papermill, https://medium.com/netflix-techblog/scheduling-notebooks-348e6c14cfd6
