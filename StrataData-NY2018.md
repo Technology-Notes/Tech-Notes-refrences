@@ -1,3 +1,8 @@
+Slides:
+- https://conferences.oreilly.com/strata/strata-ny/public/schedule/proceedings
+
+----
+
 Tutorials:
 - Designing modern streaming data applications
 - Architecting a next-generation data platform
