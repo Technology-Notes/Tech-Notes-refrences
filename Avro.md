@@ -1,3 +1,9 @@
+https://github.com/confluentinc/schema-registry/issues/707
+```
+{ "name": "foobar", "type": ["string", "null"], "default": null },
+```
+"default" -> https://avro.apache.org/docs/1.8.2/spec.html
+
 https://issues.apache.org/jira/browse/AVRO-1811
 
 https://www.ctheu.com/2017/03/02/serializing-data-efficiently-with-apache-avro-and-dealing-with-a-schema-registry/
