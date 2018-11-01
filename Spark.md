@@ -4,6 +4,7 @@ Spark structured streaming, Kafka and Avro:
 Spark Streaming:
 - https://www.slideshare.net/JoanViladrosaRiera/spark-streaming-kafka-010
 - https://www.inovex.de/blog/247-spark-streaming-on-yarn-in-production/
+- http://mkuthan.github.io/blog/2016/09/30/spark-streaming-on-yarn/
 
 
 spark-shell:
