@@ -4,6 +4,8 @@
 
 ## Apache Phoenix
 
+https://medium.com/hashmapinc/3-steps-for-bulk-loading-1m-records-in-20-seconds-into-apache-phoenix-99b77ad87387
+
 ### .NET Client for Apache Phoenix
 - https://github.com/Azure/hdinsight-phoenix-sharp
 ### PQS JDBC
