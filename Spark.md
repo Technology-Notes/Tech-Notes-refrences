@@ -1,3 +1,5 @@
+Spark best practices and tuning - https://legacy.gitbook.com/book/umbertogriffo/apache-spark-best-practices-and-tuning/details
+
 spark.streaming.concurrentJobs
 * http://why-not-learn-something.blogspot.com/2016/06/spark-streaming-performance-tuning-on.html
 * https://stackoverflow.com/questions/23528006/how-jobs-are-assigned-to-executors-in-spark-streaming
