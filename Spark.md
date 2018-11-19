@@ -1,3 +1,6 @@
+spark.streaming.concurrentJobs
+* http://why-not-learn-something.blogspot.com/2016/06/spark-streaming-performance-tuning-on.html
+
 Spark structured streaming, Kafka and Avro:
 * Avro SerDe for Apache Spark structured APIs., https://github.com/AbsaOSS/ABRiS
 
