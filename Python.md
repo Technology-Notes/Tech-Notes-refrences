@@ -1,3 +1,5 @@
+https://docs.python-guide.org/
+
 ## Testing
 http://pythontesting.net/
 
