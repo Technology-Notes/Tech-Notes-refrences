@@ -1,3 +1,5 @@
+http://book.mixu.net/distsys/
+
 Apache Airflow:
 - https://github.com/etsy/boundary-layer
 
