@@ -14,6 +14,11 @@
   * dbeaver 
 
 # git
+* config
+```
+$ git config --global user.name <username>
+$ git config --global user.email <mailaddress>
+```
 * git push & 400 ERROR
 ```
 $ git config http.postBuffer 524288000
