@@ -1,3 +1,5 @@
+https://www.slideshare.net/mas4share/five-major-tips-to-maximize-performance-on-a-200-sql-hbasephoenix-cluster
+
 ## Deployment
 - PQS & Haproxy, https://community.hortonworks.com/articles/9377/deploying-the-phoenix-query-server-in-production-e.html
 - https://www.percona.com/blog/2014/10/03/haproxy-give-me-some-logs-on-centos-6-5/
