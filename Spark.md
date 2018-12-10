@@ -1,3 +1,5 @@
+https://venkateshiyer.net/production-ready-spark-streaming-a8d85b7d66be
+
 https://medium.com/@pmatpadi/spark-streaming-dynamic-scaling-and-backpressure-in-action-6ebdbc782a69
 
 Spark best practices and tuning - https://legacy.gitbook.com/book/umbertogriffo/apache-spark-best-practices-and-tuning/details
