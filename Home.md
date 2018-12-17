@@ -1,3 +1,5 @@
+Architecting HBase Applications
+
 http://book.mixu.net/distsys/
 
 Apache Airflow:
