@@ -1,3 +1,5 @@
+https://kudu.apache.org/kudu.pdf
+
 Docs:
 - https://kudu.apache.org/docs/
 
