@@ -17,6 +17,8 @@ Spark Streaming:
 - http://mkuthan.github.io/blog/2016/09/30/spark-streaming-on-yarn/
 - https://www.stratio.com/blog/optimizing-spark-streaming-applications-apache-kafka/
 
+spark streaming logging configuration:
+- http://shzhangji.com/blog/2015/05/31/spark-streaming-logging-configuration/
 
 spark-shell:
 ```
