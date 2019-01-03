@@ -5,3 +5,4 @@ http://dataartisans.github.io/flink-training/index.html
 
 Flink examples:
 - https://github.com/apache/flink/tree/master/flink-examples
+- https://github.com/dataArtisans/infoworld-post
