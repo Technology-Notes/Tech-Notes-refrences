@@ -11,7 +11,7 @@ Consumers read from any single partition, allowing you to scale throughput of me
 ## Docker
 
 ```
-ttps://github.com/youngwookim/kafka-stack-docker-compose.git
+git clone https://github.com/youngwookim/kafka-stack-docker-compose.git
 
 git tag -l
 v3.2.0
