@@ -7,3 +7,4 @@ Flink examples:
 - https://ci.apache.org/projects/flink/flink-docs-stable/examples/
 - https://github.com/apache/flink/tree/master/flink-examples
 - https://github.com/dataArtisans/infoworld-post
+- https://github.com/apache/flink/tree/master/flink-end-to-end-tests
