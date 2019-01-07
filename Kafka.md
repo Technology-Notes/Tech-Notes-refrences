@@ -8,6 +8,46 @@ Consumers and Consumer Groups
 Consumers read from any single partition, allowing you to scale throughput of message consumption in a similar fashion to message production. Consumers can also be organized into consumer groups for a given topic — each consumer within the group reads from a unique partition and the group as a whole consumes all messages from the entire topic. If you have more consumers than partitions then some consumers will be idle because they have no partitions to read from. If you have more partitions than consumers then consumers will receive messages from multiple partitions. If you have equal numbers of consumers and partitions, each consumer reads messages in order from exactly one partition.
 ```
 
+## Docker
+
+```
+ttps://github.com/youngwookim/kafka-stack-docker-compose.git
+
+git tag -l
+v3.2.0
+v3.2.1
+v3.3.0
+v3.3.1
+v4.0.0
+v4.1.0
+v4.1.2
+v5.0.0
+v5.1.0
+
+git checkout tags/v4.1.2
+```
+
+```
+docker-compose -f zk-single-kafka-single.yml up
+docker-compose -f zk-single-kafka-single.yml down
+
+or
+
+docker-compose -f full-stack.yml up
+docker-compose -f full-stack.yml down
+
+Single Zookeeper: $DOCKER_HOST_IP:2181
+Single Kafka: $DOCKER_HOST_IP:9092
+Kafka Schema Registry: $DOCKER_HOST_IP:8081
+Kafka Schema Registry UI: $DOCKER_HOST_IP:8001
+Kafka Rest Proxy: $DOCKER_HOST_IP:8082
+Kafka Topics UI: $DOCKER_HOST_IP:8000
+Kafka Connect: $DOCKER_HOST_IP:8083
+Kafka Connect UI: $DOCKER_HOST_IP:8003
+Zoonavigator Web: $DOCKER_HOST_IP:8004
+
+```
+
 ## Benchmark
 * https://gist.github.com/saurabhmishra/6ed428be4c00003dd926
 
