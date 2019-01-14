@@ -11,7 +11,7 @@ Consumers read from any single partition, allowing you to scale throughput of me
 ## Cluster topology (Hierarchy)
 * https://events.linuxfoundation.org/wp-content/uploads/2017/11/Building-Scalable-and-Extendable-Data-Pipelines-For-Call-Of-Duty-Games-Lessons-Learned-Yaroslav-Tkachenko.pdf
 * https://www.slideshare.net/kawamuray/multitenancy-kafka-clusters-for-everyone-at-line
-* https://kafka-summit.org/sessions/multi-tenant-multi-cluster-hierarchical-kafka-messaging-service/ 
+* https://www.confluent.io/kafka-summit-sf17/multitenant-multicluster-and-hieracrchical-kafka-messaging-service
 
 ## Docker
 
