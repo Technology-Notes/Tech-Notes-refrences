@@ -10,3 +10,8 @@ zeppelin, centos7, 971748464
 pypi mirror, https://stackoverflow.com/questions/50348248/creating-a-full-replica-offline-copy-of-the-public-pypi-repository
 - https://github.com/pypa/bandersnatch
 
+Readings:
+- Architecting Modern Data Platforms, https://learning.oreilly.com/library/view/architecting-modern-data/9781491969267/
+
+
+
