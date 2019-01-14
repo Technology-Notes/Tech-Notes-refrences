@@ -47,7 +47,7 @@ array_to_string(STDDEV_VAL,':'),
 array_to_string(RANGE_VAL,':'),
 array_to_string(MEDIAN_VAL,':'),
 array_to_string(AREA_VAL, ':')
-FROM HYNIX.BIG_TRACE_SUMMARY where dt='2016-05-16' LIMIT 20")
+FROM TRACE_SUMMARY where dt='2016-05-16' LIMIT 20")
  
 result
 }}}
