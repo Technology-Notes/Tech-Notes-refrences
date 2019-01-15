@@ -8,10 +8,10 @@ SSD 이용한 제품??
 2. HTAP
 *
 
-3. Message Broker (Event Hub) 
+3. Event Hub for Fast Data 
 * Improve Apache Kafka performance with flash storage, https://www.micron.com/about/blog/2017/october/improve-apache-kafka-performance-with-flash-storage
 * SSD Benchmarks on Kafka--Mingmin Chen, Uber (2/16/17), https://www.youtube.com/watch?v=q3e5QjTH59o
-
+* https://www.samsung.com/semiconductor/global.semi.static/Optimizing_Data_Center_Applications_for_Samsung_NVMe_SSD-0.pdf
 ----
 1. YARN local dir
 2. HBase L2 BucketCache
