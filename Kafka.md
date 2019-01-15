@@ -8,6 +8,11 @@ Consumers and Consumer Groups
 Consumers read from any single partition, allowing you to scale throughput of message consumption in a similar fashion to message production. Consumers can also be organized into consumer groups for a given topic — each consumer within the group reads from a unique partition and the group as a whole consumes all messages from the entire topic. If you have more consumers than partitions then some consumers will be idle because they have no partitions to read from. If you have more partitions than consumers then consumers will receive messages from multiple partitions. If you have equal numbers of consumers and partitions, each consumer reads messages in order from exactly one partition.
 ```
 
+## Mirroring (replication)
+* https://github.com/salesforce/mirus
+* MirrorMaker
+* uReplicator
+
 ## Cluster topology (Hierarchy)
 * https://events.linuxfoundation.org/wp-content/uploads/2017/11/Building-Scalable-and-Extendable-Data-Pipelines-For-Call-Of-Duty-Games-Lessons-Learned-Yaroslav-Tkachenko.pdf
 * https://www.slideshare.net/kawamuray/multitenancy-kafka-clusters-for-everyone-at-line
