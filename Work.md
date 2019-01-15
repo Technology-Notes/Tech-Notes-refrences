@@ -6,7 +6,10 @@ SSD 이용한 제품??
 *
 
 2. HTAP
-*
+* Apache Kudu
+  - https://d2.naver.com/helloworld/9099561
+* Apache HBase / Phoenix
+
 
 3. Event Hub for Fast Data 
 * Improve Apache Kafka performance with flash storage, https://www.micron.com/about/blog/2017/october/improve-apache-kafka-performance-with-flash-storage
