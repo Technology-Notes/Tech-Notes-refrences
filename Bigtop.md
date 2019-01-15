@@ -1,3 +1,8 @@
+ASF Gitbox:
+```
+https://gitbox.apache.org/repos/asf/bigtop.git
+```
+
 Use case:
 - Integration Test: https://www.slideshare.net/Hadoop_Summit/scaling-hadoop-at-linkedin-107176757
 
