@@ -29,3 +29,12 @@ SSD 이용한 제품??
 1. YARN local dir
 2. HBase L2 BucketCache
 3. HDFS [SSD]
+
+YCSB, Zipfian vs Uniform:
+```
+In a nutshell, the distribution affects how YCSB reads and scans over the keyspace:
+
+uniform: each row has an equal probability to be read
+zipfian: some rows have more probability to be targeted by reads or scans. Those rows are called "hot set" or "hot spot" and represent popular data, for instance popular threads of a forum. You should set it up with: hotspotdatafraction and hotspotopnfraction. See $YCSB_HOME/workloads/workload_template for more details.
+
+```
