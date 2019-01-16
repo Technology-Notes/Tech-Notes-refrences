@@ -23,6 +23,7 @@ SSD 이용한 제품??
 ## Object storage
   * Ceph
   * Alluxio over Ceph, http://alluxio-users.85194.x6.nabble.com/Alluxio-on-Ceph-td2153.html
+  * https://www.samsung.com/semiconductor/global.semi.static/Alluxio-plus-NVMe-WP-v6-0.pdf
 
 ----
 1. YARN local dir
