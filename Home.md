@@ -1,4 +1,4 @@
-Architecting HBase Applications
+https://github.com/rstacruz/cheatsheets
 
 Apache Airflow:
 - https://github.com/etsy/boundary-layer
