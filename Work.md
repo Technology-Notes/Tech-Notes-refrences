@@ -8,7 +8,7 @@ SSD 이용한 제품??
 
 ## HTAP
  * Apache Kudu
-  - https://d2.naver.com/helloworld/9099561
+   - https://d2.naver.com/helloworld/9099561
  * Apache HBase / Phoenix
 
 ## NoSQL
