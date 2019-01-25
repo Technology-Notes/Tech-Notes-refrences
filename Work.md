@@ -1,6 +1,6 @@
-# SSD (2019)
+# SSD (NVMe, 2019)
 
-SSD 이용한 제품??
+NVMe SSD 이용한 제품??
 
 ## Cache (NVMe)
  * Redis, https://docs.redislabs.com/latest/rs/concepts/memory-architecture/redis-flash/
