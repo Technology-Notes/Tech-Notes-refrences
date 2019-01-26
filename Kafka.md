@@ -162,6 +162,7 @@ https://docs.confluent.io/current/kafka/operations.html
 - https://github.com/confluentinc/examples
 - https://github.com/gwenshap/kafka-examples
 - https://github.com/simplesteph/kafka-avro-course-udemy
+- https://github.com/confluentinc/kafka-streams-examples
 
 ## Cheatsheet
 - http://ronnieroller.com/kafka/cheat-sheet
