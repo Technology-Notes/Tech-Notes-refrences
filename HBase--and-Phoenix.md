@@ -10,7 +10,7 @@
 ```
 - https://www.cloudera.com/documentation/enterprise/5-8-x/topics/admin_hbase_config.html
 - https://community.hortonworks.com/articles/184892/tuning-hbase-for-optimized-performance-part-1.html
-
+- https://docs.hortonworks.com/HDPDocuments/HDP3/HDP-3.0.0/hbase-data-access/content/deploying_hbase.html
 ----
 
 https://www.slideshare.net/mas4share/five-major-tips-to-maximize-performance-on-a-200-sql-hbasephoenix-cluster
