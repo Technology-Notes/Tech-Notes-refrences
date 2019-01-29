@@ -9,6 +9,7 @@
 </property>
 ```
 - https://www.cloudera.com/documentation/enterprise/5-8-x/topics/admin_hbase_config.html
+- https://community.hortonworks.com/articles/184892/tuning-hbase-for-optimized-performance-part-1.html
 
 ----
 
