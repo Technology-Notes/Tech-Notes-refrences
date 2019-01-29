@@ -8,6 +8,9 @@
   <!--<value>ALL_SSD</value>-->
 </property>
 ```
+- https://www.cloudera.com/documentation/enterprise/5-8-x/topics/admin_hbase_config.html
+
+----
 
 https://www.slideshare.net/mas4share/five-major-tips-to-maximize-performance-on-a-200-sql-hbasephoenix-cluster
 
