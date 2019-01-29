@@ -1,3 +1,14 @@
+## Tuning
+- SSD & WAL, https://www.cloudera.com/documentation/enterprise/5-8-x/topics/admin_hbase_wal_storage_policy.html
+```
+<property>
+  <name>hbase.wal.storage.policy</name>
+  <value>NONE</value>
+  <!--<value>ONE_SSD</value>-->
+  <!--<value>ALL_SSD</value>-->
+</property>
+```
+
 https://www.slideshare.net/mas4share/five-major-tips-to-maximize-performance-on-a-200-sql-hbasephoenix-cluster
 
 ## Presto plugin
