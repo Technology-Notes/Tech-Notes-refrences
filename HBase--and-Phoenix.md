@@ -15,8 +15,8 @@
 
 https://www.slideshare.net/mas4share/five-major-tips-to-maximize-performance-on-a-200-sql-hbasephoenix-cluster
 
-## Presto plugin
-- https://github.com/prestodb/presto/pull/12111
+## Presto Phoenix plugin
+- https://github.com/prestosql/presto/pull/76
 
 ## Deployment
 - PQS & Haproxy, https://community.hortonworks.com/articles/9377/deploying-the-phoenix-query-server-in-production-e.html
