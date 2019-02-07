@@ -23,6 +23,10 @@ patch:
 ```
 git format-patch HEAD^..HEAD --stdout > BIGTOP-1031.patch
 ```
+apply the patch:
+```
+curl https://patch-diff.githubusercontent.com/raw/apache/bigtop/pull/442.patch | git am --signoff
+```
 
 ```
 docker run -ti --rm -v `pwd`:/bigtop bigtop/slaves:trunk-centos-7 bash -l
