@@ -98,7 +98,7 @@ Zoonavigator Web: $DOCKER_HOST_IP:8004
 * https://github.com/gamechanger/kafka-rest : Async Python client for Kafka REST proxy
 * https://github.com/bergundy/python-kafka-rest-client
 
-## Kafka, Spark, Avro Integration
+## Kafka, Spark and Avro Integration
 - http://www.hongyusu.com/amt/spark-streaming-kafka-avro-and-registry.html
 - https://github.com/opencore/kafka-spark-avro-example
 - https://github.com/simplesteph/kafka-avro-course-udemy
