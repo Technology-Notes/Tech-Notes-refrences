@@ -1,3 +1,5 @@
+http://info.bluedata.com/rs/693-TGY-247/images/IDC-Perspective-Decoupling-Compute-Storage.pdf
+
 https://github.com/rstacruz/cheatsheets
 
 Apache Airflow:
