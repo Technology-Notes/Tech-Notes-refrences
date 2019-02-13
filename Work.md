@@ -29,6 +29,23 @@ NVMe SSD 이용한 제품??
   * Alluxio, https://www.samsung.com/semiconductor/global.semi.static/Alluxio-plus-NVMe-WP-v6-0.pdf
 
 ----
+TODO:
+```
+1. 신형 SSD 동작 검증
+- Sanity check
+- 워크로드 선정 후 리포트 작성
+- 워크로드
+
+2. metatron + all-flash 개념 검증 (PoC)
+- Redis? Kafka? Kudu? ......
+
+(metatron + NVMe)제품은 내년 출시
+- 상반기 2번 진행 전까지 1번 완료
+- 상반기 2번 항목에 대한 아이템 1개 선정 후 테스트 완료
+
+```
+----
+
 1. YARN local dir
 2. HBase L2 BucketCache
 3. HDFS [SSD]
