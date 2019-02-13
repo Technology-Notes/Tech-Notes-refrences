@@ -34,7 +34,8 @@ TODO:
 1. 신형 SSD 동작 검증
 - Sanity check
 - 워크로드 선정 후 리포트 작성
-- 워크로드? YCSB
+- 워크로드? YCSB + RocksDB
+- https://www.samsung.com/us/labs/pdfs/collateral/Performance-Benefits-of-Running-RocksDB-on-SSDs_Whitepaper.pdf
 
 2. metatron + all-flash 개념 검증 (PoC)
 - Redis? Kafka? Kudu? ......
