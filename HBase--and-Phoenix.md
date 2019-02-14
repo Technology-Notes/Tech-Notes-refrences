@@ -1,3 +1,6 @@
+Timezone
+- https://issues.apache.org/jira/browse/PHOENIX-4822
+
 ## Tuning
 - SSD & WAL, https://www.cloudera.com/documentation/enterprise/5-8-x/topics/admin_hbase_wal_storage_policy.html
 ```
