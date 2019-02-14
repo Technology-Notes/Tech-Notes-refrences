@@ -11,9 +11,10 @@ Schema Registry UI 0.9.4
 Apache Zeppelin 0.8.0
 Apache HBase 1.4.6
 Apache Phoenix 4.14.1-HBase-1.4
+
 Chart:
 XChart, https://github.com/knowm/XChart
-Mmap (밀리언웨어)
+
 Tools and libs:
 Typesafe Config
 dropwizard-metrics (metrics)
