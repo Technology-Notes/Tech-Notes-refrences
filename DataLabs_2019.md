@@ -30,6 +30,11 @@ key.serializer = "org.apache.kafka.common.serialization.StringSerializer"
 value.serializer = "io.confluent.kafka.serializers.KafkaAvroSerializer"
 key.deserializer = "org.apache.kafka.common.serialization.StringDeserializer"
 value.deserializer = "io.confluent.kafka.serializers.KafkaAvroDeserializer"
+
+// schema registry
+schema.registry.url = "http://10.38.12.235:8081"
+specific.avro.reader = "true"
+auto.register.schemas = "false"
 ```
 
 Kafka Streams:
