@@ -47,6 +47,13 @@ TODO:
 ```
 ----
 
+YCSB:
+- https://github.com/chinglinwen/ycsb2graph
+- https://github.com/ashleyblackmore/ycsb-log-parser
+- https://github.com/namaggarwal/ycsb-autograph-generator
+
+----
+
 1. YARN local dir
 2. HBase L2 BucketCache
 3. HDFS [SSD]
