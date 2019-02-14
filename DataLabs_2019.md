@@ -22,3 +22,17 @@ HikariCP (connection pool)
 failsafe (failsafe)
 Caffeine (in-memory cache)
 ```
+
+Kafka:
+```
+key.serializer = "org.apache.kafka.common.serialization.StringSerializer"
+value.serializer = "io.confluent.kafka.serializers.KafkaAvroSerializer"
+key.deserializer = "org.apache.kafka.common.serialization.StringDeserializer"
+value.deserializer = "io.confluent.kafka.serializers.KafkaAvroDeserializer"
+```
+
+Kafka Streams:
+```
+default.key.serde = "org.apache.kafka.common.serialization.Serdes.StringSerde"
+        default.value.serde = "io.confluent.kafka.streams.serdes.avro.SpecificAvroSerde"
+```
