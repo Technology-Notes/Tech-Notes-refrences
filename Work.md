@@ -1,6 +1,3 @@
-# PLUTO
- * Kafka consumer/producer config 분리
-
 # SSD (NVMe, 2019)
 
 NVMe SSD 이용한 제품??
