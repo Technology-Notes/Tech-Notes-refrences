@@ -59,6 +59,11 @@ https://github.com/filebench/filebench
 https://haydenjames.io/linux-benchmark-scripts-tools/
 
 ----
+Kafka:
+- https://db-blog.web.cern.ch/blog/prasanth-kothuri/2016-10-benchmarking-apache-kafka-openstack-vms
+- https://gist.github.com/jkreps/c7ddb4041ef62a900e6c
+
+----
 
 1. YARN local dir
 2. HBase L2 BucketCache
