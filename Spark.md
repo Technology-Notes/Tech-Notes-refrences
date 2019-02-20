@@ -1,3 +1,6 @@
+spark-submit + YARN:
+- https://gist.github.com/bernhardschaefer/4309f728f66879c0a8c062be0801057b
+
 https://venkateshiyer.net/production-ready-spark-streaming-a8d85b7d66be
 
 https://medium.com/@pmatpadi/spark-streaming-dynamic-scaling-and-backpressure-in-action-6ebdbc782a69
