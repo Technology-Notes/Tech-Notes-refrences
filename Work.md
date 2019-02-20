@@ -35,7 +35,10 @@ TODO:
 - https://www.samsung.com/us/labs/pdfs/collateral/Performance-Benefits-of-Running-RocksDB-on-SSDs_Whitepaper.pdf
 
 2. metatron + all-flash 개념 검증 (PoC)
-- Redis? Kafka? Kudu? ......
+- Redis? 
+- Kafka? https://www.micron.com/about/blog/2017/october/improve-apache-kafka-performance-with-flash-storage
+- Kudu? 
+- ......
 
 (metatron + NVMe)제품은 내년 출시
 - 상반기 2번 진행 전까지 1번 완료
