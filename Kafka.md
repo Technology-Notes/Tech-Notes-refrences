@@ -158,6 +158,12 @@ kafka-configs.sh --zookeeper localhost:2181 --entity-type topics --entity-name T
 
 https://docs.confluent.io/current/kafka/operations.html
 
+## Tips
+zookeeper:
+```
+zookeeper.connect=zk1:2181,zk2:2181,zk3:2181/kafka
+```
+
 ## Examples
 - https://github.com/confluentinc/examples
 - https://github.com/gwenshap/kafka-examples
