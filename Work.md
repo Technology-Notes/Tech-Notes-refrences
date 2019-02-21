@@ -77,3 +77,5 @@ uniform: each row has an equal probability to be read
 zipfian: some rows have more probability to be targeted by reads or scans. Those rows are called "hot set" or "hot spot" and represent popular data, for instance popular threads of a forum. You should set it up with: hotspotdatafraction and hotspotopnfraction. See $YCSB_HOME/workloads/workload_template for more details.
 
 ```
+
+https://d2.naver.com/helloworld/162498
