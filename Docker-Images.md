@@ -19,6 +19,6 @@
 - https://jupyter-docker-stacks.readthedocs.io/en/latest/
 - https://www.dataquest.io/blog/docker-data-science/
 ```
-docker run --rm -p 8888:8888 -e GRANT_SUDO=yes -e JUPYTER_ENABLE_LAB=yes -v "$PWD":/work jupyter/datascience-notebook:latest
+docker run --rm --user root -p 8888:8888 -e GRANT_SUDO=yes -e JUPYTER_ENABLE_LAB=yes -v "$PWD":/work jupyter/datascience-notebook:latest
 
 ```
