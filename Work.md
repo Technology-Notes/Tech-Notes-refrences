@@ -64,6 +64,22 @@ Kafka:
 - https://gist.github.com/jkreps/c7ddb4041ef62a900e6c
 
 ----
+q, https://github.com/harelba/q
+
+```
+$ brew update && brew install q
+$ ls -als
+total 16
+0 drwxr-xr-x   4 ywkim  staff   128  2 22 10:00 .
+0 drwxr-xr-x+ 34 ywkim  staff  1088  2 22 10:00 ..
+8 -rw-r--r--   1 ywkim  staff  1087  2 22 09:54 test1.csv
+8 -rw-r--r--   1 ywkim  staff  1058  2 22 10:00 test2.csv
+
+$ cat *.csv | q -d "," "select avg(c3) from - where c2 = 'Throughput(ops/sec)'"
+2705.09038872
+
+```
+----
 
 1. YARN local dir
 2. HBase L2 BucketCache
