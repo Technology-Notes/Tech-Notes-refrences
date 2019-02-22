@@ -16,4 +16,5 @@
 - https://ci.apache.org/projects/flink/flink-docs-stable/ops/deployment/docker.html
 
 ## Jupyter
+- https://jupyter-docker-stacks.readthedocs.io/en/latest/
 - https://www.dataquest.io/blog/docker-data-science/
