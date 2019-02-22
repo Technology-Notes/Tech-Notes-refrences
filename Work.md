@@ -56,7 +56,7 @@ YCSB:
 
 https://github.com/filebench/filebench
 
-https://haydenjames.io/linux-benchmark-scripts-tools/
+https://github.com/haydenjames/bench-scripts
 
 ----
 Kafka:
