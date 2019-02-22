@@ -79,6 +79,8 @@ $ cat *.csv | q -d "," "select avg(c3) from - where c2 = 'Throughput(ops/sec)'"
 2705.09038872
 
 ```
+
+https://github.com/wireservice/csvkit
 ----
 
 1. YARN local dir
