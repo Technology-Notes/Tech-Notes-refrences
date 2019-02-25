@@ -6,3 +6,4 @@ https://github.com/jupyterhub/jupyterlab-hub
 
 참고:
 - https://docs.python.org/3/library/index.html
+- https://sourceforge.net/p/jupiter/wiki/markdown_syntax/
