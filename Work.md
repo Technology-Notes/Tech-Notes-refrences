@@ -47,6 +47,8 @@ TODO:
 ```
 ----
 
+# 도구
+
 YCSB:
 - https://github.com/chinglinwen/ycsb2graph
 - https://github.com/ashleyblackmore/ycsb-log-parser
@@ -80,9 +82,19 @@ $ cat *.csv | q -d "," "select avg(c3) from - where c2 = 'Throughput(ops/sec)'"
 
 ```
 
-https://github.com/wireservice/csvkit
-----
+csvkit
+- https://github.com/wireservice/csvkit
 
+pandas
+- https://pandas.pydata.org/
+
+chartify:
+- https://github.com/spotify/chartify
+
+Jupyter
+- https://github.com/youngwookim/my-docker-stacks
+
+----
 1. YARN local dir
 2. HBase L2 BucketCache
 3. HDFS [SSD]
