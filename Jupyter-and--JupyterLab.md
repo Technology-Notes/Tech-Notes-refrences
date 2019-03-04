@@ -1,6 +1,8 @@
 # JupyterLab
 https://github.com/mauhai/awesome-jupyterlab
 
+https://github.com/markusschanta/awesome-jupyter
+
 https://github.com/jupyterlab/jupyterlab
 
 https://github.com/topics/jupyterlab-extension
