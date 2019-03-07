@@ -163,6 +163,7 @@ https://docs.confluent.io/current/kafka/operations.html
 - https://github.com/linkedin/cruise-control
 - https://github.com/yahoo/kafka-manager
 - https://github.com/linkedin/Burrow
+- https://github.com/linkedin/kafka-monitor
 
 ## Tips
 zookeeper:
