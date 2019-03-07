@@ -158,6 +158,11 @@ kafka-configs.sh --zookeeper localhost:2181 --entity-type topics --entity-name T
 
 https://docs.confluent.io/current/kafka/operations.html
 
+## Monitoring
+- https://github.com/linkedin/cruise-control
+- https://github.com/yahoo/kafka-manager
+- https://github.com/linkedin/Burrow
+
 ## Tips
 zookeeper:
 ```
