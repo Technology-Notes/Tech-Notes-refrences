@@ -121,6 +121,7 @@ FULL - make sure new schema is forwards and backwards compatible from latest to 
 ```
 
 ## Unit Test
+- https://github.com/charithe/kafka-junit
 - https://github.com/chbatey/kafka-unit
 - https://github.com/salesforce/kafka-junit
 - https://github.com/Landoop/kafka-testing
