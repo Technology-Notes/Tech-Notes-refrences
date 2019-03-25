@@ -1,6 +1,4 @@
-# SSD (NVMe, 2019)
-
-NVMe SSD 이용한 제품??
+# SSD (SATA, 2019)
 
 ## Cache (NVMe)
  * Redis, https://docs.redislabs.com/latest/rs/concepts/memory-architecture/redis-flash/
@@ -24,6 +22,9 @@ NVMe SSD 이용한 제품??
   * Ceph
   * Alluxio over Ceph, http://alluxio-users.85194.x6.nabble.com/Alluxio-on-Ceph-td2153.html
   * Alluxio, https://www.samsung.com/semiconductor/global.semi.static/Alluxio-plus-NVMe-WP-v6-0.pdf
+
+## HDFS
+  * https://www.micron.com/~/media/documents/products/technical-marketing-brief/hadoop_273_drives_faster_results_technical-brief.pdf
 
 ----
 TODO:
