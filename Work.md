@@ -112,4 +112,6 @@ zipfian: some rows have more probability to be targeted by reads or scans. Those
 
 ```
 
-https://d2.naver.com/helloworld/162498
+## Refs.
+* http://codecapsule.com/2014/02/12/coding-for-ssds-part-1-introduction-and-table-of-contents/
+* https://d2.naver.com/helloworld/162498
