@@ -7,7 +7,6 @@
 ## HTAP
  * Apache Kudu
    - https://d2.naver.com/helloworld/9099561
- * Apache HBase / Phoenix
 
 ## NoSQL
   * https://www.micron.com/about/blog/2018/december/how-to-free-your-read-intensive-nosql-workloads-from-legacy-constraints
