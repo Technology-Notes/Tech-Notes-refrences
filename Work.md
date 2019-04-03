@@ -11,6 +11,7 @@
 ## NoSQL
   * https://www.micron.com/about/blog/2018/december/how-to-free-your-read-intensive-nosql-workloads-from-legacy-constraints
   * Cassandra, https://medium.com/netflix-techblog/benchmarking-high-performance-i-o-with-ssd-for-cassandra-on-aws-df621335de0b
+  * https://www.samsung.com/us/labs/pdfs/collateral/Performance-Benefits-of-Running-RocksDB-on-SSDs_Whitepaper.pdf
 
 ## Event Hub for Fast Data 
  * Kafka, Improve Apache Kafka performance with flash storage, https://www.micron.com/about/blog/2017/october/improve-apache-kafka-performance-with-flash-storage
@@ -27,26 +28,6 @@
   * https://www.micron.com/~/media/documents/products/technical-marketing-brief/hadoop_273_drives_faster_results_technical-brief.pdf
   * https://www.slideshare.net/Hadoop_Summit/how-to-use-flash-drives-with-apache-hadoop-3x-real-world-use-cases-and-proof-pointsbetter-results-better-economics
 
-----
-TODO:
-```
-1. 신형 SSD 동작 검증
-- Sanity check
-- 워크로드 선정 후 리포트 작성
-- 워크로드? YCSB + RocksDB
-- https://www.samsung.com/us/labs/pdfs/collateral/Performance-Benefits-of-Running-RocksDB-on-SSDs_Whitepaper.pdf
-
-2. metatron + all-flash 개념 검증 (PoC)
-- Redis? 
-- Kafka? https://www.micron.com/about/blog/2017/october/improve-apache-kafka-performance-with-flash-storage
-- Kudu? 
-- ......
-
-(metatron + NVMe)제품은 내년 출시
-- 상반기 2번 진행 전까지 1번 완료
-- 상반기 2번 항목에 대한 아이템 1개 선정 후 테스트 완료
-
-```
 ----
 
 # 도구
