@@ -116,3 +116,4 @@ zipfian: some rows have more probability to be targeted by reads or scans. Those
 ## Refs.
 * http://codecapsule.com/2014/02/12/coding-for-ssds-part-1-introduction-and-table-of-contents/
 * https://d2.naver.com/helloworld/162498
+* https://support.binarylane.com.au/support/solutions/articles/1000055889-how-to-benchmark-disk-i-o
