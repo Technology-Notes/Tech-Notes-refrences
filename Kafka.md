@@ -119,6 +119,7 @@ FORWARD - check to make sure last schema version is forward compatible with new 
 BACKWARDS (default) - make sure new schema is backwards compatible with latest
 FULL - make sure new schema is forwards and backwards compatible from latest to new and from new to latest
 ```
+- https://github.com/cricket007/schema-registry-transfer-smt
 
 ## Unit Test
 - https://github.com/charithe/kafka-junit
