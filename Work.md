@@ -48,9 +48,7 @@ https://github.com/haydenjames/bench-scripts
 ----
 Kafka:
 - https://db-blog.web.cern.ch/blog/prasanth-kothuri/2016-10-benchmarking-apache-kafka-openstack-vms
-- https://gist.github.com/jkreps/c7ddb4041ef62a900e6c
-- https://gist.github.com/saurabhmishra/6ed428be4c00003dd926
-
+- https://gist.github.com/ueokande/b96eadd798fff852551b80962862bfb3
 ----
 q, https://github.com/harelba/q
 
