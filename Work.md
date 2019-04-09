@@ -45,6 +45,8 @@ https://github.com/filebench/filebench
 
 https://github.com/haydenjames/bench-scripts
 
+https://github.com/earlephilhower/ezfio
+
 ----
 Kafka:
 - https://db-blog.web.cern.ch/blog/prasanth-kothuri/2016-10-benchmarking-apache-kafka-openstack-vms
