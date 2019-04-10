@@ -33,6 +33,7 @@
 # 도구
 
 YCSB:
+- https://github.com/pingcap/go-ycsb.git
 - https://github.com/chinglinwen/ycsb2graph
 - https://github.com/ashleyblackmore/ycsb-log-parser
 - https://github.com/namaggarwal/ycsb-autograph-generator
