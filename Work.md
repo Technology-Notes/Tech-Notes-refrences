@@ -27,7 +27,7 @@
 ## HDFS
   * https://www.micron.com/~/media/documents/products/technical-marketing-brief/hadoop_273_drives_faster_results_technical-brief.pdf
   * https://www.slideshare.net/Hadoop_Summit/how-to-use-flash-drives-with-apache-hadoop-3x-real-world-use-cases-and-proof-pointsbetter-results-better-economics
-
+  * http://www.memblaze.com/en/uploads/2016/09/141111335641.pdf
 ----
 
 # 도구
