@@ -19,10 +19,11 @@
  * https://www.samsung.com/semiconductor/global.semi.static/Optimizing_Data_Center_Applications_for_Samsung_NVMe_SSD-0.pdf
  * Pulsar @ Yahoo, https://yahooeng.tumblr.com/post/150078336821/open-sourcing-pulsar-pub-sub-messaging-at-scale
 
-## Object storage
+## Object/Block/File storage
   * Ceph + SSD, https://www.micron.com/-/media/client/global/documents/products/other-documents/micron_9200_ceph_3,-d-,0_reference_architecture.pdf
   * Alluxio over Ceph, http://alluxio-users.85194.x6.nabble.com/Alluxio-on-Ceph-td2153.html
   * Alluxio, https://www.samsung.com/semiconductor/global.semi.static/Alluxio-plus-NVMe-WP-v6-0.pdf
+  * Minio, https://github.com/minio/minio
 
 ## HDFS
   * https://www.micron.com/~/media/documents/products/technical-marketing-brief/hadoop_273_drives_faster_results_technical-brief.pdf
