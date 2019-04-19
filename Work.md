@@ -24,6 +24,7 @@
   * Alluxio over Ceph, http://alluxio-users.85194.x6.nabble.com/Alluxio-on-Ceph-td2153.html
   * Alluxio, https://www.samsung.com/semiconductor/global.semi.static/Alluxio-plus-NVMe-WP-v6-0.pdf
   * Minio, https://github.com/minio/minio
+   * https://blog.minio.io/modern-data-lake-with-minio-part-1-716a49499533
    * https://blog.minio.io/modern-data-lake-with-minio-part-2-f24fb5f82424
    * https://github.com/starburstdata/presto-minio
 
