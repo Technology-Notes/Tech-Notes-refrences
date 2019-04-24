@@ -28,6 +28,7 @@
     - https://blog.minio.io/modern-data-lake-with-minio-part-2-f24fb5f82424
     - https://github.com/starburstdata/presto-minio
     - https://www.alluxio.org/docs/1.7/en/Configuring-Alluxio-with-Minio.html
+    - https://codz.me/2017/10/12/minio-and-nginx/
 
 ## HDFS
   * https://www.micron.com/~/media/documents/products/technical-marketing-brief/hadoop_273_drives_faster_results_technical-brief.pdf
