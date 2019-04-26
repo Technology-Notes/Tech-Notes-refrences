@@ -5,7 +5,7 @@
  * Redis, https://dzone.com/articles/under-the-hood-redis-enterprise-flash-database-arc
 
 ## HTAP
- * Apache Kudu 
+ * Presto + Apache Kudu 
    - https://d2.naver.com/helloworld/9099561
  * Presto + Raptor
    - https://www.slideshare.net/shubhamtagra/presto-bangalore-meetup1-presto-raptorola
