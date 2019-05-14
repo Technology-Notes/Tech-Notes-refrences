@@ -28,6 +28,7 @@
   * Minio, https://github.com/minio/minio
     - https://blog.minio.io/modern-data-lake-with-minio-part-1-716a49499533
     - https://blog.minio.io/modern-data-lake-with-minio-part-2-f24fb5f82424
+    - https://blog.minio.io/building-an-on-premise-ml-ecosystem-with-minio-powered-by-presto-weka-r-and-s3select-feature-fefbbaa87054
     - https://github.com/starburstdata/presto-minio
     - https://www.alluxio.org/docs/1.7/en/Configuring-Alluxio-with-Minio.html
     - https://codz.me/2017/10/12/minio-and-nginx/
