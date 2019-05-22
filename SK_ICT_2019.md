@@ -17,3 +17,7 @@
 
 * GCP
   - https://cloud.google.com/products/
+
+* Architectural Considerations for Big data
+  - https://conferences.oreilly.com/strata/big-data-conference-ca-2015/public/schedule/detail/38245
+  - https://blogs.vmware.com/vfabric/2012/08/4-key-architecture-considerations-for-big-data-analytics.html
