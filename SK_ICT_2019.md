@@ -25,3 +25,6 @@
 * Architectural Considerations for Big data
   - https://conferences.oreilly.com/strata/big-data-conference-ca-2015/public/schedule/detail/38245
   - https://blogs.vmware.com/vfabric/2012/08/4-key-architecture-considerations-for-big-data-analytics.html
+
+Big data landscape:
+  - https://github.com/whomm/bigdata-tech-index/blob/master/Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final.png
