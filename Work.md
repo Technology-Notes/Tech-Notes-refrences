@@ -25,7 +25,8 @@
   * Ceph + SSD, https://www.micron.com/-/media/client/global/documents/products/other-documents/micron_9200_ceph_3,-d-,0_reference_architecture.pdf
   * Alluxio over Ceph, http://alluxio-users.85194.x6.nabble.com/Alluxio-on-Ceph-td2153.html
   * Alluxio, https://www.samsung.com/semiconductor/global.semi.static/Alluxio-plus-NVMe-WP-v6-0.pdf
-  * Minio, https://github.com/minio/minio
+  * Minio
+    - https://github.com/minio/minio
     - https://blog.minio.io/modern-data-lake-with-minio-part-1-716a49499533
     - https://blog.minio.io/modern-data-lake-with-minio-part-2-f24fb5f82424
     - https://blog.minio.io/building-an-on-premise-ml-ecosystem-with-minio-powered-by-presto-weka-r-and-s3select-feature-fefbbaa87054
@@ -35,6 +36,8 @@
     - https://www.alluxio.org/docs/1.7/en/Configuring-Alluxio-with-Minio.html
     - https://codz.me/2017/10/12/minio-and-nginx/
     - https://databricks.com/blog/2017/05/31/top-5-reasons-for-choosing-s3-over-hdfs.html
+  * seaweedfs
+    - https://github.com/chrislusf/seaweedfs
 
 ## HDFS
   * https://www.micron.com/~/media/documents/products/technical-marketing-brief/hadoop_273_drives_faster_results_technical-brief.pdf
