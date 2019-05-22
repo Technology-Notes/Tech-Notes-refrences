@@ -8,3 +8,12 @@
 * https://github.com/checkcheckzz/system-design-interview
 
 * https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236
+
+* AWS
+  - https://aws.amazon.com/ko/products/
+
+* Azure
+  - https://azure.microsoft.com/en-us/services/
+
+* GCP
+  - https://cloud.google.com/products/
