@@ -9,6 +9,10 @@
 
 * https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236
 
+* Bigdata Architecture
+  - https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/
+
+
 * AWS
   - https://aws.amazon.com/ko/products/
 
