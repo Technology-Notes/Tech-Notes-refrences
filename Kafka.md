@@ -172,6 +172,9 @@ https://docs.confluent.io/current/kafka/operations.html
 - https://github.com/linkedin/Burrow
 - https://github.com/linkedin/kafka-monitor
 
+## Tools
+- https://github.com/BetterCloud/kadmin
+
 ## Tips
 zookeeper:
 ```
