@@ -48,6 +48,7 @@ Spark 2.2 CBO, https://databricks.com/blog/2017/08/31/cost-based-optimizer-in-ap
 STS:
 - https://developer.ibm.com/hadoop/2016/08/22/how-to-run-queries-on-spark-sql-using-jdbc-via-thrift-server/
 
+https://github.com/yaooqinn/kyuubi
 
 ## Spark Streaming
 
