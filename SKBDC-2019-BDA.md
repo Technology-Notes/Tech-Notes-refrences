@@ -14,12 +14,13 @@
 * Designing modern streaming data applications
   - https://www.slideshare.net/arunkejariwal/designing-modern-streaming-data-applications-115037555
 * https://cdn.oreillystatic.com/en/assets/1/event/290/Foundations%20for%20successful%20data%20projects%20Presentation.pdf
+* Bigdata Architecture
+  - https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/
+
 * https://www.slideshare.net/mrm0/building-a-data-platform-strata-sf-2019
 * https://medium.com/@alitech_2017/data-center-performance-analysis-challenges-and-practices-c5c9a2b5e5a9
 * https://github.com/checkcheckzz/system-design-interview
 * https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236
-* Bigdata Architecture
-  - https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/
 
 Big data landscape:
   - https://github.com/whomm/bigdata-tech-index/blob/master/Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final.png
