@@ -4,7 +4,8 @@
 
 ## ToC
 * Intro
-* BigData Architectures
+* Big data architectures
+  - Components of a big data architecture
 *
 *
 
