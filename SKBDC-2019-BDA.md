@@ -17,8 +17,8 @@
 * https://cdn.oreillystatic.com/en/assets/1/event/290/Foundations%20for%20successful%20data%20projects%20Presentation.pdf
 * Bigdata Architecture
   - https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/
-* https://github.com/checkcheckzz/system-design-interview
-* https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236
+
+https://www.voltdb.com/wp-content/uploads/2017/03/ebook-fast-data-and-the-new-enterprise-data-architecture.pdf
 
 Big data landscape:
   - https://github.com/whomm/bigdata-tech-index/blob/master/Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final.png
