@@ -1,4 +1,6 @@
-2019. 6.24 ~ 25
+Designing Modern Streaming Data Applications
+
+2019. 6.27 ~ 28
 
 ## ToC
 * Intro
