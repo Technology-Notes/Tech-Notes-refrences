@@ -18,7 +18,6 @@
   - https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/
 
 * https://www.slideshare.net/mrm0/building-a-data-platform-strata-sf-2019
-* https://medium.com/@alitech_2017/data-center-performance-analysis-challenges-and-practices-c5c9a2b5e5a9
 * https://github.com/checkcheckzz/system-design-interview
 * https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236
 
