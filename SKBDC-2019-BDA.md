@@ -16,8 +16,6 @@
 * https://cdn.oreillystatic.com/en/assets/1/event/290/Foundations%20for%20successful%20data%20projects%20Presentation.pdf
 * Bigdata Architecture
   - https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/
-
-* https://www.slideshare.net/mrm0/building-a-data-platform-strata-sf-2019
 * https://github.com/checkcheckzz/system-design-interview
 * https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236
 
