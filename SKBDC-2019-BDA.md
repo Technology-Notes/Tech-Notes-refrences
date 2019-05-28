@@ -3,11 +3,7 @@
 2019. 6.27 ~ 28
 
 ## ToC
-* Intro
-* Big data architectures
-  - Components of a big data architecture
-*
-*
+TBD
 
 ## Refs.
 * Architecting a next-generation data platform 
