@@ -25,6 +25,9 @@ $ git config --global user.email <mailaddress>
 $ git config http.postBuffer 524288000
 ```
 
+Remove submodule:
+- https://gist.github.com/myusuf3/7f645819ded92bda6677
+
 ## Misc.
 
 https://chris.beams.io/posts/git-commit/
