@@ -17,8 +17,8 @@ TBD
 * https://www.voltdb.com/wp-content/uploads/2017/03/ebook-fast-data-and-the-new-enterprise-data-architecture.pdf
 * https://cdn.oreillystatic.com/en/assets/1/event/290/Foundations%20for%20successful%20data%20projects%20Presentation.pdf
 
-Big data landscape:
-  - https://github.com/whomm/bigdata-tech-index/blob/master/Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final.png
+Big data & AI landscape:
+  - http://mattturck.com/wp-content/uploads/2018/07/Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final.png
 
 ## (Cloud) Products and services
 * AWS
