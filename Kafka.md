@@ -126,6 +126,7 @@ FULL - make sure new schema is forwards and backwards compatible from latest to 
 ```
 - https://github.com/cricket007/schema-registry-transfer-smt
 - https://github.com/rayokota/schema-registry-browser
+- https://www.slideshare.net/JeanPaulAzar1/kafka-and-avro-with-confluent-schema-registry
 
 ## Unit Test
 - https://github.com/charithe/kafka-junit
