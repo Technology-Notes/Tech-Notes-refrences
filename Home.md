@@ -1,3 +1,5 @@
+https://medium.com/@garyogasawara/hadoop-performance-benchmark-results-comparing-on-premise-s3-vs-hdfs-cf7a9ea3baa3
+
 http://info.bluedata.com/rs/693-TGY-247/images/IDC-Perspective-Decoupling-Compute-Storage.pdf
 
 https://github.com/rstacruz/cheatsheets
