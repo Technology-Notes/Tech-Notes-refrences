@@ -20,6 +20,8 @@ TBD
 Big data & AI landscape:
   - http://mattturck.com/wp-content/uploads/2018/07/Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final.png
 
+https://blog.newrelic.com/engineering/kafka-best-practices/
+
 ## (Cloud) Products and services
 * AWS
   - https://aws.amazon.com/ko/products/
