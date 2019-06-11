@@ -3,7 +3,9 @@ ASF Gitbox:
 https://gitbox.apache.org/repos/asf/bigtop.git
 ```
 
-Arm & Bigtop, https://sched.co/LJq5
+Aarch64 & Bigtop
+- https://sched.co/LJq5
+- https://www.youtube.com/watch?v=a0acq7zI1wI
 
 bigpetstore:
 - https://www.slideshare.net/MrtonBalassi/implementing-bigpetstore-with-apache-flink
