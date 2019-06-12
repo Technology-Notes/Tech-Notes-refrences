@@ -8,3 +8,4 @@ Flink examples:
 - https://github.com/apache/flink/tree/master/flink-examples
 - https://github.com/dataArtisans/infoworld-post
 - https://github.com/apache/flink/tree/master/flink-end-to-end-tests
+- flink & s3 sink, https://medium.com/@sid_sharma/click-stream-processing-on-apache-flink-using-kafka-source-and-aws-s3-sink-b12e6ece783e
