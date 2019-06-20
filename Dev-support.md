@@ -3,6 +3,14 @@
 - https://github.com/yhatt/marp/issues/208
 - https://qiita.com/fk2763owl/items/b4797ceb250cee41146e
 
+Install required tools:
+```
+# MacOS
+$ brew cask install marp
+$ brew cask install drawio
+
+```
+
 # MacOS
 * Homebrew, https://brew.sh/
 * https://github.com/Homebrew/homebrew-cask
