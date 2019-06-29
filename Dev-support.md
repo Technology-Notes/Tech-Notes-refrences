@@ -1,4 +1,8 @@
-# Marp
+# MD + Pandoc for report
+- https://medium.com/@greut/how-do-i-bodge-a-quick-report-using-markdown-7a1f7af5d9a
+- https://github.com/kjhealy/pandoc-templates
+
+# Slides: Marp
 - https://github.com/yhatt/marp
 - https://github.com/yhatt/marp/issues/208
 - https://qiita.com/fk2763owl/items/b4797ceb250cee41146e
