@@ -4,6 +4,13 @@
 
 ## Atom + MDPE
 - https://github.com/shd101wyy/markdown-preview-enhanced
+```
+brew cask install mactex
+brew install pandoc
+.....
+install Atom
+install MDPE plugin
+```
 
 # Slides: Marp
 - https://github.com/yhatt/marp
