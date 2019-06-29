@@ -2,7 +2,7 @@
 - https://medium.com/@greut/how-do-i-bodge-a-quick-report-using-markdown-7a1f7af5d9a
 - https://github.com/kjhealy/pandoc-templates
 
-## Atom + MDPE + pandoc
+## Atom + MPE + pandoc
 - https://github.com/shd101wyy/markdown-preview-enhanced
 - https://pandoc.org/MANUAL.html
 - http://wiki.ktug.org/wiki/wiki.php/%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0MacOSX/MacTeX
@@ -19,7 +19,7 @@ brew install pandoc
 ```
 ```
 install Atom
-install MDPE plugin
+install MPE plugin
 ```
 ## Example
 ```
