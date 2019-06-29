@@ -7,16 +7,58 @@
 - https://pandoc.org/MANUAL.html
 - http://wiki.ktug.org/wiki/wiki.php/%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0MacOSX/MacTeX
 - https://github.com/jaimyoung/data-science-in-korean
+- https://stackoverflow.com/questions/16965490/pandoc-markdown-page-break
 ```
+sudo tlmgr repository add http://ftp.ktug.org/KTUG/texlive/tlnet ktug
+sudo tlmgr pinning add ktug "*"
+sudo tlmgr install nanumttf hcr-lvt
+sudo tlmgr update --all --self
 ```
-
 ```
 brew install pandoc
 ```
-
 ```
 install Atom
 install MDPE plugin
+```
+## Example
+```
+---
+title: "Doc Title"
+author: John Doe
+date: March 22, 2005
+output:
+  pdf_document:
+    latex_engine: xelatex
+    toc: true
+    toc_depth: 3
+papersize: A4
+fontsize: 11pt
+mainfont: NanumGothic
+---
+
+# 타이틀
+
+1. zxxxx
+
+아름다운 우리나라
+
+\newpage
+
+# 두번째
+## 234 대한민국
+
+122
+아아아
+바보바보
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+Content [^1]
+
 ```
 
 # Slides: Marp
