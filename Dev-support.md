@@ -1,6 +1,8 @@
 # MD + Pandoc for report
 - https://medium.com/@greut/how-do-i-bodge-a-quick-report-using-markdown-7a1f7af5d9a
 - https://github.com/kjhealy/pandoc-templates
+
+## Atom + MDPE
 - https://github.com/shd101wyy/markdown-preview-enhanced
 
 # Slides: Marp
