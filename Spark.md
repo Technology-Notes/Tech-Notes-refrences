@@ -1,3 +1,5 @@
+https://github.com/opencore/kafka-spark-avro-example
+
 https://github.com/jleetutorial/sparkTutorial
 
 spark-submit + YARN:
