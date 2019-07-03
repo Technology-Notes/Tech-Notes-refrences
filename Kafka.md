@@ -11,6 +11,13 @@ Consumers read from any single partition, allowing you to scale throughput of me
 ## Kafka vs. Pulsar
 - https://medium.com/@bhagwanssoni/apache-pulsar-is-it-a-kafka-killer-a7538afedd0b
 - https://stackoverflow.com/questions/46048608/what-are-the-advantages-and-disadvantages-of-kafka-over-apache-pulsar
+#### Kafka vs Pulsar
+  
+- https://streaml.io/blog/pulsar-streaming-queuing
+- https://jack-vanlightly.com/sketches/2018/10/2/kafka-vs-pulsar-rebalancing-sketch
+- https://conferences.oreilly.com/strata/strata-ca-2019/public/schedule/detail/72853
+- https://kafkaesque.io/7-reasons-we-choose-apache-pulsar-over-apache-kafka/
+
 
 
 ## Mirroring (replication)
