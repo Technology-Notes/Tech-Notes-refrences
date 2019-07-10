@@ -8,10 +8,12 @@ https://github.com/lyft/presto-gateway
 
 ## .NET Client
 - https://www.nuget.org/packages/PrestoClient/
+
 ## Docker
 - https://github.com/starburstdata/docker-images
 - https://github.com/Lewuathe/docker-presto-cluster
 - https://github.com/zhicwu/docker-presto
+- https://github.com/ChethanUK/PrestoSQL-Docker
 
 ## Prestogres
 - https://github.com/treasure-data/prestogres
