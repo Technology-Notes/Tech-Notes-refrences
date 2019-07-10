@@ -20,8 +20,8 @@ https://github.com/lyft/presto-gateway
 - https://github.com/skame/docker-prestogres
 
 ## Etc
+https://airbnb.io/airpal/
 
-https://www.starburstdata.com/
 
 DISTINCT COUNT Multiple columns - https://github.com/prestodb/presto/issues/5281
 
