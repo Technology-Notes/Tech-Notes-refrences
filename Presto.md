@@ -1,3 +1,5 @@
+https://medium.com/@Pinterest_Engineering/presto-at-pinterest-a8bda7515e52
+
 https://www.starburstdata.com/technical-blog/presto-summit-2019-recap/
 
 https://github.com/wix/quix
