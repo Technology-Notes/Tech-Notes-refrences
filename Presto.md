@@ -1,3 +1,7 @@
+Presto + Kube
+- https://www.starburstdata.com/wp-content/uploads/2019/06/Starburst-Kubernetes-Integration.pdf
+
+
 https://medium.com/@Pinterest_Engineering/presto-at-pinterest-a8bda7515e52
 
 https://www.starburstdata.com/technical-blog/presto-summit-2019-recap/
