@@ -135,6 +135,8 @@ FULL - make sure new schema is forwards and backwards compatible from latest to 
 - https://github.com/rayokota/schema-registry-browser
 - https://www.slideshare.net/JeanPaulAzar1/kafka-and-avro-with-confluent-schema-registry
 
+https://github.com/farmdawgnation/registryless-avro-converter
+
 ## Unit Test
 - https://github.com/charithe/kafka-junit
 - https://github.com/chbatey/kafka-unit
