@@ -1,6 +1,12 @@
 Js Chart - https://blog.bitsrc.io/11-javascript-charts-and-data-visualization-libraries-for-2018-f01a283a5727
 
 ## Metadata and Data lineage
+https://engineering.linkedin.com/blog/2019/data-hub
+
+https://medium.com/airbnb-engineering/democratizing-data-at-airbnb-852d76c51770
+
+https://eng.uber.com/databook/
+
 - Netflix, metacat 
   - https://github.com/Netflix/metacat
   - https://medium.com/netflix-techblog/metacat-making-big-data-discoverable-and-meaningful-at-netflix-56fb36a53520
