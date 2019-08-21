@@ -1,3 +1,5 @@
+https://www.slideshare.net/search/slideshow?searchfrom=header&q=hbaseconasia2019&ud=any&ft=all&lang=en&sort=
+
 https://github.com/rayokota/awesome-hbase
 
 Timezone
