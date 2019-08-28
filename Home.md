@@ -1,3 +1,5 @@
+https://github.com/Integerous/goQuality-dev-contents
+
 InnerSource - http://paypal.github.io/InnerSourceCommons/assets/files/AdoptingInnerSource.pdf
 
 
