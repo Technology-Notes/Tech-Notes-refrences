@@ -6,3 +6,4 @@ https://github.com/streamnative/pulsar-spark
 
 Web UI:
 - https://github.com/bbonnin/pulsar-express
+- https://github.com/streamnative/pulsar-manager
