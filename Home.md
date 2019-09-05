@@ -1,3 +1,5 @@
+https://www.slideshare.net/AmazonWebServices/big-data-analytics-architectural-patterns-and-best-practices-ant201r1-aws-reinvent-2018
+
 https://github.com/Integerous/goQuality-dev-contents
 
 InnerSource - http://paypal.github.io/InnerSourceCommons/assets/files/AdoptingInnerSource.pdf
