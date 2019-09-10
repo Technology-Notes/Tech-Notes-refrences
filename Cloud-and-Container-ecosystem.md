@@ -6,6 +6,8 @@ https://www.abhishek-tiwari.com/kubernetes-for-big-data-workloads/
 
 https://dantehranian.wordpress.com/2015/03/25/how-should-i-get-application-configuration-into-my-docker-containers/
 
+https://lentiq.com/assets/docs/Introduction_to_Kubernetes.pdf
+
 ----
 
 ## k8s
