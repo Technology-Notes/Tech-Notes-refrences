@@ -4,7 +4,17 @@ https://dataworkssummit.com/san-jose-2018/session/containers-and-big-data/
 
 https://dantehranian.wordpress.com/2015/03/25/how-should-i-get-application-configuration-into-my-docker-containers/
 
-# Docker images
+----
+
+## k8s
+- https://kubernetes.io/blog/2019/07/23/get-started-with-kubernetes-using-python/
+- https://www.oreilly.com/ideas/kubernetes-a-simple-overview
+
+----
+
+
+
+## Docker images
 
 ## Superset
 - https://github.com/tylerFowler/docker-superset (https://github.com/youngwookim/docker-superset)
