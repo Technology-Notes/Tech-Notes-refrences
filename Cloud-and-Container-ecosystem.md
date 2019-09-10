@@ -2,6 +2,8 @@ https://github.com/cncf/landscape
 
 https://dataworkssummit.com/san-jose-2018/session/containers-and-big-data/
 
+https://www.abhishek-tiwari.com/kubernetes-for-big-data-workloads/
+
 https://dantehranian.wordpress.com/2015/03/25/how-should-i-get-application-configuration-into-my-docker-containers/
 
 ----
