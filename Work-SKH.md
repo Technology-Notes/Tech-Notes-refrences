@@ -10,3 +10,7 @@ Stacks:
 - Spark for computing
 - Kafka / Pulsar for Messaging
 - Beam for DI
+
+Refs:
+- https://github.com/rexray/rexray
+- https://github.com/xphyr/k8s_isi_provisioner
