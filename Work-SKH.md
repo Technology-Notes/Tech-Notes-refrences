@@ -5,8 +5,9 @@ Reqs -- Data lake, Data Analytics, GPU computing
 
 Stacks:
 - IBM k8s
-- Isilon + minio(?)
-- ECS
+- Isilon for PV
+- ECS/minio for object storage
+- Presto for ad-hoc querying
 - Spark for computing
 - Kafka / Pulsar for Messaging
 - Beam for DI
