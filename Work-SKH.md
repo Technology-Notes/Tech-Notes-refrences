@@ -1,4 +1,4 @@
-K8s, Isilon, ECS
+K8s(IBM), Isilon, ECS
 
 ----
 Reqs -- Data lake, Data Analytics, GPU computing
