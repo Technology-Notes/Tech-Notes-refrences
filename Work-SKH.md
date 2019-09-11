@@ -24,3 +24,4 @@ Refs:
 - https://delltechnologiesworldonline.com/2019/connect/fileDownload/session/EFD02DFE8B09DFE51F2239001625B59F/ISG.35_Dell%20EMC%20Isilon%20Architectural%20Deep%20Dive,%20Best%20Practices,%20Tools,%20Tips%20and%20Tricks.pdf
 - https://github.com/jayunit100/apachecon-2019-bigtop3x
 - https://supergiant.io/blog/persistent-storage-with-persistent-volumes-in-kubernetes/
+- https://lentiq.com/assets/docs/Introduction_to_Kubernetes.pdf
