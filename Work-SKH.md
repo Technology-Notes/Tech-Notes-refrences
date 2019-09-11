@@ -8,7 +8,7 @@ Stacks:
 - Isilon for PV
 - ECS/minio for object storage
 - Presto for ad-hoc querying
-- Spark / flink for computing
+- Spark / flink for stream data computing
 - Kafka / Pulsar for Messaging
 - Beam for DI
 - serverless(like lambda or functions) for event
