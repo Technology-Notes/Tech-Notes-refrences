@@ -8,9 +8,14 @@ Stacks:
 - Isilon for PV
 - ECS/minio for object storage
 - Presto for ad-hoc querying
-- Spark for computing
+- Spark / flink for computing
 - Kafka / Pulsar for Messaging
 - Beam for DI
+- serverless(like lambda or functions) for event
+- metrics
+- logging
+- minitoring
+ 
 
 Refs:
 - https://github.com/rexray/rexray
