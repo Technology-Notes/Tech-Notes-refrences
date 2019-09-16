@@ -1,3 +1,5 @@
+https://github.com/lyft/flinkk8soperator
+
 Flink local cluster (Docker):
 - https://blog.51cto.com/1196740/2335133
 
