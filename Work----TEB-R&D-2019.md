@@ -32,3 +32,7 @@ TBD
 ## 결과물(Output)
 
 TBD
+
+## Refs.
+
+A modern analytics distribution for a cloud native world, https://github.com/jayunit100/apachecon-2019-bigtop3x
