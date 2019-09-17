@@ -32,6 +32,15 @@ https://lentiq.com/assets/docs/Introduction_to_Kubernetes.pdf
 - https://github.com/ReSearchITEng/kubeadm-playbook
 - https://github.com/kairen/kubeadm-ansible
 
+----
+https://yk.surfingstudio.com/articles/automatic-setup-kubernetes-with-kubeadm-by-using-ansible-in-vagrant-environment/
+```
+There are already mature solutions for automatic Kubernetes setup, e.g.:
+
+kubespray
+kop
+```
+https://github.com/yklin/play_k8s_on_vagrant_with_ansible
 
 ## Docker images
 
