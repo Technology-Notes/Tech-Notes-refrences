@@ -28,6 +28,10 @@ https://lentiq.com/assets/docs/Introduction_to_Kubernetes.pdf
 
 - https://github.com/jeremievallee/kubernetes-vagrant-ansible
 
+----
+- https://github.com/ReSearchITEng/kubeadm-playbook
+- https://github.com/kairen/kubeadm-ansible
+
 
 ## Docker images
 
