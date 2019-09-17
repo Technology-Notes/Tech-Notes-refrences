@@ -16,6 +16,17 @@ https://lentiq.com/assets/docs/Introduction_to_Kubernetes.pdf
 
 ----
 
+## k8s + vagrant + ansible (for dev)
+- https://www.itwonderlab.com/ansible-kubernetes-vagrant-tutorial/
+- https://www.itwonderlab.com/installing-istio-in-kubernetes-under-virtualbox/
+- https://github.com/ITWonderLab/ansible-vbox-vagrant-kubernetes
+
+- https://github.com/sciabarracom/Mosaico3
+
+- https://medium.com/@MonadicT/create-a-kubernetes-cluster-with-vagrant-and-ansible-88af7948a1fc
+- https://github.com/MonadicT/kube
+
+- https://github.com/jeremievallee/kubernetes-vagrant-ansible
 
 
 ## Docker images
