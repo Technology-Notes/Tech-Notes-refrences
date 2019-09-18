@@ -44,6 +44,9 @@ kop
 ```
 https://github.com/yklin/play_k8s_on_vagrant_with_ansible
 
+
+https://spr.com/4-tools-to-automate-kubernetes-cluster-deployments/
+
 ## Docker images
 
 ## Superset
