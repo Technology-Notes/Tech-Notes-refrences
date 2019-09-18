@@ -14,6 +14,7 @@ https://lentiq.com/assets/docs/Introduction_to_Kubernetes.pdf
 
 ## k8s
 - http://kubernetesbyexample.com/
+- https://github.com/eon01/kubernetes-workshop
 - https://kubernetes.io/blog/2019/07/23/get-started-with-kubernetes-using-python/
 - https://www.oreilly.com/ideas/kubernetes-a-simple-overview
 
