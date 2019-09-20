@@ -20,7 +20,7 @@ https://github.com/vmware/octant
 - https://github.com/eon01/kubernetes-workshop
 - https://kubernetes.io/blog/2019/07/23/get-started-with-kubernetes-using-python/
 - https://www.oreilly.com/ideas/kubernetes-a-simple-overview
-
+- https://chrislovecnm.com/kubernetes/cni/choosing-a-cni-provider/
 ----
 
 ## k8s + vagrant + ansible (for dev)
