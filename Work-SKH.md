@@ -16,7 +16,11 @@ Stacks:
 - logging
 - minitoring
  
+----
+Eval
+- https://github.com/IBM/deploy-ibm-cloud-private/blob/master/docs/deploy-vagrant.md
 
+----
 Refs:
 - https://github.com/rexray/rexray
 - https://github.com/tenortim/k8s_isi_provisioner
