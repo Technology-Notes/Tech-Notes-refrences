@@ -36,7 +36,7 @@ TBD
 ## Refs.
 - A modern analytics distribution for a cloud native world, https://github.com/jayunit100/apachecon-2019-bigtop3x
 - ML infra on cloud
-  - Lyft, https://www.youtube.com/watch?v=FJ2lGfn9gc4
+  - Netflix, https://www.youtube.com/watch?v=FJ2lGfn9gc4
   - Lyft, https://www.youtube.com/watch?v=CbiJ_dYZXnQ
   - Netflix, https://www.slideshare.net/FaisalZakariaSiddiqi/ml-infra-for-netflix-recommendations-ai-nextcon-talk
   
