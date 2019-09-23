@@ -11,7 +11,7 @@ Stacks:
 - Spark / flink for stream data computing
 - Kafka / Pulsar for Messaging
 - Beam for DI
-- serverless(like lambda or functions) for event
+- serverless(like lambda or functions) for event processing
 - metrics
 - logging
 - minitoring
