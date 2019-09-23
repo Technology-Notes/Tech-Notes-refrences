@@ -16,6 +16,7 @@ https://github.com/vmware/octant
 ----
 
 ## k8s
+- https://www.level-up.one/kubernetes-bible-beginners/
 - http://kubernetesbyexample.com/
 - https://github.com/eon01/kubernetes-workshop
 - https://kubernetes.io/blog/2019/07/23/get-started-with-kubernetes-using-python/
