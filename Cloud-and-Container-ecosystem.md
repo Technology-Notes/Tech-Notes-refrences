@@ -12,7 +12,12 @@ https://dantehranian.wordpress.com/2015/03/25/how-should-i-get-application-confi
 https://lentiq.com/assets/docs/Introduction_to_Kubernetes.pdf
 
 
-https://github.com/vmware/octant
+GUI
+- kubesphere
+- https://github.com/vmware/octant
+
+https://www.sugarkube.io/
+
 
 ----
 
