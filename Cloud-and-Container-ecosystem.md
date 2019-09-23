@@ -1,3 +1,4 @@
+https://github.com/operator-framework/awesome-operators 
 https://github.com/schoolofdevops/ultimate-kubernetes-bootcamp
 
 https://github.com/cncf/landscape
