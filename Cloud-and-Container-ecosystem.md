@@ -23,6 +23,10 @@ https://github.com/vmware/octant
 - https://kubernetes.io/blog/2019/07/23/get-started-with-kubernetes-using-python/
 - https://www.oreilly.com/ideas/kubernetes-a-simple-overview
 - https://chrislovecnm.com/kubernetes/cni/choosing-a-cni-provider/
+
+### conf validator / linter
+- https://github.com/instrumenta/kubeval
+- https://github.com/viglesiasce/kube-lint
 ----
 
 ## k8s + vagrant + ansible (for dev)
