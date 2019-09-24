@@ -65,6 +65,8 @@ https://spr.com/4-tools-to-automate-kubernetes-cluster-deployments/
 
 https://github.com/ahmetb/kubectx
 
+https://github.com/kubernetes-sigs/krew/
+
 ## Docker images
 
 ## Superset
