@@ -1,3 +1,7 @@
+https://thenewstack.io/kubernetes-storage-dynamic-volumes-and-the-container-storage-interface
+
+https://thenewstack.io/tutorial-dynamic-provisioning-of-persistent-storage-in-kubernetes-with-minikube/
+
 https://github.com/operator-framework/awesome-operators 
 https://github.com/schoolofdevops/ultimate-kubernetes-bootcamp
 
