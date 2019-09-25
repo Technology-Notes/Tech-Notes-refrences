@@ -19,7 +19,16 @@ Stacks:
 ----
 Eval
 - https://github.com/IBM/deploy-ibm-cloud-private/blob/master/docs/deploy-vagrant.md
+```
+git clone https://github.com/IBM/deploy-ibm-cloud-private.git
+cd deploy-ibm-cloud-private
 
+# vagrant
+vagrant up
+vagrant destroy -f
+
+
+```
 ----
 Refs:
 - https://github.com/rexray/rexray
