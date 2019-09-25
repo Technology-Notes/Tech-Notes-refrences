@@ -4,6 +4,9 @@ https://thenewstack.io/big-data-google-replaces-yarn-with-kubernetes-to-schedule
 - https://github.com/GoogleCloudPlatform/airflow-operator
 - https://github.com/GoogleCloudPlatform/k8s-sqldb-operator
 
+private registry + helm chart repo
+- https://github.com/goharbor/harbor
+
 https://www.awsgeek.com/
 
 k8s storage:
