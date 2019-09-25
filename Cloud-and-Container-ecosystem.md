@@ -1,3 +1,5 @@
+https://thenewstack.io/big-data-google-replaces-yarn-with-kubernetes-to-schedule-apache-spark/
+
 https://www.awsgeek.com/
 
 k8s storage:
