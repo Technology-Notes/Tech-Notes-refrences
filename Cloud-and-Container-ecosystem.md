@@ -1,6 +1,8 @@
 https://thenewstack.io/big-data-google-replaces-yarn-with-kubernetes-to-schedule-apache-spark/
 - https://github.com/GoogleCloudPlatform/flink-on-k8s-operator
 - https://github.com/GoogleCloudPlatform/spark-on-k8s-operator
+- https://github.com/GoogleCloudPlatform/airflow-operator
+- https://github.com/GoogleCloudPlatform/k8s-sqldb-operator
 
 https://www.awsgeek.com/
 
