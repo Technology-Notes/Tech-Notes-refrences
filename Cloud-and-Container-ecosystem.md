@@ -1,5 +1,6 @@
 k8s web ui:
 - https://srcco.de/posts/kubernetes-web-uis-in-2019.html
+- K8Dash, Konstellate, Kubernetator, Kubernetes Dashboard, Kubernetes Operational View, Kubernetes Resource Report, Kubricks, Octant, Weave Scope
 
 https://platform9.com/blog/kubernetes-helm-why-it-matters/
 
