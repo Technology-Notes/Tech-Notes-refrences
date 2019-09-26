@@ -1,3 +1,5 @@
+https://tde.sktelecom.com/wiki/spaces/viewspace.action?key=TEBRDDATA
+
 Type II, 관심분야 R&D 그룹
 
 
