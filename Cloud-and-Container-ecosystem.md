@@ -1,3 +1,6 @@
+k8s web ui:
+- https://srcco.de/posts/kubernetes-web-uis-in-2019.html
+
 https://platform9.com/blog/kubernetes-helm-why-it-matters/
 
 https://thenewstack.io/big-data-google-replaces-yarn-with-kubernetes-to-schedule-apache-spark/
