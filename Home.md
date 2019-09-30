@@ -1,3 +1,10 @@
+```
+-- Ubuntu 18.04, Hash sum mismatch
+sudo rm -rf /var/lib/apt/lists/*
+sudo apt-get update -o Acquire::CompressionTypes::Order::=gz
+sudo apt-get update && sudo apt-get upgrade
+```
+
 Procella: Unifying serving and analytical data at YouTube, https://ai.google/research/pubs/pub48388/
 
 https://www.slideshare.net/AmazonWebServices/big-data-analytics-architectural-patterns-and-best-practices-ant201r1-aws-reinvent-2018
