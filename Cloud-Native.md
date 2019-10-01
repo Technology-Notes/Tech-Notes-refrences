@@ -1,3 +1,5 @@
+https://softwareengineeringdaily.com/2019/01/11/why-is-storage-on-kubernetes-is-so-hard/
+
 k8s web ui:
 - https://srcco.de/posts/kubernetes-web-uis-in-2019.html
 - K8Dash, Konstellate, Kubernetator, Kubernetes Dashboard, Kubernetes Operational View, Kubernetes Resource Report, Kubricks, Octant, Weave Scope
