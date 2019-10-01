@@ -1,3 +1,5 @@
+https://github.com/mhausenblas/stateful-kubernetes
+
 https://softwareengineeringdaily.com/2019/01/11/why-is-storage-on-kubernetes-is-so-hard/
 
 k8s web ui:
