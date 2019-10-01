@@ -53,6 +53,8 @@ https://www.sugarkube.io/
 - https://www.oreilly.com/ideas/kubernetes-a-simple-overview
 - https://chrislovecnm.com/kubernetes/cni/choosing-a-cni-provider/
 
+https://github.com/kubernetes/examples
+
 ### conf validator / linter
 - https://github.com/instrumenta/kubeval
 - https://github.com/viglesiasce/kube-lint
