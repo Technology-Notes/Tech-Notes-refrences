@@ -1,3 +1,6 @@
+k8s storage & SAN
+- https://datamattsson.tumblr.com/post/182297931146/highly-available-stateful-workloads-on-kubernetes
+
 https://github.com/mhausenblas/stateful-kubernetes
 
 https://github.com/openebs/node-disk-manager
