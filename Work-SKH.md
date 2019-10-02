@@ -4,13 +4,15 @@ K8s(IBM), Isilon, ECS
 Reqs -- Data lake, Data Analytics, GPU computing
 
 Stacks:
-- IBM k8s
-- Isilon for PV
-- ECS/minio for object storage
+- IBM ICP(k8s)
+- Isilon for HDFS 
+- Isilon for PV (HDFS)
+- EMC ECS / minio for object storage
 - Presto for ad-hoc querying
 - Spark / flink for stream data computing
 - Kafka / Pulsar for Messaging
 - Beam for DI
+- Nifi / Airflow for Workflow
 - serverless(like lambda or functions) for event processing
 - metrics
 - logging
