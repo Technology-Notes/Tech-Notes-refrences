@@ -10,7 +10,7 @@ Stacks:
 - EMC ECS / minio for object storage
 - Presto for ad-hoc querying
 - Spark / Flink for stream data computing
-- Kafka / Pulsar for Messaging
+- Kafka / Pulsar for streaming data processing
 - Beam for DI
 - Nifi / Airflow for Workflow
 - Serverless(like lambda or functions) for event processing -> Knative or OpenWhisk
