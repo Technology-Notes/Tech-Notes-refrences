@@ -6,14 +6,14 @@ Reqs -- Data lake, Data Analytics, GPU computing
 Stacks:
 - IBM ICP(k8s)
 - Isilon for HDFS 
-- Isilon for PV (HDFS)
+- Isilon for PV (?)
 - EMC ECS / minio for object storage
 - Presto for ad-hoc querying
-- Spark / flink for stream data computing
+- Spark / Flink for stream data computing
 - Kafka / Pulsar for Messaging
 - Beam for DI
 - Nifi / Airflow for Workflow
-- serverless(like lambda or functions) for event processing
+- Serverless(like lambda or functions) for event processing -> Knative or OpenWhisk
 - metrics
 - logging
 - minitoring
