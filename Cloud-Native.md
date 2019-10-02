@@ -1,3 +1,5 @@
+https://rancher.com/blog/2019/2019-03-21-comparing-kubernetes-cni-providers-flannel-calico-canal-and-weave/
+
 https://www.weave.works/blog/kubernetes-faq-configure-storage-for-bare-metal-cluster
 
 k8s storage & SAN
