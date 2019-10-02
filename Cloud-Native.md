@@ -1,3 +1,5 @@
+https://www.weave.works/blog/kubernetes-faq-configure-storage-for-bare-metal-cluster
+
 k8s storage & SAN
 - https://datamattsson.tumblr.com/post/182297931146/highly-available-stateful-workloads-on-kubernetes
 
