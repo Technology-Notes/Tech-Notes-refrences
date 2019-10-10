@@ -1,3 +1,27 @@
+3 nodes k8s cluster (kubespray)
+```
+.....
+```
+
+helm:
+```
+$ curl -LO https://git.io/get_helm.sh
+$ chmod 700 get_helm.sh
+$ ./get_helm.sh
+```
+https://medium.com/@madeeshafernando/error-release-name-failed-namespaces-default-is-forbidden-user-99b3b6cb2720
+
+Rook:
+- TBD
+
+zk:
+https://github.com/helm/charts/tree/master/incubator/zookeeper
+```
+$ helm repo add incubator http://storage.googleapis.com/kubernetes-charts-incubator
+$ helm install --name zookeeper incubator/zookeeper
+```
+----
+
 https://tde.sktelecom.com/wiki/spaces/viewspace.action?key=TEBRDDATA
 
 Type II, 관심분야 R&D 그룹
