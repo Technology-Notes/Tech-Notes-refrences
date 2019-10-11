@@ -17,9 +17,23 @@ kubectl apply -f https://raw.githubusercontent.com/rook/rook/v1.1.2/cluster/exam
 kubectl apply -f https://raw.githubusercontent.com/rook/rook/v1.1.2/cluster/examples/kubernetes/ceph/operator.yaml
 kubectl -n rook-ceph get pod
 ```
-create ceph cluster:
+ceph cluster:
+```
+kubectl apply -f https://raw.githubusercontent.com/rook/rook/v1.1.2/cluster/examples/kubernetes/ceph/cluster.yaml
 ```
 
+storageClass:
+```
+kubectl apply -f https://raw.githubusercontent.com/rook/rook/v1.1.2/cluster/examples/kubernetes/ceph/csi/rbd/storageclass.yaml
+```
+
+PVC:
+```
+kubectl apply -f https://raw.githubusercontent.com/rook/rook/v1.1.2/cluster/examples/kubernetes/ceph/csi/rbd/pvc.yaml
+```
+
+test pod:
+```
 ```
 
 zk:
