@@ -20,6 +20,7 @@ kubectl -n rook-ceph get pod
 ceph cluster:
 ```
 kubectl apply -f https://raw.githubusercontent.com/rook/rook/v1.1.2/cluster/examples/kubernetes/ceph/cluster.yaml
+kubectl get pod -n rook-ceph
 ```
 
 storageClass:
