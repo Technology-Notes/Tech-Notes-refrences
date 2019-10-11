@@ -31,6 +31,8 @@ kubectl apply -f https://raw.githubusercontent.com/rook/rook/v1.1.2/cluster/exam
 PVC:
 ```
 kubectl apply -f https://raw.githubusercontent.com/rook/rook/v1.1.2/cluster/examples/kubernetes/ceph/csi/rbd/pvc.yaml
+
+kubectl delete pvc rbd-pvc
 ```
 
 test pod:
