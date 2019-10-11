@@ -1,13 +1,22 @@
-3 nodes k8s cluster (kubespray)
-```
-.....
-```
-
 prereq:
 ```
 # k8s node
 sudo yum install -y lvm2
 
+```
+
+3-nodes k8s cluster (kubespray)
+```
+# vagrant
+vagrant up
+```
+
+kubectl:
+```
+vagrant ssh k8s-1
+
+sudo cp /etc/kubernetes/admin.conf .kube/config
+sudo chown -R vagrant:vagrant .kube
 ```
 
 helm:
