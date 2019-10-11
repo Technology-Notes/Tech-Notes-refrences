@@ -3,6 +3,12 @@
 .....
 ```
 
+prereq:
+```
+sudo yum install -y lvm2
+
+```
+
 helm:
 ```
 $ curl -LO https://git.io/get_helm.sh
