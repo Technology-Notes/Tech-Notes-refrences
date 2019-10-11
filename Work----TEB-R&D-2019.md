@@ -84,6 +84,7 @@ test pod:
 zk:
 https://github.com/helm/charts/tree/master/incubator/zookeeper
 ```
+vi values.yaml
 $ helm repo add incubator http://storage.googleapis.com/kubernetes-charts-incubator
 $ helm install --name zookeeper incubator/zookeeper
 ```
