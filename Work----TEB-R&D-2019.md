@@ -44,8 +44,11 @@ kubectl apply -f https://raw.githubusercontent.com/rook/rook/v1.1.2/cluster/exam
 
 # production
 kubectl apply -f https://raw.githubusercontent.com/rook/rook/v1.1.2/cluster/examples/kubernetes/ceph/cluster.yaml
+
 kubectl get pod -n rook-ceph
 ```
+https://github.com/rook/rook/issues/2460
+
 ceph toolbox: https://rook.io/docs/rook/v1.1/ceph-toolbox.html
 ```
 kubectl create -f https://raw.githubusercontent.com/rook/rook/v1.1.2/cluster/examples/kubernetes/ceph/toolbox.yaml
