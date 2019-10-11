@@ -22,9 +22,13 @@ ceph cluster:
 kubectl apply -f https://raw.githubusercontent.com/rook/rook/v1.1.2/cluster/examples/kubernetes/ceph/cluster.yaml
 kubectl get pod -n rook-ceph
 ```
-ceph toolbox:
+ceph toolbox: https://rook.io/docs/rook/v1.1/ceph-toolbox.html
 ```
 kubectl create -f https://raw.githubusercontent.com/rook/rook/v1.1.2/cluster/examples/kubernetes/ceph/toolbox.yaml
+kubectl -n rook-ceph get pod -l "app=rook-ceph-tools"
+
+kubectl -n rook-ceph exec -it $(kubectl -n rook-ceph get pod -l "app=rook-ceph-tools" -o jsonpath='{.items[0].metadata.name}') bash
+
 ```
 
 storageClass:
