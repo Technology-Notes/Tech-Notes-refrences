@@ -93,6 +93,12 @@ $ helm install --name zookeeper -f values.yaml incubator/zookeeper
 kubectl get all -l app=zookeeper
 
 ```
+```
+kubectl exec zookeeper-1 -- bin/zkCli.sh create /zk_test my_data
+kubectl exec zookeeper-1 -- bin/zkCli.sh set /zk_test junk
+kubectl exec zookeeper-1 -- bin/zkCli.sh get /zk_test
+```
+
 ----
 
 https://tde.sktelecom.com/wiki/spaces/viewspace.action?key=TEBRDDATA
