@@ -5,6 +5,7 @@
 
 prereq:
 ```
+# k8s node
 sudo yum install -y lvm2
 
 ```
