@@ -24,8 +24,12 @@ helm:
 $ curl -LO https://git.io/get_helm.sh
 $ chmod 700 get_helm.sh
 $ ./get_helm.sh
+
+helm init --history-max 200
 ```
 https://medium.com/@madeeshafernando/error-release-name-failed-namespaces-default-is-forbidden-user-99b3b6cb2720
+
+----
 
 Rook:
 ```
@@ -35,6 +39,10 @@ kubectl -n rook-ceph get pod
 ```
 ceph cluster:
 ```
+# test
+kubectl apply -f https://raw.githubusercontent.com/rook/rook/v1.1.2/cluster/examples/kubernetes/ceph/cluster-test.yaml
+
+# production
 kubectl apply -f https://raw.githubusercontent.com/rook/rook/v1.1.2/cluster/examples/kubernetes/ceph/cluster.yaml
 kubectl get pod -n rook-ceph
 ```
