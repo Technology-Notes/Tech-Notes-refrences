@@ -12,7 +12,15 @@ $ ./get_helm.sh
 https://medium.com/@madeeshafernando/error-release-name-failed-namespaces-default-is-forbidden-user-99b3b6cb2720
 
 Rook:
-- TBD
+```
+kubectl apply -f https://raw.githubusercontent.com/rook/rook/v1.1.2/cluster/examples/kubernetes/ceph/common.yaml
+kubectl apply -f https://raw.githubusercontent.com/rook/rook/v1.1.2/cluster/examples/kubernetes/ceph/operator.yaml
+kubectl -n rook-ceph get pod
+```
+create ceph cluster:
+```
+
+```
 
 zk:
 https://github.com/helm/charts/tree/master/incubator/zookeeper
