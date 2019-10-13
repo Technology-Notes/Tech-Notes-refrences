@@ -26,6 +26,12 @@ $ curl -LO https://git.io/get_helm.sh
 $ chmod 700 get_helm.sh
 $ ./get_helm.sh
 
+kubectl --namespace kube-system create serviceaccount tiller
+kubectl create clusterrolebinding tiller-cluster-rule \
+ --clusterrole=cluster-admin --serviceaccount=kube-system:tiller
+kubectl --namespace kube-system patch deploy tiller-deploy \
+ -p '{"spec":{"template":{"spec":{"serviceAccount":"tiller"}}}}'
+
 helm init --history-max 200
 ```
 https://medium.com/@madeeshafernando/error-release-name-failed-namespaces-default-is-forbidden-user-99b3b6cb2720
