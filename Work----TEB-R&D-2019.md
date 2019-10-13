@@ -92,8 +92,9 @@ kubectl create -f https://raw.githubusercontent.com/rook/rook/v1.1.2/cluster/exa
 kubectl describe pod csirbd-demo-pod
 
 ```
+----
 
-zk:
+zookeeper:
 https://github.com/helm/charts/tree/master/incubator/zookeeper
 ```
 vi values.yaml
