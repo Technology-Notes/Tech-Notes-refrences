@@ -74,9 +74,11 @@ storageClass:
 ```
 kubectl apply -f https://raw.githubusercontent.com/rook/rook/v1.1.2/cluster/examples/kubernetes/ceph/csi/rbd/storageclass.yaml
 kubectl get storageclass
+rook-ceph-block
 ```
+----
 
-PVC:
+test PVC:
 ```
 kubectl apply -f https://raw.githubusercontent.com/rook/rook/v1.1.2/cluster/examples/kubernetes/ceph/csi/rbd/pvc.yaml
 kubectl get pvc
