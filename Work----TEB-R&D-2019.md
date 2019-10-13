@@ -94,6 +94,11 @@ kubectl describe pod csirbd-demo-pod
 ```
 ----
 
+smoke test for ceph-rbd:
+- TBD
+
+----
+
 zookeeper:
 https://github.com/helm/charts/tree/master/incubator/zookeeper
 ```
@@ -103,6 +108,10 @@ $ helm install --name zookeeper -f values.yaml incubator/zookeeper
 kubectl get all -l app=zookeeper
 
 ```
+
+smoke test for zookeepr:
+- TBD
+
 ```
 kubectl exec zookeeper-1 -- bin/zkCli.sh create /zk_test my_data
 kubectl exec zookeeper-1 -- bin/zkCli.sh set /zk_test junk
