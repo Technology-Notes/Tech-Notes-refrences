@@ -22,6 +22,8 @@ vagrant ssh k8s-1
 mkdir -p ~/.kube
 sudo cp /etc/kubernetes/admin.conf .kube/config
 sudo chown -R vagrant:vagrant .kube
+
+kubectl cluster-info
 ```
 
 helm:
