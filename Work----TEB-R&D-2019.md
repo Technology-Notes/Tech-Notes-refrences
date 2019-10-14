@@ -1,7 +1,11 @@
-Prereq:
+Prerequisites:
 ```
-# k8s node
+# https://rook.io/docs/rook/v1.1/k8s-pre-reqs.html
+# Centos
 sudo yum install -y lvm2
+
+# Ubuntu
+sudo apt-get install -y lvm2
 
 ```
 
