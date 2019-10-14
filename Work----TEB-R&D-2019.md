@@ -110,7 +110,7 @@ https://github.com/helm/charts/tree/master/incubator/zookeeper
 ```
 vi values.yaml
 $ helm repo add incubator http://storage.googleapis.com/kubernetes-charts-incubator
-$ helm install --name zookeeper -f values.yaml incubator/zookeeper
+$ helm install --name zookeeper -f zookeeper/values.yaml incubator/zookeeper
 kubectl get all -l app=zookeeper
 
 ```
