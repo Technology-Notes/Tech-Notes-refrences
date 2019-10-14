@@ -46,17 +46,17 @@ https://medium.com/@madeeshafernando/error-release-name-failed-namespaces-defaul
 
 Rook:
 ```
-kubectl apply -f https://raw.githubusercontent.com/rook/rook/v1.1.2/cluster/examples/kubernetes/ceph/common.yaml
-kubectl apply -f https://raw.githubusercontent.com/rook/rook/v1.1.2/cluster/examples/kubernetes/ceph/operator.yaml
+kubectl create -f https://raw.githubusercontent.com/rook/rook/v1.1.2/cluster/examples/kubernetes/ceph/common.yaml
+kubectl create -f https://raw.githubusercontent.com/rook/rook/v1.1.2/cluster/examples/kubernetes/ceph/operator.yaml
 kubectl -n rook-ceph get pod
 ```
 ceph cluster:
 ```
 # test
-kubectl apply -f https://raw.githubusercontent.com/rook/rook/v1.1.2/cluster/examples/kubernetes/ceph/cluster-test.yaml
+kubectl create -f https://raw.githubusercontent.com/rook/rook/v1.1.2/cluster/examples/kubernetes/ceph/cluster-test.yaml
 
 # production
-kubectl apply -f https://raw.githubusercontent.com/rook/rook/v1.1.2/cluster/examples/kubernetes/ceph/cluster.yaml
+kubectl create -f https://raw.githubusercontent.com/rook/rook/v1.1.2/cluster/examples/kubernetes/ceph/cluster.yaml
 
 kubectl get pod -n rook-ceph
 ```
@@ -78,7 +78,7 @@ rados df
 
 storageClass:
 ```
-kubectl apply -f https://raw.githubusercontent.com/rook/rook/v1.1.2/cluster/examples/kubernetes/ceph/csi/rbd/storageclass.yaml
+kubectl create -f https://raw.githubusercontent.com/rook/rook/v1.1.2/cluster/examples/kubernetes/ceph/csi/rbd/storageclass.yaml
 kubectl get storageclass
 rook-ceph-block
 ```
@@ -86,7 +86,7 @@ rook-ceph-block
 
 test PVC:
 ```
-kubectl apply -f https://raw.githubusercontent.com/rook/rook/v1.1.2/cluster/examples/kubernetes/ceph/csi/rbd/pvc.yaml
+kubectl create -f https://raw.githubusercontent.com/rook/rook/v1.1.2/cluster/examples/kubernetes/ceph/csi/rbd/pvc.yaml
 kubectl get pvc
 
 # kubectl delete pvc rbd-pvc
