@@ -119,6 +119,9 @@ smoke test for zookeepr:
 - TBD
 
 ```
+kubectl exec zookeeper-0 -- bin/zkServer.sh status
+
+
 kubectl exec zookeeper-1 -- bin/zkCli.sh create /zk_test my_data
 kubectl exec zookeeper-1 -- bin/zkCli.sh set /zk_test junk
 kubectl exec zookeeper-1 -- bin/zkCli.sh get /zk_test
