@@ -1,3 +1,5 @@
+https://prefetch.net/blog/2019/10/16/the-beginners-guide-to-creating-kubernetes-manifests
+
 https://github.com/kubeapps/kubeapps
 
 PV, PVC & StorageClass, https://www.youtube.com/watch?v=qktFhjJmFhg&feature=share
