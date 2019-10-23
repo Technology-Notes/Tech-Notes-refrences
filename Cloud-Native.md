@@ -3,6 +3,9 @@ Minikube:
 cd $BIGTOP_HOME
 
 minikube start --container-runtime=cri-o
+
+kubectl cluster-info
+
 minikube mount .:/bigtop
 ```
 
