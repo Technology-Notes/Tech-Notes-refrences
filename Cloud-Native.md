@@ -2,7 +2,7 @@ Minikube:
 ```
 cd $BIGTOP_HOME
 
-minikube start --container-runtime=cri-o
+minikube start --cpus 4 --memory 4096 --container-runtime=cri-o 
 
 kubectl cluster-info
 
