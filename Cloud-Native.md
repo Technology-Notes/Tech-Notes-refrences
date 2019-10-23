@@ -1,3 +1,11 @@
+Minikube:
+```
+cd $BIGTOP_HOME
+
+minikube start --container-runtime=cri-o
+minikube mount .:/bigtop
+```
+
 podman, buildah, cri-o
 - https://developers.redhat.com/blog/2019/04/04/build-and-run-buildah-inside-a-podman-container/
 
