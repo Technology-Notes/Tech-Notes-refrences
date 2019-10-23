@@ -7,6 +7,9 @@ minikube start --container-runtime=cri-o
 kubectl cluster-info
 
 minikube mount .:/bigtop
+
+minikube ssh 
+$ ls -als /bigtop
 ```
 
 podman, buildah, cri-o
