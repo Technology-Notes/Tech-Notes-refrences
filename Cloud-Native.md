@@ -1,4 +1,5 @@
 podman, buildah, cri-o
+- https://developers.redhat.com/blog/2019/04/04/build-and-run-buildah-inside-a-podman-container/
 
 https://prefetch.net/blog/2019/10/16/the-beginners-guide-to-creating-kubernetes-manifests
 
