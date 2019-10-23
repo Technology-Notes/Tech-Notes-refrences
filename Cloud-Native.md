@@ -1,3 +1,6 @@
+Prometheus
+- https://blog.stephane-robert.info/post/monitoring-kubernetes-k3s-prometheus-grafana/
+
 Minikube:
 ```
 cd $BIGTOP_HOME
