@@ -1,5 +1,7 @@
 Prometheus
 - https://blog.stephane-robert.info/post/monitoring-kubernetes-k3s-prometheus-grafana/
+- https://grafana.com/docs/installation/docker/#building-a-custom-grafana-image-with-pre-installed-plugins
+
 
 Minikube:
 ```
