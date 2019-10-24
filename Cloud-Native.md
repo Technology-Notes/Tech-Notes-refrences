@@ -1,3 +1,7 @@
+https://github.com/openshift/ansible-service-broker
+https://opensource.com/article/18/2/automated-provisioning-kubernetes
+
+----
 Prometheus
 - https://blog.stephane-robert.info/post/monitoring-kubernetes-k3s-prometheus-grafana/
 - https://grafana.com/docs/installation/docker/#building-a-custom-grafana-image-with-pre-installed-plugins
