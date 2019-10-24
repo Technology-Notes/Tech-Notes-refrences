@@ -1,5 +1,7 @@
-https://github.com/openshift/ansible-service-broker
-https://opensource.com/article/18/2/automated-provisioning-kubernetes
+Automated provisioning in Kubernetes
+- https://github.com/kubernetes-sigs/service-catalog
+- https://github.com/openshift/ansible-service-broker
+- https://opensource.com/article/18/2/automated-provisioning-kubernetes
 
 ----
 Prometheus
