@@ -1,7 +1,7 @@
 Prometheus
 - https://blog.stephane-robert.info/post/monitoring-kubernetes-k3s-prometheus-grafana/
 - https://grafana.com/docs/installation/docker/#building-a-custom-grafana-image-with-pre-installed-plugins
-
+- https://www.digitalocean.com/community/tutorials/how-to-set-up-a-prometheus-grafana-and-alertmanager-monitoring-stack-on-digitalocean-kubernetes
 
 Minikube:
 ```
