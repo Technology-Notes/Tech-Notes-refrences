@@ -1,7 +1,8 @@
-Operator (with Helm):
+Operator (with Helm or Ansible):
 - https://blog.codecentric.de/en/2019/06/kubernetes-operators-helm/
 - https://blog.openshift.com/build-kubernetes-operators-from-helm-charts-in-5-steps/
 - https://blog.openshift.com/make-a-kubernetes-operator-in-15-minutes-with-helm/
+- https://itnext.io/a-practical-kubernetes-operator-using-ansible-an-example-d3a9d3674d5b
 - https://medium.com/@cloudark/kubernetes-operator-faq-e018132c6ea2
 - https://github.com/operator-framework/operator-sdk
 ```
