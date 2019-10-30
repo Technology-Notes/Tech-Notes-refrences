@@ -5,6 +5,7 @@ Operator (with Helm or Ansible):
 - https://blog.openshift.com/build-kubernetes-operators-from-helm-charts-in-5-steps/
 - https://blog.openshift.com/make-a-kubernetes-operator-in-15-minutes-with-helm/
 - https://itnext.io/a-practical-kubernetes-operator-using-ansible-an-example-d3a9d3674d5b
+- https://github.com/operator-framework/operator-sdk/blob/master/doc/user-guide.md
 - https://docs.okd.io/latest/operators/osdk-getting-started.html
 - https://medium.com/@cloudark/kubernetes-operator-faq-e018132c6ea2
 - https://github.com/operator-framework/operator-sdk
