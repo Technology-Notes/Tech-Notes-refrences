@@ -1,3 +1,7 @@
+Operator:
+- https://blog.codecentric.de/en/2019/06/kubernetes-operators-helm/
+
+
 Automated provisioning in Kubernetes
 - https://github.com/kubernetes-sigs/service-catalog
 - https://github.com/openshift/ansible-service-broker
