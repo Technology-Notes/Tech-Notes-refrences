@@ -1,7 +1,20 @@
 Operator:
 - https://blog.codecentric.de/en/2019/06/kubernetes-operators-helm/
+- https://github.com/operator-framework/operator-sdk
+```
+# operator-sdk
+$ brew install operator-sdk
 
+# OLM
+$ kubectl apply -f https://github.com/operator-framework/operator-lifecycle-manager/releases/download/0.12.0/crds.yaml
+$ kubectl apply -f https://github.com/operator-framework/operator-lifecycle-manager/releases/download/0.12.0/olm.yaml
 
+or 
+$ curl -L https://github.com/operator-framework/operator-lifecycle-manager/releases/download/0.12.0/install.sh -o install.sh
+$ chmod +x install.sh
+$ ./install.sh 0.12.0
+
+```
 Automated provisioning in Kubernetes
 - https://github.com/kubernetes-sigs/service-catalog
 - https://github.com/openshift/ansible-service-broker
