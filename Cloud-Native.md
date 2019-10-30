@@ -1,4 +1,5 @@
 Operator (with Helm or Ansible):
+- https://coreos.com/blog/introducing-operator-framework
 - https://blog.codecentric.de/en/2019/06/kubernetes-operators-helm/
 - https://blog.openshift.com/build-kubernetes-operators-from-helm-charts-in-5-steps/
 - https://blog.openshift.com/make-a-kubernetes-operator-in-15-minutes-with-helm/
