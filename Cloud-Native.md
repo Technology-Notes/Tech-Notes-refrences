@@ -1,3 +1,5 @@
+k8s + python, https://srcco.de/posts/kubernetes-and-python.html
+
 Operator (with Helm or Ansible):
 - https://coreos.com/blog/introducing-operator-framework
 - https://github.com/operator-framework/getting-started
