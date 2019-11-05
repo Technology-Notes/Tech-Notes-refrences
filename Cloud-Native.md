@@ -1,3 +1,5 @@
+Storage: https://blog.calsoftinc.com/2019/10/demystifying-persistent-storage-myths-for-stateful-workloads-in-kubernetes.html
+
 https://www.cloudjourney.io/articles/cloudnative/packaging-applications-for-k8s-di/
 
 k8s + python, https://srcco.de/posts/kubernetes-and-python.html
