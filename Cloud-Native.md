@@ -1,6 +1,6 @@
 https://kccnceu19.sched.com/event/MQhi/keynote-debunking-the-myth-kubernetes-storage-is-hard-saad-ali-senior-software-engineer-google
 
-Storage: https://blog.calsoftinc.com/2019/10/demystifying-persistent-storage-myths-for-stateful-workloads-in-kubernetes.html
+Storage: https://blog.calsoftinc.com/2019/10/demystifying-persistent-storage-myths-for-stateful-workloads-in-kubernetes.html https://calsoftinc.com/download/25085/
 
 https://www.cloudjourney.io/articles/cloudnative/packaging-applications-for-k8s-di/
 
