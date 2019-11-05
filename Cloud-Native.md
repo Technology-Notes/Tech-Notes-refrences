@@ -1,3 +1,5 @@
+https://www.cloudjourney.io/articles/cloudnative/packaging-applications-for-k8s-di/
+
 k8s + python, https://srcco.de/posts/kubernetes-and-python.html
 
 Operator (with Helm or Ansible):
