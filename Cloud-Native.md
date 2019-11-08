@@ -1,3 +1,5 @@
+https://blogs.vmware.com/cloudnative/2019/10/22/five-key-decisions-to-make-before-running-kubernetes-in-production/
+
 https://kccnceu19.sched.com/event/MQhi/keynote-debunking-the-myth-kubernetes-storage-is-hard-saad-ali-senior-software-engineer-google
 
 Storage: https://blog.calsoftinc.com/2019/10/demystifying-persistent-storage-myths-for-stateful-workloads-in-kubernetes.html https://calsoftinc.com/download/25085/
