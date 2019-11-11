@@ -1,3 +1,12 @@
+k8s networking:
+- https://medium.com/google-cloud/understanding-kubernetes-networking-pods-7117dd28727
+- https://medium.com/google-cloud/understanding-kubernetes-networking-services-f0cb48e4cc82
+- https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/
+- https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0
+- https://matthewpalmer.net/kubernetes-app-developer/articles/kubernetes-ingress-guide-nginx-example.html
+
+----
+
 https://blogs.vmware.com/cloudnative/2019/10/22/five-key-decisions-to-make-before-running-kubernetes-in-production/
 
 https://kccnceu19.sched.com/event/MQhi/keynote-debunking-the-myth-kubernetes-storage-is-hard-saad-ali-senior-software-engineer-google
