@@ -1,6 +1,7 @@
 Minikube + docker registry:
 - https://minikube.sigs.k8s.io/docs/tasks/docker_registry/
 
+
 k8s networking:
 - https://medium.com/google-cloud/understanding-kubernetes-networking-pods-7117dd28727
 - https://medium.com/google-cloud/understanding-kubernetes-networking-services-f0cb48e4cc82
