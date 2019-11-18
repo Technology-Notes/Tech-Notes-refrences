@@ -1,5 +1,7 @@
 https://github.com/Leverege/kubernetes-book
 
+https://github.com/shubheksha/Kubernetes-Up-and-Running-Notes
+
 https://github.com/dennyzhang/cheatsheet-kubernetes-A4
 
 https://github.com/dennyzhang/kubernetes-yaml-templates
