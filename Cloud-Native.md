@@ -1,3 +1,7 @@
+https://github.com/dennyzhang/cheatsheet-kubernetes-A4
+
+https://github.com/dennyzhang/kubernetes-yaml-templates
+
 Minikube + docker registry:
 - https://minikube.sigs.k8s.io/docs/tasks/docker_registry/
 
