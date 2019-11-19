@@ -25,6 +25,8 @@ https://kccnceu19.sched.com/event/MQhi/keynote-debunking-the-myth-kubernetes-sto
 
 Storage: https://blog.calsoftinc.com/2019/10/demystifying-persistent-storage-myths-for-stateful-workloads-in-kubernetes.html https://calsoftinc.com/download/25085/
 
+https://vitobotta.com/2019/08/06/kubernetes-storage-openebs-rook-longhorn-storageos-robin-portworx/
+
 https://platform9.com/blog/kubernetes-storage-dynamic-volumes-and-the-container-storage-interface/
 
 https://platform9.com/blog/tutorial-dynamic-provisioning-of-persistent-storage-in-kubernetes-with-minikube/
