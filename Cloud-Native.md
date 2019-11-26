@@ -1,3 +1,8 @@
+- https://www.eclipse.org/che/
+- https://developers.redhat.com/products/codeready-workspaces/overview
+
+----
+
 benchmark:
 - https://github.com/leeliu/dbench
 
