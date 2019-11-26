@@ -1,7 +1,7 @@
 Cloud IDE:
 - https://www.eclipse.org/che/
 - https://developers.redhat.com/products/codeready-workspaces/overview
-
+  - https://www.infoq.com/news/2019/02/redhat-codeready-workspaces/
 ----
 
 benchmark:
