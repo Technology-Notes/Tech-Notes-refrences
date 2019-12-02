@@ -1,3 +1,8 @@
+- https://quarkus.io/
+- https://camel.apache.org/projects/camel-k/
+- https://knative.dev/
+
+----
 https://github.com/lyft/flyte
 
 ----
