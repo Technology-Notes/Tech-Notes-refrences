@@ -1,3 +1,6 @@
+azure stack:
+- https://lenovopress.com/lp1177-thinkagile-sx-for-microsoft-azure-stack-sxm4400-sxm6400-gen2
+----
 - https://quarkus.io/
 - https://camel.apache.org/projects/camel-k/
 - https://knative.dev/
