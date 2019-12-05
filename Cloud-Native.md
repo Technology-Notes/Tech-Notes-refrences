@@ -2,6 +2,11 @@ k8s & HCI:
 - https://robin.io/blog/what-is-hyperconverged-kubernetes/
 - https://www.aquasec.com/wiki/display/containers/Containers+and+Hyperconvergence
 
+참고:
+- https://diamanti.com/product/
+- robin.io
+- Azure stack
+
 ----
 azure stack:
 - https://lenovopress.com/lp1177-thinkagile-sx-for-microsoft-azure-stack-sxm4400-sxm6400-gen2
