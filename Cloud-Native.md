@@ -1,3 +1,7 @@
+k8s & HCI:
+- https://robin.io/blog/what-is-hyperconverged-kubernetes/
+
+----
 azure stack:
 - https://lenovopress.com/lp1177-thinkagile-sx-for-microsoft-azure-stack-sxm4400-sxm6400-gen2
 ----
