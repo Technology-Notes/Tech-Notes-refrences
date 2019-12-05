@@ -1,5 +1,6 @@
 k8s & HCI:
 - https://robin.io/blog/what-is-hyperconverged-kubernetes/
+- https://www.aquasec.com/wiki/display/containers/Containers+and+Hyperconvergence
 
 ----
 azure stack:
