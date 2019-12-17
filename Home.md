@@ -25,6 +25,8 @@ https://medium.com/airbnb-engineering/democratizing-data-at-airbnb-852d76c51770
 
 https://eng.uber.com/databook/
 
+- https://github.com/MarquezProject/marquez
+
 - Netflix, metacat 
   - https://github.com/Netflix/metacat
   - https://medium.com/netflix-techblog/metacat-making-big-data-discoverable-and-meaningful-at-netflix-56fb36a53520
