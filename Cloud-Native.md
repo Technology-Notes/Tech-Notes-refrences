@@ -1,3 +1,12 @@
+* Multi & hybrid kubernetes cluster manager
+  - Kubesphere
+  - https://github.com/Mirantis/kqueen
+  - https://github.com/gardener/gardener
+  - https://github.com/gravitational/gravity
+  - https://github.com/rancher/rancher
+  - ... https://ramitsurana.github.io/awesome-kubernetes/#cluster-manager
+
+----
 k8s & HCI:
 - https://robin.io/blog/what-is-hyperconverged-kubernetes/
 - https://www.aquasec.com/wiki/display/containers/Containers+and+Hyperconvergence
