@@ -1,6 +1,7 @@
 k8s offline install:
 - https://ahmermansoor.blogspot.com/2019/04/install-kubernetes-k8s-offline-on-centos-7.html
 - https://stackoverflow.com/questions/40900529/can-we-install-kubernetes-in-a-complete-offline-mode-with-kubeadm
+- https://static.sched.com/hosted_files/kccncosschn19eng/9c/KubeCon_China_2019_Air_Gap_Offline_Managing_Kubernetes_Cluster.pdf
 ----
 
 * Multi & hybrid kubernetes cluster manager
