@@ -1,5 +1,6 @@
 Kubernetes patterns:
 - https://www.redhat.com/cms/managed-files/cm-oreilly-kubernetes-patterns-ebook-f19824-201910-en.pdf
+- https://github.com/k8spatterns/examples
 
 ----
 
