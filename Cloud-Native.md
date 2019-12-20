@@ -3,6 +3,8 @@ k8s offline install:
 - https://stackoverflow.com/questions/40900529/can-we-install-kubernetes-in-a-complete-offline-mode-with-kubeadm
 - https://static.sched.com/hosted_files/kccncosschn19eng/9c/KubeCon_China_2019_Air_Gap_Offline_Managing_Kubernetes_Cluster.pdf
 - https://networkinferno.net/gathering-images-for-an-offline-kubernetes-install
+- https://github.com/ziozzang/k8s-offline-installer
+
 ----
 
 * Multi & hybrid kubernetes cluster manager
