@@ -1,3 +1,8 @@
+Kubernetes patterns:
+- https://www.redhat.com/cms/managed-files/cm-oreilly-kubernetes-patterns-ebook-f19824-201910-en.pdf
+
+----
+
 k8s offline install:
 - https://ahmermansoor.blogspot.com/2019/04/install-kubernetes-k8s-offline-on-centos-7.html
 - https://stackoverflow.com/questions/40900529/can-we-install-kubernetes-in-a-complete-offline-mode-with-kubeadm
