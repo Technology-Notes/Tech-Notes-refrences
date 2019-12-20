@@ -210,6 +210,8 @@ https://www.sugarkube.io/
 - https://www.oreilly.com/ideas/kubernetes-a-simple-overview
 - https://chrislovecnm.com/kubernetes/cni/choosing-a-cni-provider/
 
+https://www.youtube.com/watch?time_continue=48&v=8C_SCDbUJTg&feature=emb_logo
+
 https://github.com/kubernetes/examples
 
 ### conf validator / linter
