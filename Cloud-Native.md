@@ -1,3 +1,6 @@
+https://engineering.linecorp.com/en/blog/monitoring-a-spring-boot-app-in-kubernetes-what-i-learned-from-devoxx-belgium-2019/
+----
+kubectl web ui:
 - https://github.com/fanux/fist/tree/master/terminal
 - https://github.com/webkubectl/webkubectl
 
