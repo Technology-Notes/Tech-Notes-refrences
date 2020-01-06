@@ -1,6 +1,10 @@
+https://github.com/Yolean/confluent-quickstart-kubernetes
+
 https://github.com/strimzi/strimzi-kafka-operator
 
-https://github.com/tchiotludo/kafkahq
+- https://github.com/tchiotludo/kafkahq
+- https://github.com/spotguides/kafka/tree/master/.banzaicloud/charts/kafkahq
+
 ----
 # Apache Kafka
 * https://kafka.apache.org/documentation/
