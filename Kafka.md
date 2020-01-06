@@ -1,3 +1,5 @@
+https://github.com/strimzi/strimzi-kafka-operator
+
 https://github.com/tchiotludo/kafkahq
 ----
 # Apache Kafka
