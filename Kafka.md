@@ -1,5 +1,7 @@
 https://github.com/Yolean/confluent-quickstart-kubernetes
 
+https://hub.helm.sh/charts/incubator/schema-registry
+
 https://github.com/strimzi/strimzi-kafka-operator
 
 - https://github.com/tchiotludo/kafkahq
