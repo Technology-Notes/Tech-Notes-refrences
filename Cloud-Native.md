@@ -1,3 +1,7 @@
+Procella:
+- https://tech.marksblogg.com/youtube-database-procella.html
+- https://research.google/pubs/pub48388/
+
 https://monitoring2.substack.com/p/big-prometheus
 
 https://github.com/Aracki/toolnetes
