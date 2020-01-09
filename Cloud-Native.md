@@ -1,6 +1,7 @@
 Procella:
 - https://tech.marksblogg.com/youtube-database-procella.html
 - https://research.google/pubs/pub48388/
+- https://www.slideshare.net/Hadoop_Summit/procella-a-fast-versatile-sql-query-engine-powering-data-at-youtube
 
 https://monitoring2.substack.com/p/big-prometheus
 
