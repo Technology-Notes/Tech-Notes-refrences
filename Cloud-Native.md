@@ -1,3 +1,7 @@
+Dell k8s ref arch.:
+- https://www.dellemc.com/en-us/collaterals/unauth/technical-guides-support-information/solutions/h17679_redhat_ocp_architecture_guide.pdf
+
+----
 Procella:
 - https://tech.marksblogg.com/youtube-database-procella.html
 - https://research.google/pubs/pub48388/
