@@ -1,6 +1,6 @@
 Dell k8s ref arch.:
 - https://www.dellemc.com/en-us/collaterals/unauth/technical-guides-support-information/solutions/h17679_redhat_ocp_architecture_guide.pdf
-
+- https://medium.com/volterra-io/kubernetes-storage-performance-comparison-9e993cb27271 
 ----
 Procella:
 - https://tech.marksblogg.com/youtube-database-procella.html
