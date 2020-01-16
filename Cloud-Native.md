@@ -1,4 +1,6 @@
-https://github.com/crossplaneio/crossplane
+service catalog:
+- https://github.com/crossplaneio/crossplane
+- https://svc-cat.io/
 
 ----
 
