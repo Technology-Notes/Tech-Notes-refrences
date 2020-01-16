@@ -1,3 +1,7 @@
+Presto on K8s:
+- https://github.com/joshuarobinson/presto-on-k8s
+
+
 k8s, rook-ceph, presto:
 - https://blog.openshift.com/wp-content/uploads/Big-Fast-SQL-with-Presto-on-OpenShift.pdf
 
