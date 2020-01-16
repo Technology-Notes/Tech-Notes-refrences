@@ -1,3 +1,7 @@
+k8s, rook-ceph, presto:
+- https://blog.openshift.com/wp-content/uploads/Big-Fast-SQL-with-Presto-on-OpenShift.pdf
+
+----
 service catalog:
 - https://github.com/crossplaneio/crossplane
 - https://svc-cat.io/
